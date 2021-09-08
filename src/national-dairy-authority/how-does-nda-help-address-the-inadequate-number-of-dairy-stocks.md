@@ -1,4 +1,13 @@
-##### National Dairy Authority
+
+---
+
+title: How does NDA help address the inadequate number of dairy stocks?
+
+tags: ["nda","help","address","inadequate","number","dairy","stocks"]
+
+---
+
+### National Dairy Authority
 
 ## How does NDA help address the inadequate number of dairy stocks?
 

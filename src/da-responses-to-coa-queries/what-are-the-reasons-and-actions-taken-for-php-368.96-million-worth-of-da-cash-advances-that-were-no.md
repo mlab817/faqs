@@ -1,4 +1,13 @@
-##### DA Responses to COA Queries
+
+---
+
+title: What are the reasons and actions taken for PhP 368.96 million worth of DA cash advances that were not liquidated in accordance with regulations per COA’s report?
+
+tags: ["reasons","actions","taken","million","worth","cash","advances","liquidated","accordance","regulations","coa","report"]
+
+---
+
+### DA Responses to COA Queries
 
 ## What are the reasons and actions taken for PhP 368.96 million worth of DA cash advances that were not liquidated in accordance with regulations per COA’s report?
 

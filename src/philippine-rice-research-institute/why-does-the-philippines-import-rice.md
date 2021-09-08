@@ -1,4 +1,13 @@
-##### Philippine Rice Research Institute
+
+---
+
+title: Why does the Philippines import rice?
+
+tags: ["philippines","import","rice"]
+
+---
+
+### Philippine Rice Research Institute
 
 ## Why does the Philippines import rice?
 

@@ -1,4 +1,13 @@
-##### National Food Authority
+
+---
+
+title: What is the NFA’s palay support price at present?
+
+tags: ["nfa","palay","support","price","present"]
+
+---
+
+### National Food Authority
 
 ## What is the NFA’s palay support price at present?
 

@@ -1,4 +1,13 @@
-##### Province-led Agriculture and Fisheries Extension System (PAFES)
+
+---
+
+title: What are the expected outputs of PAFES?
+
+tags: ["expected","outputs","pafes"]
+
+---
+
+### Province-led Agriculture and Fisheries Extension System (PAFES)
 
 ## What are the expected outputs of PAFES?
 

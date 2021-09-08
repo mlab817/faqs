@@ -1,4 +1,13 @@
-##### Bureau of Plant Industry
+
+---
+
+title: What is the latest update in the petition for deregulation for the commercial propagation of Corn NK603?
+
+tags: ["latest","update","petition","deregulation","commercial","propagation","corn","nk"]
+
+---
+
+### Bureau of Plant Industry
 
 ## What is the latest update in the petition for deregulation for the commercial propagation of Corn NK603?
 

@@ -1,4 +1,13 @@
-##### Philippine Crop Insurance Corporation
+
+---
+
+title: How have the clients responded to the services offered by the PCIC?
+
+tags: ["clients","responded","services","offered","pcic"]
+
+---
+
+### Philippine Crop Insurance Corporation
 
 ## How have the clients responded to the services offered by the PCIC?
 

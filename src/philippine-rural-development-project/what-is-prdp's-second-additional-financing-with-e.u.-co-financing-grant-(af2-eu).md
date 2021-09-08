@@ -1,4 +1,13 @@
-##### Philippine Rural Development Project
+
+---
+
+title: What is PRDP’s second additional financing with E.U. Co-Financing Grant (AF2-EU)?
+
+tags: ["prdp","second","additional","financing","eu","cofinancing","grant","afeu"]
+
+---
+
+### Philippine Rural Development Project
 
 ## What is PRDP’s second additional financing with E.U. Co-Financing Grant (AF2-EU)?
 

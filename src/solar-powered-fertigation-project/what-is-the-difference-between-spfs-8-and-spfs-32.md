@@ -1,4 +1,13 @@
-##### Solar-Powered Fertigation Project
+
+---
+
+title: What is the difference between SPFS 8 and SPFS 32?
+
+tags: ["difference","spfs","spfs"]
+
+---
+
+### Solar-Powered Fertigation Project
 
 ## What is the difference between SPFS 8 and SPFS 32?
 

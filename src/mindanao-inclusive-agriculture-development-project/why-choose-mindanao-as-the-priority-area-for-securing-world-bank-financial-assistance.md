@@ -1,4 +1,13 @@
-##### Mindanao Inclusive Agriculture Development Project
+
+---
+
+title: Why choose Mindanao as the priority area for securing World Bank Financial Assistance?
+
+tags: ["choose","mindanao","priority","area","securing","world","bank","financial","assistance"]
+
+---
+
+### Mindanao Inclusive Agriculture Development Project
 
 ## Why choose Mindanao as the priority area for securing World Bank Financial Assistance?
 

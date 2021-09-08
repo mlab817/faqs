@@ -1,4 +1,13 @@
-##### Bureau of Soils and Water Management
+
+---
+
+title: What is the investment/ development cost per SSIP type?
+
+tags: ["investment","development","cost","ssip","type"]
+
+---
+
+### Bureau of Soils and Water Management
 
 ## What is the investment/ development cost per SSIP type?
 

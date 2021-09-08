@@ -1,4 +1,13 @@
-##### National Meat Inspection Service
+
+---
+
+title: the processes or requirements in the application for construction and accreditation of a new meat establishment (e.g. slaughterhouse, cutting plant, etc.)?
+
+tags: ["processes","requirements","application","construction","accreditation","new","meat","establishment","eg","slaughterhouse","cutting","plant","etc"]
+
+---
+
+### National Meat Inspection Service
 
 ## the processes or requirements in the application for construction and accreditation of a new meat establishment (e.g. slaughterhouse, cutting plant, etc.)?
 

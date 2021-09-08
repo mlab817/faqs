@@ -1,4 +1,13 @@
-##### Philippine Rubber Research Institute
+
+---
+
+title: Given the low price of rubber and the effect of the pandemic, how can we increase the income of rubber farmers?
+
+tags: ["given","low","price","rubber","effect","pandemic","increase","income","rubber","farmers"]
+
+---
+
+### Philippine Rubber Research Institute
 
 ## Given the low price of rubber and the effect of the pandemic, how can we increase the income of rubber farmers?
 

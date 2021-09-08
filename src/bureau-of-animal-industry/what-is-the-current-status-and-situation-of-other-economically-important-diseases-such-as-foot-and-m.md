@@ -1,4 +1,13 @@
-##### Bureau of Animal Industry
+
+---
+
+title: What is the current status and situation of other Economically Important Diseases such as Foot-and-Mouth Disease (FMD)?
+
+tags: ["current","status","situation","economically","important","diseases","footandmouth","disease","fmd"]
+
+---
+
+### Bureau of Animal Industry
 
 ## What is the current status and situation of other Economically Important Diseases such as Foot-and-Mouth Disease (FMD)?
 

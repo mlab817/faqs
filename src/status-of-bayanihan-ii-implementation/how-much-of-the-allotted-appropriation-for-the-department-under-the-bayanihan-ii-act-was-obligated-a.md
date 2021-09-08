@@ -1,4 +1,13 @@
-##### Status of Bayanihan II Implementation
+
+---
+
+title: How much of the allotted appropriation for the Department under the Bayanihan II Act was obligated and disbursed?
+
+tags: ["much","allotted","appropriation","department","bayanihan","ii","act","obligated","disbursed"]
+
+---
+
+### Status of Bayanihan II Implementation
 
 ## How much of the allotted appropriation for the Department under the Bayanihan II Act was obligated and disbursed?
 

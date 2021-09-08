@@ -1,4 +1,13 @@
-##### Mandanas Further Devolution
+
+---
+
+title: What are the functional shifts that DA will undertake?
+
+tags: ["functional","shifts","undertake"]
+
+---
+
+### Mandanas Further Devolution
 
 ## What are the functional shifts that DA will undertake?
 

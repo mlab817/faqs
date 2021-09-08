@@ -1,4 +1,13 @@
-##### National Organic Agriculture Program
+
+---
+
+title: What are the strategies to expand the existing Organic Trading Posts (OTPs)?
+
+tags: ["strategies","expand","existing","organic","trading","posts","otps"]
+
+---
+
+### National Organic Agriculture Program
 
 ## What are the strategies to expand the existing Organic Trading Posts (OTPs)?
 

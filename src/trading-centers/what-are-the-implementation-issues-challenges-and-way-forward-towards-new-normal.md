@@ -1,4 +1,13 @@
-##### Trading Centers
+
+---
+
+title: What are the implementation issues, challenges and way forward towards new normal?
+
+tags: ["implementation","issues","challenges","way","forward","towards","new","normal"]
+
+---
+
+### Trading Centers
 
 ## What are the implementation issues, challenges and way forward towards new normal?
 

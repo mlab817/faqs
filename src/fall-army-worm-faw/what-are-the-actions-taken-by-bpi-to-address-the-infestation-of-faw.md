@@ -1,4 +1,13 @@
-##### Fall Army Worm (FAW)
+
+---
+
+title: What are the actions taken by BPI to address the infestation of FAW?
+
+tags: ["actions","taken","bpi","address","infestation","faw"]
+
+---
+
+### Fall Army Worm (FAW)
 
 ## What are the actions taken by BPI to address the infestation of FAW?
 

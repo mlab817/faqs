@@ -1,4 +1,13 @@
-##### Bayanihan Agri-Clusters (BACs)
+
+---
+
+title: What has BACS accomplished so far (key progress as of June 2021)?
+
+tags: ["bacs","accomplished","far","key","progress","june"]
+
+---
+
+### Bayanihan Agri-Clusters (BACs)
 
 ## What has BACS accomplished so far (key progress as of June 2021)?
 

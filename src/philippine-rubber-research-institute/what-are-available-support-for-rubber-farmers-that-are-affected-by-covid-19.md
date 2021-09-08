@@ -1,4 +1,13 @@
-##### Philippine Rubber Research Institute
+
+---
+
+title: What are available support for rubber farmers that are affected by COVID-19?
+
+tags: ["available","support","rubber","farmers","affected","covid"]
+
+---
+
+### Philippine Rubber Research Institute
 
 ## What are available support for rubber farmers that are affected by COVID-19?
 

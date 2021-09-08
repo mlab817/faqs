@@ -1,4 +1,13 @@
-##### National Organic Agriculture Program
+
+---
+
+title: What is Participatory Guarantee System (PGS) and the strategies to promote its adoption?
+
+tags: ["participatory","guarantee","system","pgs","strategies","promote","adoption"]
+
+---
+
+### National Organic Agriculture Program
 
 ## What is Participatory Guarantee System (PGS) and the strategies to promote its adoption?
 

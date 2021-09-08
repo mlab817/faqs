@@ -1,4 +1,13 @@
-##### Mindanao Inclusive Agriculture Development Project
+
+---
+
+title: What will be the implications of Mandanas ruling in the project implementations?
+
+tags: ["implications","mandanas","ruling","project","implementations"]
+
+---
+
+### Mindanao Inclusive Agriculture Development Project
 
 ## What will be the implications of Mandanas ruling in the project implementations?
 

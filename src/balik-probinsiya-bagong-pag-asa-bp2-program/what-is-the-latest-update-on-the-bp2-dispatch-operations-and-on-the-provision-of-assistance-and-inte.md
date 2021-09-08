@@ -1,4 +1,13 @@
-##### BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
+
+---
+
+title: What is the latest update on the BP2 dispatch operations and on the provision of assistance and interventions by DA to the dispatched beneficiaries?
+
+tags: ["latest","update","bp","dispatch","operations","provision","assistance","interventions","dispatched","beneficiaries"]
+
+---
+
+### BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
 
 ## What is the latest update on the BP2 dispatch operations and on the provision of assistance and interventions by DA to the dispatched beneficiaries?
 

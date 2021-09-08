@@ -1,4 +1,13 @@
-##### BIOTECH PROGRAM
+
+---
+
+title: What are the major technologies/products funded under B4RD that are already being used by farmers and for validation or upscaling?
+
+tags: ["major","technologiesproducts","funded","brd","already","used","farmers","validation","upscaling"]
+
+---
+
+### BIOTECH PROGRAM
 
 ## What are the major technologies/products funded under B4RD that are already being used by farmers and for validation or upscaling?
 

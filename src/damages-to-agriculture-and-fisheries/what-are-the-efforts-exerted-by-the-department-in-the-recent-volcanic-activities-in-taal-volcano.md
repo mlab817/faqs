@@ -1,4 +1,13 @@
-##### Damages to Agriculture and Fisheries
+
+---
+
+title: What are the efforts exerted by the Department in the recent volcanic activities in Taal Volcano?
+
+tags: ["efforts","exerted","department","recent","volcanic","activities","taal","volcano"]
+
+---
+
+### Damages to Agriculture and Fisheries
 
 ## What are the efforts exerted by the Department in the recent volcanic activities in Taal Volcano?
 

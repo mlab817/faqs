@@ -1,4 +1,13 @@
-##### Rice Competitiveness Enhancement Fund (RCEF)
+
+---
+
+title: What are the different strategies used to extend RCEF to its beneficiaries?
+
+tags: ["different","strategies","used","extend","rcef","beneficiaries"]
+
+---
+
+### Rice Competitiveness Enhancement Fund (RCEF)
 
 ## What are the different strategies used to extend RCEF to its beneficiaries?
 

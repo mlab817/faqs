@@ -1,4 +1,13 @@
-##### Philippine Center for Postharvest Development and Mechanization
+
+---
+
+title: How is PhilMech addressing climate change and other environmental issues?
+
+tags: ["philmech","addressing","climate","change","environmental","issues"]
+
+---
+
+### Philippine Center for Postharvest Development and Mechanization
 
 ## How is PhilMech addressing climate change and other environmental issues?
 

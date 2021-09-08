@@ -1,4 +1,13 @@
-##### Livelihood Investment Support Program for the Normalization Process
+
+---
+
+title: In what way can Agriculture be connected to the Normalization process?
+
+tags: ["way","agriculture","connected","normalization","process"]
+
+---
+
+### Livelihood Investment Support Program for the Normalization Process
 
 ## In what way can Agriculture be connected to the Normalization process?
 

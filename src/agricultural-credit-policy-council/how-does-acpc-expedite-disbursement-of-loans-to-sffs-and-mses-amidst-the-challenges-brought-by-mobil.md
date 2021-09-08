@@ -1,4 +1,13 @@
-##### Agricultural Credit Policy Council
+
+---
+
+title: How does ACPC expedite disbursement of loans to SFFs and MSEs amidst the challenges brought by mobility restrictions and other safety protocols due to the Covid-19 pandemic?
+
+tags: ["acpc","expedite","disbursement","loans","sffs","mses","amidst","challenges","brought","mobility","restrictions","safety","protocols","covid","pandemic"]
+
+---
+
+### Agricultural Credit Policy Council
 
 ## How does ACPC expedite disbursement of loans to SFFs and MSEs amidst the challenges brought by mobility restrictions and other safety protocols due to the Covid-19 pandemic?
 

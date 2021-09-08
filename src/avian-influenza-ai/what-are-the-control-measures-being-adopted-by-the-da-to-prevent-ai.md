@@ -1,4 +1,13 @@
-##### Avian Influenza (AI)
+
+---
+
+title: What are the control measures being adopted by the DA to prevent AI?
+
+tags: ["control","measures","adopted","prevent","ai"]
+
+---
+
+### Avian Influenza (AI)
 
 ## What are the control measures being adopted by the DA to prevent AI?
 

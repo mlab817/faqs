@@ -1,4 +1,13 @@
-##### National Rice Program
+
+---
+
+title: What is the current status of the Philippine Rice Industry?
+
+tags: ["current","status","philippine","rice","industry"]
+
+---
+
+### National Rice Program
 
 ## What is the current status of the Philippine Rice Industry?
 

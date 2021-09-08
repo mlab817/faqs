@@ -1,4 +1,13 @@
-##### National Dairy Authority
+
+---
+
+title: What interventions did you provide to help farmers cope with the COVID-19 pandemic under the survive, reboot and grow principles?
+
+tags: ["interventions","provide","help","farmers","cope","covid","pandemic","survive","reboot","grow","principles"]
+
+---
+
+### National Dairy Authority
 
 ## What interventions did you provide to help farmers cope with the COVID-19 pandemic under the survive, reboot and grow principles?
 

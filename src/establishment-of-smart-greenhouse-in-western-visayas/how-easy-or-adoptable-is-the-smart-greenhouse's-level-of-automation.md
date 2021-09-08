@@ -1,4 +1,13 @@
-##### Establishment of Smart Greenhouse in Western Visayas
+
+---
+
+title: How easy or adoptable is the Smart Greenhouse’s level of automation?
+
+tags: ["easy","adoptable","smart","greenhouse","level","automation"]
+
+---
+
+### Establishment of Smart Greenhouse in Western Visayas
 
 ## How easy or adoptable is the Smart Greenhouse’s level of automation?
 

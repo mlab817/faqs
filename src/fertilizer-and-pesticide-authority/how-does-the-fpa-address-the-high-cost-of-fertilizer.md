@@ -1,4 +1,13 @@
-##### Fertilizer and Pesticide Authority
+
+---
+
+title: How does the FPA address the high cost of fertilizer?
+
+tags: ["fpa","address","high","cost","fertilizer"]
+
+---
+
+### Fertilizer and Pesticide Authority
 
 ## How does the FPA address the high cost of fertilizer?
 

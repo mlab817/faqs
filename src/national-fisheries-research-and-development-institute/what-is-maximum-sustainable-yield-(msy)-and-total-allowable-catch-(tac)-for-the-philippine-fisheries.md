@@ -1,4 +1,13 @@
-##### National Fisheries Research and Development Institute
+
+---
+
+title: What is Maximum Sustainable Yield (MSY) and Total Allowable Catch (TAC) for the Philippine Fisheries?
+
+tags: ["maximum","sustainable","yield","msy","total","allowable","catch","tac","philippine","fisheries"]
+
+---
+
+### National Fisheries Research and Development Institute
 
 ## What is Maximum Sustainable Yield (MSY) and Total Allowable Catch (TAC) for the Philippine Fisheries?
 

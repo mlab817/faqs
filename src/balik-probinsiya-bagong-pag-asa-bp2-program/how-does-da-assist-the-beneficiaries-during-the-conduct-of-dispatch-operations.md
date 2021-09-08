@@ -1,4 +1,13 @@
-##### BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
+
+---
+
+title: How does DA assist the beneficiaries during the conduct of dispatch operations?
+
+tags: ["assist","beneficiaries","conduct","dispatch","operations"]
+
+---
+
+### BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
 
 ## How does DA assist the beneficiaries during the conduct of dispatch operations?
 

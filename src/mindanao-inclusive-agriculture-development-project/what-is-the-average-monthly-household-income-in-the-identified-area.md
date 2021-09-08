@@ -1,4 +1,13 @@
-##### Mindanao Inclusive Agriculture Development Project
+
+---
+
+title: What is the average monthly household income in the identified area?
+
+tags: ["average","monthly","household","income","identified","area"]
+
+---
+
+### Mindanao Inclusive Agriculture Development Project
 
 ## What is the average monthly household income in the identified area?
 

@@ -1,4 +1,13 @@
-##### Increase in prices of various agricultural and fisheries goods
+
+---
+
+title: What are the reasons for the increasing prices of vegetables, especially in the National Capital Region (NCR) areas?
+
+tags: ["reasons","increasing","prices","vegetables","especially","national","capital","region","ncr","areas"]
+
+---
+
+### Increase in prices of various agricultural and fisheries goods
 
 ## What are the reasons for the increasing prices of vegetables, especially in the National Capital Region (NCR) areas?
 

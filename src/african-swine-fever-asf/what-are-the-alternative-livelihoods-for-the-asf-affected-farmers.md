@@ -1,4 +1,13 @@
-##### African Swine Fever (ASF)
+
+---
+
+title: What are the alternative livelihoods for the ASF-affected farmers?
+
+tags: ["alternative","livelihoods","asfaffected","farmers"]
+
+---
+git a
+### African Swine Fever (ASF)
 
 ## What are the alternative livelihoods for the ASF-affected farmers?
 

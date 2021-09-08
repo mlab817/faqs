@@ -1,4 +1,13 @@
-##### PHILSCAT-Technical Cooperation Program III
+
+---
+
+title: How does PhilSCAT differ from PhilMech?
+
+tags: ["philscat","differ","philmech"]
+
+---
+
+### PHILSCAT-Technical Cooperation Program III
 
 ## How does PhilSCAT differ from PhilMech?
 

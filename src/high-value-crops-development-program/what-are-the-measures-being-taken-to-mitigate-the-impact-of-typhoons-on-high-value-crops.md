@@ -1,4 +1,13 @@
-##### High Value Crops Development Program
+
+---
+
+title: What are the measures being taken to mitigate the impact of typhoons on high value crops?
+
+tags: ["measures","taken","mitigate","impact","typhoons","high","value","crops"]
+
+---
+
+### High Value Crops Development Program
 
 ## What are the measures being taken to mitigate the impact of typhoons on high value crops?
 

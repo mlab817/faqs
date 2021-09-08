@@ -1,4 +1,13 @@
-##### Bureau of Soils and Water Management
+
+---
+
+title: Why are solar powered pumps so expensive? What would be the break-even/ payback period?
+
+tags: ["solar","powered","pumps","expensive","would","breakeven","payback","period"]
+
+---
+
+### Bureau of Soils and Water Management
 
 ## Why are solar powered pumps so expensive? What would be the break-even/ payback period?
 

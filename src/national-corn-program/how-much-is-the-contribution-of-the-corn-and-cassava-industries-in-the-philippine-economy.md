@@ -1,4 +1,13 @@
-##### National Corn Program
+
+---
+
+title: How much is the contribution of the corn and cassava industries in the Philippine economy?
+
+tags: ["much","contribution","corn","cassava","industries","philippine","economy"]
+
+---
+
+### National Corn Program
 
 ## How much is the contribution of the corn and cassava industries in the Philippine economy?
 

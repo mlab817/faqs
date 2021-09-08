@@ -1,4 +1,13 @@
-##### Cascading Community Rainwater Catchment Project
+
+---
+
+title: Why did the project chose three (3) river basins only? How about the others? How were the project areas selected?
+
+tags: ["project","chose","three","river","basins","others","project","areas","selected"]
+
+---
+
+### Cascading Community Rainwater Catchment Project
 
 ## Why did the project chose three (3) river basins only? How about the others? How were the project areas selected?
 

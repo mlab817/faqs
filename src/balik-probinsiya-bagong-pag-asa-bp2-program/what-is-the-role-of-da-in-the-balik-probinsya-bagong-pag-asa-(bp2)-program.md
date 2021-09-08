@@ -1,4 +1,13 @@
-##### BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
+
+---
+
+title: What is the role of DA in the Balik-Probinsya, Bagong Pag-asa (BP2) Program?
+
+tags: ["role","balikprobinsya","bagong","pagasa","bp","program"]
+
+---
+
+### BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
 
 ## What is the role of DA in the Balik-Probinsya, Bagong Pag-asa (BP2) Program?
 

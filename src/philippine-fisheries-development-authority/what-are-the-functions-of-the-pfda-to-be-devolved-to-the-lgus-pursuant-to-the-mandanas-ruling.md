@@ -1,4 +1,13 @@
-##### Philippine Fisheries Development Authority
+
+---
+
+title: What are the functions of the PFDA to be devolved to the LGUs pursuant to the Mandanas Ruling?
+
+tags: ["functions","pfda","devolved","lgus","pursuant","mandanas","ruling"]
+
+---
+
+### Philippine Fisheries Development Authority
 
 ## What are the functions of the PFDA to be devolved to the LGUs pursuant to the Mandanas Ruling?
 

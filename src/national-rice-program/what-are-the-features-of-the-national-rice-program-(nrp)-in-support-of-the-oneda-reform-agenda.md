@@ -1,4 +1,13 @@
-##### National Rice Program
+
+---
+
+title: What are the features of the National Rice Program (NRP) in support of the OneDA Reform Agenda?
+
+tags: ["features","national","rice","program","nrp","support","oneda","reform","agenda"]
+
+---
+
+### National Rice Program
 
 ## What are the features of the National Rice Program (NRP) in support of the OneDA Reform Agenda?
 

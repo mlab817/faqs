@@ -1,4 +1,13 @@
-##### DA Special Concerns
+
+---
+
+title: What activities are organized for Senior Citizens and PWDs?
+
+tags: ["activities","organized","senior","citizens","pwds"]
+
+---
+
+### DA Special Concerns
 
 ## What activities are organized for Senior Citizens and PWDs?
 

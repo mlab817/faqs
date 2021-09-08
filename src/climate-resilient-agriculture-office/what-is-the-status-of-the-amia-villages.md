@@ -1,4 +1,13 @@
-##### Climate Resilient Agriculture Office
+
+---
+
+title: What is the status of the AMIA Villages?
+
+tags: ["status","amia","villages"]
+
+---
+
+### Climate Resilient Agriculture Office
 
 ## What is the status of the AMIA Villages?
 

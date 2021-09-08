@@ -1,4 +1,13 @@
-##### Philippine Fiber Industry Development Authority
+
+---
+
+title: Why PhilFIDA facilities are producing limited number of abaca planting materials?
+
+tags: ["philfida","facilities","producing","limited","number","abaca","planting","materials"]
+
+---
+
+### Philippine Fiber Industry Development Authority
 
 ## Why PhilFIDA facilities are producing limited number of abaca planting materials?
 

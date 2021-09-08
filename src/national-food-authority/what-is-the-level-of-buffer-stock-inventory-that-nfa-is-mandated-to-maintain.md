@@ -1,4 +1,13 @@
-##### National Food Authority
+
+---
+
+title: What is the level of buffer stock inventory that NFA is mandated to maintain?
+
+tags: ["level","buffer","stock","inventory","nfa","mandated","maintain"]
+
+---
+
+### National Food Authority
 
 ## What is the level of buffer stock inventory that NFA is mandated to maintain?
 

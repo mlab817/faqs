@@ -1,4 +1,13 @@
-##### SOCSKSARGEN Area Development Project
+
+---
+
+title: What is contribution of the Area Development Program Office (ADPO) to capacity-building of farmers, fishers, MSMEs and LGU extension personnel?
+
+tags: ["contribution","area","development","program","office","adpo","capacitybuilding","farmers","fishers","msmes","lgu","extension","personnel"]
+
+---
+
+### SOCSKSARGEN Area Development Project
 
 ## What is contribution of the Area Development Program Office (ADPO) to capacity-building of farmers, fishers, MSMEs and LGU extension personnel?
 

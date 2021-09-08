@@ -1,4 +1,13 @@
-##### Philippine Carabao Center
+
+---
+
+title: How can Sagip Saka be used for procurement of Milk?
+
+tags: ["sagip","saka","used","procurement","milk"]
+
+---
+
+### Philippine Carabao Center
 
 ## How can Sagip Saka be used for procurement of Milk?
 

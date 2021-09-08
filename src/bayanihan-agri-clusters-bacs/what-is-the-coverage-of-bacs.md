@@ -1,4 +1,13 @@
-##### Bayanihan Agri-Clusters (BACs)
+
+---
+
+title: What is the coverage of BACs?
+
+tags: ["coverage","bacs"]
+
+---
+
+### Bayanihan Agri-Clusters (BACs)
 
 ## What is the coverage of BACs?
 

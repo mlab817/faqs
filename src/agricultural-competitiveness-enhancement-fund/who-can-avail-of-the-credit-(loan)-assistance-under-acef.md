@@ -1,4 +1,13 @@
-##### Agricultural Competitiveness Enhancement Fund
+
+---
+
+title: Who can avail of the Credit (Loan) Assistance under ACEF?
+
+tags: ["avail","credit","loan","assistance","acef"]
+
+---
+
+### Agricultural Competitiveness Enhancement Fund
 
 ## Who can avail of the Credit (Loan) Assistance under ACEF?
 

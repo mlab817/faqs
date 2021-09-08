@@ -1,4 +1,13 @@
-##### Province-led Agriculture and Fisheries Extension System (PAFES)
+
+---
+
+title: What is PAFES?
+
+tags: ["pafes"]
+
+---
+
+### Province-led Agriculture and Fisheries Extension System (PAFES)
 
 ## What is PAFES?
 

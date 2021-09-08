@@ -1,4 +1,13 @@
-##### Mandanas Further Devolution
+
+---
+
+title: What are the functions of the DA that need to be devolved further?
+
+tags: ["functions","need","devolved"]
+
+---
+
+### Mandanas Further Devolution
 
 ## What are the functions of the DA that need to be devolved further?
 

@@ -1,4 +1,13 @@
-##### Bureau of Agriculture and Fisheries Standards
+
+---
+
+title: What is the contribution of the DA-BAFS in the implementation of the Food Safety Act?
+
+tags: ["contribution","dabafs","implementation","food","safety","act"]
+
+---
+
+### Bureau of Agriculture and Fisheries Standards
 
 ## What is the contribution of the DA-BAFS in the implementation of the Food Safety Act?
 

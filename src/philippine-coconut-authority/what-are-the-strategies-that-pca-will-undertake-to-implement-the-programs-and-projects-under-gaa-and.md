@@ -1,4 +1,13 @@
-##### Philippine Coconut Authority
+
+---
+
+title: What are the strategies that PCA will undertake to implement the Programs and Projects under GAA and RA 11524?
+
+tags: ["strategies","pca","undertake","implement","programs","projects","gaa","ra"]
+
+---
+
+### Philippine Coconut Authority
 
 ## What are the strategies that PCA will undertake to implement the Programs and Projects under GAA and RA 11524?
 

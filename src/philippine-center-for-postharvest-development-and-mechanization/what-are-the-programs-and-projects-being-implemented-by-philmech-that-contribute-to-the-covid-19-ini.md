@@ -1,4 +1,13 @@
-##### Philippine Center for Postharvest Development and Mechanization
+
+---
+
+title: What are the programs and projects being implemented by PhilMech that contribute to the COVID-19 initiatives of the department?
+
+tags: ["programs","projects","implemented","philmech","contribute","covid","initiatives","department"]
+
+---
+
+### Philippine Center for Postharvest Development and Mechanization
 
 ## What are the programs and projects being implemented by PhilMech that contribute to the COVID-19 initiatives of the department?
 

@@ -1,4 +1,13 @@
-##### National Meat Inspection Service
+
+---
+
+title: What actions are being undertaken to stop the selling of “double-dead meat” or “bocha” in the public market?
+
+tags: ["actions","undertaken","stop","selling","doubledead","meat","bocha","public","market"]
+
+---
+
+### National Meat Inspection Service
 
 ## What actions are being undertaken to stop the selling of “double-dead meat” or “bocha” in the public market?
 

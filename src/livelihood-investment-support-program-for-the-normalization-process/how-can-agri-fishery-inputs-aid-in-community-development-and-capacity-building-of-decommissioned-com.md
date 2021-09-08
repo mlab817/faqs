@@ -1,4 +1,13 @@
-##### Livelihood Investment Support Program for the Normalization Process
+
+---
+
+title: How can agri-fishery inputs aid in community development and capacity building of decommissioned combatants?
+
+tags: ["agrifishery","inputs","aid","community","development","capacity","building","decommissioned","combatants"]
+
+---
+
+### Livelihood Investment Support Program for the Normalization Process
 
 ## How can agri-fishery inputs aid in community development and capacity building of decommissioned combatants?
 

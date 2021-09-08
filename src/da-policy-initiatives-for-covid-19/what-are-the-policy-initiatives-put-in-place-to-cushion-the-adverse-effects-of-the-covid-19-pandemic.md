@@ -1,4 +1,13 @@
-##### DA Policy Initiatives for Covid-19
+
+---
+
+title: What are the policy initiatives put in place to cushion the adverse effects of the Covid-19 pandemic including the rising prices of basic food commodities?
+
+tags: ["policy","initiatives","put","place","cushion","adverse","effects","covid","pandemic","including","rising","prices","basic","food","commodities"]
+
+---
+
+### DA Policy Initiatives for Covid-19
 
 ## What are the policy initiatives put in place to cushion the adverse effects of the Covid-19 pandemic including the rising prices of basic food commodities?
 

@@ -1,4 +1,13 @@
-##### High Value Crops Development Program
+
+---
+
+title: What is the supply-demand outlook for pork and chicken in the remaining months of the year?
+
+tags: ["supplydemand","outlook","pork","chicken","remaining","months","year"]
+
+---
+
+### High Value Crops Development Program
 
 ## What is the supply-demand outlook for pork and chicken in the remaining months of the year?
 

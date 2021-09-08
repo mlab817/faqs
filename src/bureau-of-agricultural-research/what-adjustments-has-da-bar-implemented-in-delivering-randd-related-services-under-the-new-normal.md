@@ -1,4 +1,13 @@
-##### Bureau of Agricultural Research
+
+---
+
+title: What adjustments has DA-BAR implemented in delivering R&D-related services under the New Normal?
+
+tags: ["adjustments","dabar","implemented","delivering","r","drelated","services","new","normal"]
+
+---
+
+### Bureau of Agricultural Research
 
 ## What adjustments has DA-BAR implemented in delivering R&D-related services under the New Normal?
 

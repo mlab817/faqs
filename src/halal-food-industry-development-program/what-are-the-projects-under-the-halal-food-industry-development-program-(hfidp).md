@@ -1,4 +1,13 @@
-##### Halal Food Industry Development Program
+
+---
+
+title: What are the projects under the Halal Food Industry Development Program (HFIDP)?
+
+tags: ["projects","halal","food","industry","development","program","hfidp"]
+
+---
+
+### Halal Food Industry Development Program
 
 ## What are the projects under the Halal Food Industry Development Program (HFIDP)?
 

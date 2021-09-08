@@ -1,4 +1,13 @@
-##### Agricultural Competitiveness Enhancement Fund
+
+---
+
+title: What will happen to the remaining ACEF Fund after 2022 when the collection of duties from the Minimum Access Volume (MAV) mechanism and the setting aside of the amount collected for the purpose shall terminate?
+
+tags: ["happen","remaining","acef","fund","collection","duties","minimum","access","volume","mav","mechanism","setting","aside","amount","collected","purpose","shall","terminate"]
+
+---
+
+### Agricultural Competitiveness Enhancement Fund
 
 ## What will happen to the remaining ACEF Fund after 2022 when the collection of duties from the Minimum Access Volume (MAV) mechanism and the setting aside of the amount collected for the purpose shall terminate?
 

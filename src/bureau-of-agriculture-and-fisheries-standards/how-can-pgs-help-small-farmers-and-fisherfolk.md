@@ -1,4 +1,13 @@
-##### Bureau of Agriculture and Fisheries Standards
+
+---
+
+title: How can PGS help small farmers and fisherfolk?
+
+tags: ["pgs","help","small","farmers","fisherfolk"]
+
+---
+
+### Bureau of Agriculture and Fisheries Standards
 
 ## How can PGS help small farmers and fisherfolk?
 

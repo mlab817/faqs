@@ -1,4 +1,13 @@
-##### Agricultural Credit Policy Council
+
+---
+
+title: What is the status of the PhP 2.5 billion credit funds provided under Bayanihan II?
+
+tags: ["status","billion","credit","funds","provided","bayanihan","ii"]
+
+---
+
+### Agricultural Credit Policy Council
 
 ## What is the status of the PhP 2.5 billion credit funds provided under Bayanihan II?
 

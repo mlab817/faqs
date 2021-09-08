@@ -1,4 +1,13 @@
-##### Investment Promotions
+
+---
+
+title: What are the priority investment projects of the Department that are being pushed for promotion?
+
+tags: ["priority","investment","projects","department","pushed","promotion"]
+
+---
+
+### Investment Promotions
 
 ## What are the priority investment projects of the Department that are being pushed for promotion?
 

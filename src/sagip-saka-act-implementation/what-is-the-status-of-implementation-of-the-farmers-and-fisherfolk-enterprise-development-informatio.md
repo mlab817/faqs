@@ -1,4 +1,13 @@
-##### Sagip Saka Act Implementation
+
+---
+
+title: What is the status of implementation of the Farmers and Fisherfolk Enterprise Development Information System (FFEDIS)?
+
+tags: ["status","implementation","farmers","fisherfolk","enterprise","development","information","system","ffedis"]
+
+---
+
+### Sagip Saka Act Implementation
 
 ## What is the status of implementation of the Farmers and Fisherfolk Enterprise Development Information System (FFEDIS)?
 

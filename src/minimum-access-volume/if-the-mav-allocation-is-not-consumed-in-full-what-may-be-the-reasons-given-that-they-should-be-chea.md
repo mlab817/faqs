@@ -1,4 +1,13 @@
-##### Minimum Access Volume
+
+---
+
+title: If the MAV allocation is not consumed in full, what may be the reasons given that they should be cheaper than the regular importation?
+
+tags: ["mav","allocation","consumed","full","may","reasons","given","cheaper","regular","importation"]
+
+---
+
+### Minimum Access Volume
 
 ## If the MAV allocation is not consumed in full, what may be the reasons given that they should be cheaper than the regular importation?
 

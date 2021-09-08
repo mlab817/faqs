@@ -1,4 +1,13 @@
-##### Cascading Community Rainwater Catchment Project
+
+---
+
+title: What is the effect of Mandanas-Garcia Ruling in this project?
+
+tags: ["effect","mandanasgarcia","ruling","project"]
+
+---
+
+### Cascading Community Rainwater Catchment Project
 
 ## What is the effect of Mandanas-Garcia Ruling in this project?
 

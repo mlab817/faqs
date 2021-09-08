@@ -1,4 +1,13 @@
-##### Philippine Fisheries Development Authority
+
+---
+
+title: What type of assistance does the PFDA provide to the fishing industry?
+
+tags: ["type","assistance","pfda","provide","fishing","industry"]
+
+---
+
+### Philippine Fisheries Development Authority
 
 ## What type of assistance does the PFDA provide to the fishing industry?
 

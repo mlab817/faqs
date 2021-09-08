@@ -1,4 +1,13 @@
-##### SOCSKSARGEN Area Development Project
+
+---
+
+title: How is the coordinative function of the Area Development Program Office (ADPO) beneficial to agro-industrial development of SOCCSKSARGEN?
+
+tags: ["coordinative","function","area","development","program","office","adpo","beneficial","agroindustrial","development","soccsksargen"]
+
+---
+
+### SOCSKSARGEN Area Development Project
 
 ## How is the coordinative function of the Area Development Program Office (ADPO) beneficial to agro-industrial development of SOCCSKSARGEN?
 

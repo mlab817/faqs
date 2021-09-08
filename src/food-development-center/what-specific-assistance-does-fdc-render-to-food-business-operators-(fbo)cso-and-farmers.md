@@ -1,4 +1,13 @@
-##### Food Development Center
+
+---
+
+title: What specific assistance does FDC render to Food Business Operators (FBO)/CSO and farmers?
+
+tags: ["specific","assistance","fdc","render","food","business","operators","fbo","cso","farmers"]
+
+---
+
+### Food Development Center
 
 ## What specific assistance does FDC render to Food Business Operators (FBO)/CSO and farmers?
 

@@ -1,4 +1,13 @@
-##### Philippine Center for Postharvest Development and Mechanization
+
+---
+
+title: In what ways will PhiMech attain its commitment in Philippine Development Plan 2017-2022?
+
+tags: ["ways","phimech","attain","commitment","philippine","development","plan"]
+
+---
+
+### Philippine Center for Postharvest Development and Mechanization
 
 ## In what ways will PhiMech attain its commitment in Philippine Development Plan 2017-2022?
 

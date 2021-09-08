@@ -1,4 +1,13 @@
-##### Philippine Fiber Industry Development Authority
+
+---
+
+title: Does PhilFIDA give free abaca planting materials to LGU/Farmer’s Groups/Cooperatives?
+
+tags: ["philfida","give","free","abaca","planting","materials","lgufarmer","groupscooperatives"]
+
+---
+
+### Philippine Fiber Industry Development Authority
 
 ## Does PhilFIDA give free abaca planting materials to LGU/Farmer’s Groups/Cooperatives?
 

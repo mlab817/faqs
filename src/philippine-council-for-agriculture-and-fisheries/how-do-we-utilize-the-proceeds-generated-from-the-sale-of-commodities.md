@@ -1,4 +1,13 @@
-##### Philippine Council for Agriculture and Fisheries
+
+---
+
+title: How do we utilize the proceeds generated from the sale of commodities?
+
+tags: ["utilize","proceeds","generated","sale","commodities"]
+
+---
+
+### Philippine Council for Agriculture and Fisheries
 
 ## How do we utilize the proceeds generated from the sale of commodities?
 

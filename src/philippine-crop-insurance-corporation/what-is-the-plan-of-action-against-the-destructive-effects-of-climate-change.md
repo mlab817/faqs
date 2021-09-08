@@ -1,4 +1,13 @@
-##### Philippine Crop Insurance Corporation
+
+---
+
+title: What is the plan of action against the destructive effects of climate change?
+
+tags: ["plan","action","destructive","effects","climate","change"]
+
+---
+
+### Philippine Crop Insurance Corporation
 
 ## What is the plan of action against the destructive effects of climate change?
 

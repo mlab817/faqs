@@ -1,4 +1,13 @@
-##### African Swine Fever (ASF)
+
+---
+
+title: What is the current status of African Swine Fever (ASF) in the Philippines?
+
+tags: ["current","status","african","swine","fever","asf","philippines"]
+
+---
+
+### African Swine Fever (ASF)
 
 ## What is the current status of African Swine Fever (ASF) in the Philippines?
 

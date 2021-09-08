@@ -1,4 +1,13 @@
-##### Special Area for Agricultural Development
+
+---
+
+title: What are the bases of the program in measuring project effects/impacts in its covered areas?
+
+tags: ["bases","program","measuring","project","effectsimpacts","covered","areas"]
+
+---
+
+### Special Area for Agricultural Development
 
 ## What are the bases of the program in measuring project effects/impacts in its covered areas?
 

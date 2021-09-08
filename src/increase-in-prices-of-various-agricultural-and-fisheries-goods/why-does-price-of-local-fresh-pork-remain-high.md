@@ -1,4 +1,13 @@
-##### Increase in prices of various agricultural and fisheries goods
+
+---
+
+title: Why does price of local fresh pork remain high?
+
+tags: ["price","local","fresh","pork","remain","high"]
+
+---
+
+### Increase in prices of various agricultural and fisheries goods
 
 ## Why does price of local fresh pork remain high?
 

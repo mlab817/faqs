@@ -1,4 +1,13 @@
-##### Rice Competitiveness Enhancement Fund (RCEF)
+
+---
+
+title: What are the strategies to ensure there is no duplication of beneficiaries of the RCEF Seed Program getting the same interventions from the National Rice Program (NRP)?
+
+tags: ["strategies","ensure","duplication","beneficiaries","rcef","seed","program","getting","interventions","national","rice","program","nrp"]
+
+---
+
+### Rice Competitiveness Enhancement Fund (RCEF)
 
 ## What are the strategies to ensure there is no duplication of beneficiaries of the RCEF Seed Program getting the same interventions from the National Rice Program (NRP)?
 

@@ -1,4 +1,13 @@
-##### Bureau of Agricultural Research
+
+---
+
+title: How does DA-BAR address the issue of research duplication with PCAARRD?
+
+tags: ["dabar","address","issue","research","duplication","pcaarrd"]
+
+---
+
+### Bureau of Agricultural Research
 
 ## How does DA-BAR address the issue of research duplication with PCAARRD?
 

@@ -1,4 +1,13 @@
-##### Climate Resilient Agriculture Office
+
+---
+
+title: How does the DA provide early warning to farming and fishing communities to mitigate losses from incoming extreme events?
+
+tags: ["provide","early","warning","farming","fishing","communities","mitigate","losses","incoming","extreme","events"]
+
+---
+
+### Climate Resilient Agriculture Office
 
 ## How does the DA provide early warning to farming and fishing communities to mitigate losses from incoming extreme events?
 

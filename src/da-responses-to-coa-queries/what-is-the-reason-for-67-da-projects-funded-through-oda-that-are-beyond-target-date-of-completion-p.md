@@ -1,4 +1,13 @@
-##### DA Responses to COA Queries
+
+---
+
+title: What is the reason for 67 DA Projects funded through ODA that are beyond target date of completion per COA’s report?
+
+tags: ["reason","projects","funded","oda","beyond","target","date","completion","coa","report"]
+
+---
+
+### DA Responses to COA Queries
 
 ## What is the reason for 67 DA Projects funded through ODA that are beyond target date of completion per COA’s report?
 

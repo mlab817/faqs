@@ -1,4 +1,13 @@
-##### Philippine Council for Agriculture and Fisheries
+
+---
+
+title: What are the measures/strategies implemented by PCAF given the restrictions caused by Covid 19 pandemic?
+
+tags: ["measuresstrategies","implemented","pcaf","given","restrictions","caused","covid","pandemic"]
+
+---
+
+### Philippine Council for Agriculture and Fisheries
 
 ## What are the measures/strategies implemented by PCAF given the restrictions caused by Covid 19 pandemic?
 

@@ -1,4 +1,13 @@
-##### Fertilizer and Pesticide Authority
+
+---
+
+title: How does FPA address the proliferation of illegitimate online sellers and distribution of illegal fertilizer and pesticide products?
+
+tags: ["fpa","address","proliferation","illegitimate","online","sellers","distribution","illegal","fertilizer","pesticide","products"]
+
+---
+
+### Fertilizer and Pesticide Authority
 
 ## How does FPA address the proliferation of illegitimate online sellers and distribution of illegal fertilizer and pesticide products?
 

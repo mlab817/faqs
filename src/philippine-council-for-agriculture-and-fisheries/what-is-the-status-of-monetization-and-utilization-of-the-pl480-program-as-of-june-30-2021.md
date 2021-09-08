@@ -1,4 +1,13 @@
-##### Philippine Council for Agriculture and Fisheries
+
+---
+
+title: What is the status of monetization and utilization of the PL480 Program as of June 30, 2021?
+
+tags: ["status","monetization","utilization","pl","program","june"]
+
+---
+
+### Philippine Council for Agriculture and Fisheries
 
 ## What is the status of monetization and utilization of the PL480 Program as of June 30, 2021?
 

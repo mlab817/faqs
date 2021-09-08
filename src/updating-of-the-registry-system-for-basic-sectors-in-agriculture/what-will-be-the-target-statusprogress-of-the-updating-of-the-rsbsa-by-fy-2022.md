@@ -1,4 +1,13 @@
-##### Updating of the Registry System for Basic Sectors in Agriculture
+
+---
+
+title: What will be the target status/progress of the Updating of the RSBSA by FY 2022?
+
+tags: ["target","statusprogress","updating","rsbsa"]
+
+---
+
+### Updating of the Registry System for Basic Sectors in Agriculture
 
 ## What will be the target status/progress of the Updating of the RSBSA by FY 2022?
 

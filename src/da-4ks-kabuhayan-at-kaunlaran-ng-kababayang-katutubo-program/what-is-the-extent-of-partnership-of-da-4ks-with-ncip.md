@@ -1,4 +1,13 @@
-##### DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
+
+---
+
+title: What is the extent of partnership of DA-4KS with NCIP?
+
+tags: ["extent","partnership","daks","ncip"]
+
+---
+
+### DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
 
 ## What is the extent of partnership of DA-4KS with NCIP?
 

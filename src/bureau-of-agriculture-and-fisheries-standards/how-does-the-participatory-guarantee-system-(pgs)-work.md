@@ -1,4 +1,13 @@
-##### Bureau of Agriculture and Fisheries Standards
+
+---
+
+title: How does the Participatory Guarantee System (PGS) work?
+
+tags: ["participatory","guarantee","system","pgs","work"]
+
+---
+
+### Bureau of Agriculture and Fisheries Standards
 
 ## How does the Participatory Guarantee System (PGS) work?
 

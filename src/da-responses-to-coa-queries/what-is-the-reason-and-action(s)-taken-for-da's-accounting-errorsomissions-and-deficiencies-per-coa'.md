@@ -1,4 +1,13 @@
-##### DA Responses to COA Queries
+
+---
+
+title: What is the reason and action(s) taken for DA’s Accounting errors/omissions and deficiencies per COA’s report?
+
+tags: ["reason","action","taken","accounting","errorsomissions","deficiencies","coa","report"]
+
+---
+
+### DA Responses to COA Queries
 
 ## What is the reason and action(s) taken for DA’s Accounting errors/omissions and deficiencies per COA’s report?
 

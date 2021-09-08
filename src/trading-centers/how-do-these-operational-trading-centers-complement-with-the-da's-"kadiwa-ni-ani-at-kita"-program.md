@@ -1,4 +1,13 @@
-##### Trading Centers
+
+---
+
+title: How do these operational trading centers complement with the DA’s “KADIWA ni Ani at Kita” program?
+
+tags: ["operational","trading","centers","complement","kadiwa","ni","ani","kita","program"]
+
+---
+
+### Trading Centers
 
 ## How do these operational trading centers complement with the DA’s “KADIWA ni Ani at Kita” program?
 

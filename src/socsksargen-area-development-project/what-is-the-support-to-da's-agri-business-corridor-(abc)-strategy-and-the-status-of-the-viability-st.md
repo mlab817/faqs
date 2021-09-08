@@ -1,4 +1,13 @@
-##### SOCSKSARGEN Area Development Project
+
+---
+
+title: What is the support to DA’s Agri Business Corridor (ABC) strategy and the Status of the Viability Study on Agro-Industrial Hubs in SOCCSKSARGEN?
+
+tags: ["support","agri","business","corridor","abc","strategy","status","viability","study","agroindustrial","hubs","soccsksargen"]
+
+---
+
+### SOCSKSARGEN Area Development Project
 
 ## What is the support to DA’s Agri Business Corridor (ABC) strategy and the Status of the Viability Study on Agro-Industrial Hubs in SOCCSKSARGEN?
 

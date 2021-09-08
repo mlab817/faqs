@@ -1,4 +1,13 @@
-##### Sugar Regulatory Administration
+
+---
+
+title: What major actions has SRA undertaken to improve its absorptive capacity?
+
+tags: ["major","actions","sra","undertaken","improve","absorptive","capacity"]
+
+---
+
+### Sugar Regulatory Administration
 
 ## What major actions has SRA undertaken to improve its absorptive capacity?
 

@@ -1,4 +1,13 @@
-##### Philippine Rice Research Institute
+
+---
+
+title: What is PalaySikatan?
+
+tags: ["palaysikatan"]
+
+---
+
+### Philippine Rice Research Institute
 
 ## What is PalaySikatan?
 

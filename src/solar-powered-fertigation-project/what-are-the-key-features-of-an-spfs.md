@@ -1,4 +1,13 @@
-##### Solar-Powered Fertigation Project
+
+---
+
+title: What are the key features of an SPFS?
+
+tags: ["key","features","spfs"]
+
+---
+
+### Solar-Powered Fertigation Project
 
 ## What are the key features of an SPFS?
 

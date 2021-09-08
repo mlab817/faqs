@@ -1,4 +1,13 @@
-##### Coco Levy Fund
+
+---
+
+title: What are the salient features of the Republic Act 11524 or the Coconut Farmers and Industry Trust Fund Act?
+
+tags: ["salient","features","republic","act","coconut","farmers","industry","trust","fund","act"]
+
+---
+
+### Coco Levy Fund
 
 ## What are the salient features of the Republic Act 11524 or the Coconut Farmers and Industry Trust Fund Act?
 

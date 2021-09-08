@@ -1,4 +1,13 @@
-##### Establishment of Smart Greenhouse in Western Visayas
+
+---
+
+title: What are the major difference/s of Smart Greenhouse-based production compared to on farm production?
+
+tags: ["major","differences","smart","greenhousebased","production","compared","farm","production"]
+
+---
+
+### Establishment of Smart Greenhouse in Western Visayas
 
 ## What are the major difference/s of Smart Greenhouse-based production compared to on farm production?
 

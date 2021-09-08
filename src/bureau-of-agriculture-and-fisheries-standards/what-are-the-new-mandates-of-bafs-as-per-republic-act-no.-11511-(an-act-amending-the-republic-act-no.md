@@ -1,4 +1,13 @@
-##### Bureau of Agriculture and Fisheries Standards
+
+---
+
+title: What are the new mandates of BAFS as per Republic Act No. 11511 (An Act Amending the Republic Act No. 10068 or the Organic Agriculture Act of 2010)?
+
+tags: ["new","mandates","bafs","republic","act","act","amending","republic","act","organic","agriculture","act"]
+
+---
+
+### Bureau of Agriculture and Fisheries Standards
 
 ## What are the new mandates of BAFS as per Republic Act No. 11511 (An Act Amending the Republic Act No. 10068 or the Organic Agriculture Act of 2010)?
 

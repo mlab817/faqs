@@ -1,4 +1,13 @@
-##### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
+
+---
+
+title: How are beneficiaries determined in the DA’s FSRF?
+
+tags: ["beneficiaries","determined","fsrf"]
+
+---
+
+### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
 
 ## How are beneficiaries determined in the DA’s FSRF?
 

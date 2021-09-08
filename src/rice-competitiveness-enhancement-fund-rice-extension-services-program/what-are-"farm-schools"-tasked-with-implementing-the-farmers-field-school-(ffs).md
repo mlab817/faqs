@@ -1,4 +1,13 @@
-##### Rice Competitiveness Enhancement Fund- Rice Extension Services Program
+
+---
+
+title: What are "farm schools" tasked with implementing the Farmers Field School (FFS)?
+
+tags: ["farm","schools","tasked","implementing","farmers","field","school","ffs"]
+
+---
+
+### Rice Competitiveness Enhancement Fund- Rice Extension Services Program
 
 ## What are "farm schools" tasked with implementing the Farmers Field School (FFS)?
 

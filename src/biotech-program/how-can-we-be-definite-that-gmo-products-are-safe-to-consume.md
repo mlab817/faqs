@@ -1,4 +1,13 @@
-##### BIOTECH PROGRAM
+
+---
+
+title: How can we be definite that GMO products are safe to consume?
+
+tags: ["definite","gmo","products","safe","consume"]
+
+---
+
+### BIOTECH PROGRAM
 
 ## How can we be definite that GMO products are safe to consume?
 

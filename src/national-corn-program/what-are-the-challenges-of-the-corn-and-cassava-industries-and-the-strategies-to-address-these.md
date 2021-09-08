@@ -1,4 +1,13 @@
-##### National Corn Program
+
+---
+
+title: What are the challenges of the corn and cassava industries and the strategies to address these?
+
+tags: ["challenges","corn","cassava","industries","strategies","address"]
+
+---
+
+### National Corn Program
 
 ## What are the challenges of the corn and cassava industries and the strategies to address these?
 

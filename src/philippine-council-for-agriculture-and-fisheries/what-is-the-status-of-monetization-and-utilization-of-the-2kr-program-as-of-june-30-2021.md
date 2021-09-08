@@ -1,4 +1,13 @@
-##### Philippine Council for Agriculture and Fisheries
+
+---
+
+title: What is the status of monetization and utilization of the 2KR Program as of June 30, 2021?
+
+tags: ["status","monetization","utilization","kr","program","june"]
+
+---
+
+### Philippine Council for Agriculture and Fisheries
 
 ## What is the status of monetization and utilization of the 2KR Program as of June 30, 2021?
 

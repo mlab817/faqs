@@ -1,4 +1,13 @@
-##### Livelihood Investment Support Program for the Normalization Process
+
+---
+
+title: How will the practice of Agriculture prevent recidivism among decommissioned combatant?
+
+tags: ["practice","agriculture","prevent","recidivism","among","decommissioned","combatant"]
+
+---
+
+### Livelihood Investment Support Program for the Normalization Process
 
 ## How will the practice of Agriculture prevent recidivism among decommissioned combatant?
 

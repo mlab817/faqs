@@ -1,4 +1,13 @@
-##### Philippine Rubber Research Institute
+
+---
+
+title: What are the effects of COVID-19 to the rubber industry?
+
+tags: ["effects","covid","rubber","industry"]
+
+---
+
+### Philippine Rubber Research Institute
 
 ## What are the effects of COVID-19 to the rubber industry?
 

@@ -1,4 +1,13 @@
-##### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
+
+---
+
+title: How many beneficiaries were reached by the RFFA and the FSRF?
+
+tags: ["many","beneficiaries","reached","rffa","fsrf"]
+
+---
+
+### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
 
 ## How many beneficiaries were reached by the RFFA and the FSRF?
 

@@ -1,4 +1,13 @@
-##### DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
+
+---
+
+title: What is DA-4KS Program?
+
+tags: ["daks","program"]
+
+---
+
+### DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
 
 ## What is DA-4KS Program?
 

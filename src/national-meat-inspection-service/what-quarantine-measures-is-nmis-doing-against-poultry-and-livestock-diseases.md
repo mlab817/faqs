@@ -1,4 +1,13 @@
-##### National Meat Inspection Service
+
+---
+
+title: What quarantine measures is NMIS doing against poultry and livestock diseases?
+
+tags: ["quarantine","measures","nmis","poultry","livestock","diseases"]
+
+---
+
+### National Meat Inspection Service
 
 ## What quarantine measures is NMIS doing against poultry and livestock diseases?
 

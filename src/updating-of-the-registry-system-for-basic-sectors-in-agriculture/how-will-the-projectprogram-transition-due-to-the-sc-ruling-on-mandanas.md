@@ -1,4 +1,13 @@
-##### Updating of the Registry System for Basic Sectors in Agriculture
+
+---
+
+title: How will the project/program transition due to the SC ruling on Mandanas?
+
+tags: ["projectprogram","transition","sc","ruling","mandanas"]
+
+---
+
+### Updating of the Registry System for Basic Sectors in Agriculture
 
 ## How will the project/program transition due to the SC ruling on Mandanas?
 

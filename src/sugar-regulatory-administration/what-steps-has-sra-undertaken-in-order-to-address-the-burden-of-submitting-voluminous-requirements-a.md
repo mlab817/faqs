@@ -1,4 +1,13 @@
-##### Sugar Regulatory Administration
+
+---
+
+title: What steps has SRA undertaken in order to address the burden of submitting voluminous requirements, and slow processing and approval of loans?
+
+tags: ["steps","sra","undertaken","order","address","burden","submitting","voluminous","requirements","slow","processing","approval","loans"]
+
+---
+
+### Sugar Regulatory Administration
 
 ## What steps has SRA undertaken in order to address the burden of submitting voluminous requirements, and slow processing and approval of loans?
 

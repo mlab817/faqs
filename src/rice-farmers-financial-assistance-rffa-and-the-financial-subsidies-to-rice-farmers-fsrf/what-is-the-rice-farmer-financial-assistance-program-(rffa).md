@@ -1,4 +1,13 @@
-##### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
+
+---
+
+title: What is the Rice Farmer Financial Assistance Program (RFFA)?
+
+tags: ["rice","farmer","financial","assistance","program","rffa"]
+
+---
+
+### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
 
 ## What is the Rice Farmer Financial Assistance Program (RFFA)?
 

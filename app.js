@@ -9,7 +9,12 @@ function shorten(text) {
 
 faqs.forEach(faq => {
     const responses = faq.response.split('\n')
+    const frontmatter = ['---','title: ' + faq.question, 'tags: ' + JSON.stringify(faq.tags), '---']
+
     const docs = json2md([
+        {
+            p: frontmatter
+        },
     //     {
     //     text: '---'
     // },{
@@ -22,7 +27,7 @@ faqs.forEach(faq => {
     //     text: '---'
     // },
         {
-        h5: faq.topic
+        h3: faq.topic
     },{
         h2: faq.question
     },{

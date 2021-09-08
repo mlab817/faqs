@@ -1,4 +1,13 @@
-##### BIOTECH PROGRAM
+
+---
+
+title: What is the status of GM technologies that are in the regulatory pipeline (i.e., Golden Rice and Bt eggplant)?
+
+tags: ["status","gm","technologies","regulatory","pipeline","ie","golden","rice","bt","eggplant"]
+
+---
+
+### BIOTECH PROGRAM
 
 ## What is the status of GM technologies that are in the regulatory pipeline (i.e., Golden Rice and Bt eggplant)?
 

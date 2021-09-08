@@ -1,4 +1,13 @@
-##### Philippine Council for Agriculture and Fisheries
+
+---
+
+title: What is the Japan 2KR?
+
+tags: ["japan","kr"]
+
+---
+
+### Philippine Council for Agriculture and Fisheries
 
 ## What is the Japan 2KR?
 

@@ -1,4 +1,13 @@
-##### BIOTECH PROGRAM
+
+---
+
+title: How much is the investment of the DA Biotech Program in biotech research for development (BR4D)?
+
+tags: ["much","investment","biotech","program","biotech","research","development","brd"]
+
+---
+
+### BIOTECH PROGRAM
 
 ## How much is the investment of the DA Biotech Program in biotech research for development (BR4D)?
 

@@ -1,4 +1,13 @@
-##### African Swine Fever (ASF)
+
+---
+
+title: What is the government strategy in managing, containing, and controlling the disease?
+
+tags: ["government","strategy","managing","containing","controlling","disease"]
+
+---
+
+### African Swine Fever (ASF)
 
 ## What is the government strategy in managing, containing, and controlling the disease?
 

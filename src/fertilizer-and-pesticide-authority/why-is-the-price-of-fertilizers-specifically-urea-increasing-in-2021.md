@@ -1,4 +1,13 @@
-##### Fertilizer and Pesticide Authority
+
+---
+
+title: Why is the price of fertilizers, specifically urea, increasing in 2021?
+
+tags: ["price","fertilizers","specifically","urea","increasing"]
+
+---
+
+### Fertilizer and Pesticide Authority
 
 ## Why is the price of fertilizers, specifically urea, increasing in 2021?
 

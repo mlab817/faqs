@@ -1,4 +1,13 @@
-##### Agricultural Training Institute
+
+---
+
+title: What programs, projects, and activities (PPAs) of the ATI will directly and/or indirectly address the effects of the pandemic?
+
+tags: ["programs","projects","activities","ppas","ati","directly","andor","indirectly","address","effects","pandemic"]
+
+---
+
+### Agricultural Training Institute
 
 ## What programs, projects, and activities (PPAs) of the ATI will directly and/or indirectly address the effects of the pandemic?
 

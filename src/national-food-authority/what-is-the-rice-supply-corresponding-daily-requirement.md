@@ -1,4 +1,13 @@
-##### National Food Authority
+
+---
+
+title: What is the Rice Supply corresponding daily requirement?
+
+tags: ["rice","supply","corresponding","daily","requirement"]
+
+---
+
+### National Food Authority
 
 ## What is the Rice Supply corresponding daily requirement?
 

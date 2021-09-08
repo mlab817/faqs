@@ -1,4 +1,13 @@
-##### National Meat Inspection Service
+
+---
+
+title: How can NMIS assure the consumers that the meat is safe and passed through the inspection process?
+
+tags: ["nmis","assure","consumers","meat","safe","passed","inspection","process"]
+
+---
+
+### National Meat Inspection Service
 
 ## How can NMIS assure the consumers that the meat is safe and passed through the inspection process?
 

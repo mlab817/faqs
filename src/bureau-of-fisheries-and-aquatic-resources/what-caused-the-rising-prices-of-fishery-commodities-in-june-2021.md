@@ -1,4 +1,13 @@
-##### Bureau of Fisheries and Aquatic Resources
+
+---
+
+title: What caused the rising prices of fishery commodities in June 2021?
+
+tags: ["caused","rising","prices","fishery","commodities","june"]
+
+---
+
+### Bureau of Fisheries and Aquatic Resources
 
 ## What caused the rising prices of fishery commodities in June 2021?
 

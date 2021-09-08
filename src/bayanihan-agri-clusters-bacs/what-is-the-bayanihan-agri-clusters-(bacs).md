@@ -1,4 +1,13 @@
-##### Bayanihan Agri-Clusters (BACs)
+
+---
+
+title: What is the Bayanihan Agri-Clusters (BACs)?
+
+tags: ["bayanihan","agriclusters","bacs"]
+
+---
+
+### Bayanihan Agri-Clusters (BACs)
 
 ## What is the Bayanihan Agri-Clusters (BACs)?
 

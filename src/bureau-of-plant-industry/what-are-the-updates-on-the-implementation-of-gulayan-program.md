@@ -1,4 +1,13 @@
-##### Bureau of Plant Industry
+
+---
+
+title: What are the updates on the implementation of Gulayan Program?
+
+tags: ["updates","implementation","gulayan","program"]
+
+---
+
+### Bureau of Plant Industry
 
 ## What are the updates on the implementation of Gulayan Program?
 

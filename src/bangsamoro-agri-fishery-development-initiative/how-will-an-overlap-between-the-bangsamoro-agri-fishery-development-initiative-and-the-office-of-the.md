@@ -1,4 +1,13 @@
-##### Bangsamoro Agri-fishery Development Initiative
+
+---
+
+title: How will an overlap between the Bangsamoro Agri-Fishery Development Initiative and the Office of the Presidential Adviser on the Peace Process (OPAPP) Livelihood Investment Support Program be avoided?
+
+tags: ["overlap","bangsamoro","agrifishery","development","initiative","office","presidential","adviser","peace","process","opapp","livelihood","investment","support","program","avoided"]
+
+---
+
+### Bangsamoro Agri-fishery Development Initiative
 
 ## How will an overlap between the Bangsamoro Agri-Fishery Development Initiative and the Office of the Presidential Adviser on the Peace Process (OPAPP) Livelihood Investment Support Program be avoided?
 

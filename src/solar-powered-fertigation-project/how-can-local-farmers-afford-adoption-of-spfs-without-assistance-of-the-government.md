@@ -1,4 +1,13 @@
-##### Solar-Powered Fertigation Project
+
+---
+
+title: How can local farmers afford adoption of SPFS without assistance of the government?
+
+tags: ["local","farmers","afford","adoption","spfs","without","assistance","government"]
+
+---
+
+### Solar-Powered Fertigation Project
 
 ## How can local farmers afford adoption of SPFS without assistance of the government?
 

@@ -1,4 +1,13 @@
-##### DA GAD Initiatives
+
+---
+
+title: What is GESI and how are GESI Activities being funded?
+
+tags: ["gesi","gesi","activities","funded"]
+
+---
+
+### DA GAD Initiatives
 
 ## What is GESI and how are GESI Activities being funded?
 

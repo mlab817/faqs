@@ -1,4 +1,13 @@
-##### National Tobacco Administration
+
+---
+
+title: What is the purpose of the subsidy granted from the tobacco fund (RA 4155) to NTA?
+
+tags: ["purpose","subsidy","granted","tobacco","fund","ra","nta"]
+
+---
+
+### National Tobacco Administration
 
 ## What is the purpose of the subsidy granted from the tobacco fund (RA 4155) to NTA?
 

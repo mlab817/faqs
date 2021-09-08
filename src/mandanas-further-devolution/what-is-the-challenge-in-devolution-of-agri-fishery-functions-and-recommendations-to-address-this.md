@@ -1,4 +1,13 @@
-##### Mandanas Further Devolution
+
+---
+
+title: What is the challenge in devolution of agri-fishery functions and recommendations to address this?
+
+tags: ["challenge","devolution","agrifishery","functions","recommendations","address"]
+
+---
+
+### Mandanas Further Devolution
 
 ## What is the challenge in devolution of agri-fishery functions and recommendations to address this?
 

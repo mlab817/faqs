@@ -1,4 +1,13 @@
-##### Agricultural Training Institute
+
+---
+
+title: What is Digital Farmers’ Training (DFP) Program?
+
+tags: ["digital","farmers","training","dfp","program"]
+
+---
+
+### Agricultural Training Institute
 
 ## What is Digital Farmers’ Training (DFP) Program?
 

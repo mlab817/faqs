@@ -1,4 +1,13 @@
-##### Investment Promotions
+
+---
+
+title: Why is impact assessment of trade promotion necessary?
+
+tags: ["impact","assessment","trade","promotion","necessary"]
+
+---
+
+### Investment Promotions
 
 ## Why is impact assessment of trade promotion necessary?
 

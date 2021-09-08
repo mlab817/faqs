@@ -1,4 +1,13 @@
-##### Philippine Council for Agriculture and Fisheries
+
+---
+
+title: How are the proceeds of 2KR utilized?
+
+tags: ["proceeds","kr","utilized"]
+
+---
+
+### Philippine Council for Agriculture and Fisheries
 
 ## How are the proceeds of 2KR utilized?
 

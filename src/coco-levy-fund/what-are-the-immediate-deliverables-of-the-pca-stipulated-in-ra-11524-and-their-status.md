@@ -1,4 +1,13 @@
-##### Coco Levy Fund
+
+---
+
+title: What are the immediate deliverables of the PCA stipulated in RA 11524 and their status?
+
+tags: ["immediate","deliverables","pca","stipulated","ra","status"]
+
+---
+
+### Coco Levy Fund
 
 ## What are the immediate deliverables of the PCA stipulated in RA 11524 and their status?
 

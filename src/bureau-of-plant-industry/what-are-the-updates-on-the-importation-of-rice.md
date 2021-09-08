@@ -1,4 +1,13 @@
-##### Bureau of Plant Industry
+
+---
+
+title: What are the updates on the importation of rice?
+
+tags: ["updates","importation","rice"]
+
+---
+
+### Bureau of Plant Industry
 
 ## What are the updates on the importation of rice?
 

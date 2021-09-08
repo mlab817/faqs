@@ -1,4 +1,13 @@
-##### Solar-Powered Fertigation Project
+
+---
+
+title: What is the unit cost for SPFS 8 and SPFS 32?
+
+tags: ["unit","cost","spfs","spfs"]
+
+---
+
+### Solar-Powered Fertigation Project
 
 ## What is the unit cost for SPFS 8 and SPFS 32?
 

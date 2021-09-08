@@ -1,4 +1,13 @@
-##### Fertilizer and Pesticide Authority
+
+---
+
+title: What were the actions undertaken to ban hazardous pesticides?
+
+tags: ["actions","undertaken","ban","hazardous","pesticides"]
+
+---
+
+### Fertilizer and Pesticide Authority
 
 ## What were the actions undertaken to ban hazardous pesticides?
 

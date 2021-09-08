@@ -1,4 +1,13 @@
-##### Establishment of Smart Agriculture System in Western Visayas
+
+---
+
+title: What are the advantages and benefits of Korean Smart Greenhouse versus conventional greenhouses and open field production?
+
+tags: ["advantages","benefits","korean","smart","greenhouse","versus","conventional","greenhouses","open","field","production"]
+
+---
+
+### Establishment of Smart Agriculture System in Western Visayas
 
 ## What are the advantages and benefits of Korean Smart Greenhouse versus conventional greenhouses and open field production?
 

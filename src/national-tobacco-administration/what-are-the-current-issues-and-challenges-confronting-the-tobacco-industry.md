@@ -1,4 +1,13 @@
-##### National Tobacco Administration
+
+---
+
+title: What are the current issues and challenges confronting the tobacco industry?
+
+tags: ["current","issues","challenges","confronting","tobacco","industry"]
+
+---
+
+### National Tobacco Administration
 
 ## What are the current issues and challenges confronting the tobacco industry?
 

@@ -1,4 +1,13 @@
-##### Agricultural Competitiveness Enhancement Fund
+
+---
+
+title: How are the ACEF Funds Allocated?
+
+tags: ["acef","funds","allocated"]
+
+---
+
+### Agricultural Competitiveness Enhancement Fund
 
 ## How are the ACEF Funds Allocated?
 

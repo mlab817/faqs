@@ -1,4 +1,13 @@
-##### Bureau of Plant Industry
+
+---
+
+title: What are the updates and control measures for other pests and diseases other than FAW?
+
+tags: ["updates","control","measures","pests","diseases","faw"]
+
+---
+
+### Bureau of Plant Industry
 
 ## What are the updates and control measures for other pests and diseases other than FAW?
 

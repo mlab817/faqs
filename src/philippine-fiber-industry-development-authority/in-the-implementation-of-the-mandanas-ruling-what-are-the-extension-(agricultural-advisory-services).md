@@ -1,4 +1,13 @@
-##### Philippine Fiber Industry Development Authority
+
+---
+
+title: In the implementation of the Mandanas Ruling, what are the extension (agricultural advisory services) functions that need to be strengthened by the LGUs?
+
+tags: ["implementation","mandanas","ruling","extension","agricultural","advisory","services","functions","need","strengthened","lgus"]
+
+---
+
+### Philippine Fiber Industry Development Authority
 
 ## In the implementation of the Mandanas Ruling, what are the extension (agricultural advisory services) functions that need to be strengthened by the LGUs?
 

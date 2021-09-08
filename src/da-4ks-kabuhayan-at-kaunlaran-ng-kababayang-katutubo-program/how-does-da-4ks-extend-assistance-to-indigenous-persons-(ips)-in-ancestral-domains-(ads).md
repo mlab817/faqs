@@ -1,4 +1,13 @@
-##### DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
+
+---
+
+title: How does DA-4KS extend assistance to Indigenous Persons (IPs) in Ancestral Domains (ADs)?
+
+tags: ["daks","extend","assistance","indigenous","persons","ips","ancestral","domains","ads"]
+
+---
+
+### DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
 
 ## How does DA-4KS extend assistance to Indigenous Persons (IPs) in Ancestral Domains (ADs)?
 

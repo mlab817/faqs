@@ -1,4 +1,13 @@
-##### Philippine Crop Insurance Corporation
+
+---
+
+title: With the government premium subsidy (GPS) of P4.5 Billion for 2022, how much amount of cover and corresponding number of farmers and area (hectare) could PCIC cover with insurance?
+
+tags: ["government","premium","subsidy","gps","p","billion","much","amount","cover","corresponding","number","farmers","area","hectare","could","pcic","cover","insurance"]
+
+---
+
+### Philippine Crop Insurance Corporation
 
 ## With the government premium subsidy (GPS) of P4.5 Billion for 2022, how much amount of cover and corresponding number of farmers and area (hectare) could PCIC cover with insurance?
 

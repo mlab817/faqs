@@ -1,4 +1,13 @@
-##### Avian Influenza (AI)
+
+---
+
+title: What is the current status of Avian Influenza (AI) in the country?
+
+tags: ["current","status","avian","influenza","ai","country"]
+
+---
+
+### Avian Influenza (AI)
 
 ## What is the current status of Avian Influenza (AI) in the country?
 

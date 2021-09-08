@@ -1,4 +1,13 @@
-##### Bureau of Soils and Water Management
+
+---
+
+title: What is the status of implementation of the Small Water Irrigation System?
+
+tags: ["status","implementation","small","water","irrigation","system"]
+
+---
+
+### Bureau of Soils and Water Management
 
 ## What is the status of implementation of the Small Water Irrigation System?
 

@@ -1,4 +1,13 @@
-##### Philippine Council for Agriculture and Fisheries
+
+---
+
+title: What commodities and how much has the Philippines received from the PL480?
+
+tags: ["commodities","much","philippines","received","pl"]
+
+---
+
+### Philippine Council for Agriculture and Fisheries
 
 ## What commodities and how much has the Philippines received from the PL480?
 

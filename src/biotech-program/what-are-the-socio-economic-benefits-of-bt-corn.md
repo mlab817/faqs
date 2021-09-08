@@ -1,4 +1,13 @@
-##### BIOTECH PROGRAM
+
+---
+
+title: What are the socio-economic benefits of Bt corn?
+
+tags: ["socioeconomic","benefits","bt","corn"]
+
+---
+
+### BIOTECH PROGRAM
 
 ## What are the socio-economic benefits of Bt corn?
 

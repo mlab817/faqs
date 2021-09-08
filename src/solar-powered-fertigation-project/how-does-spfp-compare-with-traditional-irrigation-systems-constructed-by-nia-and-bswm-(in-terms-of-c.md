@@ -1,4 +1,13 @@
-##### Solar-Powered Fertigation Project
+
+---
+
+title: How does SPFP compare with traditional irrigation systems constructed by NIA and BSWM (in terms of cost, technology and efficiency)?
+
+tags: ["spfp","compare","traditional","irrigation","systems","constructed","nia","bswm","terms","cost","technology","efficiency"]
+
+---
+
+### Solar-Powered Fertigation Project
 
 ## How does SPFP compare with traditional irrigation systems constructed by NIA and BSWM (in terms of cost, technology and efficiency)?
 

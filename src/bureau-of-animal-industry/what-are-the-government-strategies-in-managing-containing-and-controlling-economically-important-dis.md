@@ -1,4 +1,13 @@
-##### Bureau of Animal Industry
+
+---
+
+title: What are the government strategies in managing, containing and controlling Economically Important Diseases?
+
+tags: ["government","strategies","managing","containing","controlling","economically","important","diseases"]
+
+---
+
+### Bureau of Animal Industry
 
 ## What are the government strategies in managing, containing and controlling Economically Important Diseases?
 

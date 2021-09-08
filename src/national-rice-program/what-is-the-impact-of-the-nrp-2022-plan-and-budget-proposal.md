@@ -1,4 +1,13 @@
-##### National Rice Program
+
+---
+
+title: What is the impact of the NRP 2022 plan and budget proposal?
+
+tags: ["impact","nrp","plan","budget","proposal"]
+
+---
+
+### National Rice Program
 
 ## What is the impact of the NRP 2022 plan and budget proposal?
 

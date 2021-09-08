@@ -1,4 +1,13 @@
-##### DA GAD Initiatives
+
+---
+
+title: What are the gender issues being addressed by the DA in its GAD Plan and Budget?
+
+tags: ["gender","issues","addressed","gad","plan","budget"]
+
+---
+
+### DA GAD Initiatives
 
 ## What are the gender issues being addressed by the DA in its GAD Plan and Budget?
 

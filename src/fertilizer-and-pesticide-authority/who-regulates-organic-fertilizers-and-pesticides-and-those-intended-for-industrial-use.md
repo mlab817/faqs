@@ -1,4 +1,13 @@
-##### Fertilizer and Pesticide Authority
+
+---
+
+title: Who regulates organic fertilizers and pesticides and those intended for industrial use?
+
+tags: ["regulates","organic","fertilizers","pesticides","intended","industrial","use"]
+
+---
+
+### Fertilizer and Pesticide Authority
 
 ## Who regulates organic fertilizers and pesticides and those intended for industrial use?
 

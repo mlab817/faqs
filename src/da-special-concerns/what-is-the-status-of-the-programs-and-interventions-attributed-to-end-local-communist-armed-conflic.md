@@ -1,4 +1,13 @@
-##### DA Special Concerns
+
+---
+
+title: What is the status of the programs and interventions attributed to End Local Communist Armed Conflict (ELCAC)?
+
+tags: ["status","programs","interventions","attributed","end","local","communist","armed","conflict","elcac"]
+
+---
+
+### DA Special Concerns
 
 ## What is the status of the programs and interventions attributed to End Local Communist Armed Conflict (ELCAC)?
 

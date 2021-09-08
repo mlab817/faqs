@@ -1,4 +1,13 @@
-##### High Value Crops Development Program
+
+---
+
+title: What is the status of the implementation of cold storage facilities funded under Bayanihan II?
+
+tags: ["status","implementation","cold","storage","facilities","funded","bayanihan","ii"]
+
+---
+
+### High Value Crops Development Program
 
 ## What is the status of the implementation of cold storage facilities funded under Bayanihan II?
 

@@ -1,4 +1,13 @@
-##### Philippine Rice Research Institute
+
+---
+
+title: What is Binhi e-Padala?
+
+tags: ["binhi","epadala"]
+
+---
+
+### Philippine Rice Research Institute
 
 ## What is Binhi e-Padala?
 

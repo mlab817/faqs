@@ -1,4 +1,13 @@
-##### Digital Agriculture
+
+---
+
+title: What is Digital Agriculture?
+
+tags: ["digital","agriculture"]
+
+---
+
+### Digital Agriculture
 
 ## What is Digital Agriculture?
 

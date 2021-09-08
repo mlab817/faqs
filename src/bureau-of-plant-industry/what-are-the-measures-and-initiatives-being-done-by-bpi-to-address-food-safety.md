@@ -1,4 +1,13 @@
-##### Bureau of Plant Industry
+
+---
+
+title: What are the measures and initiatives being done by BPI to address Food Safety?
+
+tags: ["measures","initiatives","done","bpi","address","food","safety"]
+
+---
+
+### Bureau of Plant Industry
 
 ## What are the measures and initiatives being done by BPI to address Food Safety?
 

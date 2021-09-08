@@ -1,4 +1,13 @@
-##### Digital Agriculture
+
+---
+
+title: What are the priority programs in to digital agriculture?
+
+tags: ["priority","programs","digital","agriculture"]
+
+---
+
+### Digital Agriculture
 
 ## What are the priority programs in to digital agriculture?
 

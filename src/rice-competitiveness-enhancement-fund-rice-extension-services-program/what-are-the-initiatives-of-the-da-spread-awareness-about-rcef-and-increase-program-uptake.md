@@ -1,4 +1,13 @@
-##### Rice Competitiveness Enhancement Fund- Rice Extension Services Program
+
+---
+
+title: What are the initiatives of the DA spread awareness about RCEF and increase program uptake?
+
+tags: ["initiatives","spread","awareness","rcef","increase","program","uptake"]
+
+---
+
+### Rice Competitiveness Enhancement Fund- Rice Extension Services Program
 
 ## What are the initiatives of the DA spread awareness about RCEF and increase program uptake?
 

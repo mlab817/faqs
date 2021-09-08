@@ -1,4 +1,13 @@
-##### DA GAD Initiatives
+
+---
+
+title: What are the activities that are being funded by the GAD Budget?
+
+tags: ["activities","funded","gad","budget"]
+
+---
+
+### DA GAD Initiatives
 
 ## What are the activities that are being funded by the GAD Budget?
 

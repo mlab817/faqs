@@ -1,4 +1,13 @@
-##### High Value Crops Development Program
+
+---
+
+title: What are the interventions of the HVCDP under the New Normal?
+
+tags: ["interventions","hvcdp","new","normal"]
+
+---
+
+### High Value Crops Development Program
 
 ## What are the interventions of the HVCDP under the New Normal?
 

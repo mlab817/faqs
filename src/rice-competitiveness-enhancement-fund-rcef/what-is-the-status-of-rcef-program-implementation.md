@@ -1,4 +1,13 @@
-##### Rice Competitiveness Enhancement Fund (RCEF)
+
+---
+
+title: What is the status of RCEF program implementation?
+
+tags: ["status","rcef","program","implementation"]
+
+---
+
+### Rice Competitiveness Enhancement Fund (RCEF)
 
 ## What is the status of RCEF program implementation?
 

@@ -1,4 +1,13 @@
-##### Establishment of Smart Greenhouse in Western Visayas
+
+---
+
+title: What is the Smart Greenhouse Project?
+
+tags: ["smart","greenhouse","project"]
+
+---
+
+### Establishment of Smart Greenhouse in Western Visayas
 
 ## What is the Smart Greenhouse Project?
 

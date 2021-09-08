@@ -1,4 +1,13 @@
-##### Agricultural Training Institute
+
+---
+
+title: Given the COVID-19 pandemic, how can ATI push through in achieving its vision, mission and goals?
+
+tags: ["given","covid","pandemic","ati","push","achieving","vision","mission","goals"]
+
+---
+
+### Agricultural Training Institute
 
 ## Given the COVID-19 pandemic, how can ATI push through in achieving its vision, mission and goals?
 

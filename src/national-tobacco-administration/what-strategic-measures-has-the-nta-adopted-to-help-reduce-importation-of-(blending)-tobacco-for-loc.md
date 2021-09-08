@@ -1,4 +1,13 @@
-##### National Tobacco Administration
+
+---
+
+title: What strategic measures has the NTA adopted to help reduce importation of (blending) tobacco for local manufacturing and increase export of locally-grown leaf tobacco?
+
+tags: ["strategic","measures","nta","adopted","help","reduce","importation","blending","tobacco","local","manufacturing","increase","export","locallygrown","leaf","tobacco"]
+
+---
+
+### National Tobacco Administration
 
 ## What strategic measures has the NTA adopted to help reduce importation of (blending) tobacco for local manufacturing and increase export of locally-grown leaf tobacco?
 

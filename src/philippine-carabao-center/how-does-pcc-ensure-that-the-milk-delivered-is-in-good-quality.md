@@ -1,4 +1,13 @@
-##### Philippine Carabao Center
+
+---
+
+title: How does PCC ensure that the milk delivered is in good quality?
+
+tags: ["pcc","ensure","milk","delivered","good","quality"]
+
+---
+
+### Philippine Carabao Center
 
 ## How does PCC ensure that the milk delivered is in good quality?
 

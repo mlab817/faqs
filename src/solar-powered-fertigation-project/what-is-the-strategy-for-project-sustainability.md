@@ -1,4 +1,13 @@
-##### Solar-Powered Fertigation Project
+
+---
+
+title: What is the strategy for project sustainability?
+
+tags: ["strategy","project","sustainability"]
+
+---
+
+### Solar-Powered Fertigation Project
 
 ## What is the strategy for project sustainability?
 

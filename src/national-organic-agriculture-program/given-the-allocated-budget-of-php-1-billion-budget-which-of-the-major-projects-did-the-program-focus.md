@@ -1,4 +1,13 @@
-##### National Organic Agriculture Program
+
+---
+
+title: Given the allocated budget of PhP 1 billion budget, which of the major projects did the program focused on?
+
+tags: ["given","allocated","budget","billion","budget","major","projects","program","focused"]
+
+---
+
+### National Organic Agriculture Program
 
 ## Given the allocated budget of PhP 1 billion budget, which of the major projects did the program focused on?
 
