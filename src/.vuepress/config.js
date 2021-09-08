@@ -31,7 +31,7 @@ module.exports = {
   themeConfig: {
     repo: 'mlab817/docs',
     editLinks: true,
-    docsDir: 'src/.vuepress/dist',
+    docsDir: 'docs',
     docsBranch: 'main',
     editLinkText: 'Help us improve this page!',
     lastUpdated: false,
