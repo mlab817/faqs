@@ -9,8 +9,8 @@
   },
   "repository": "mlab817/faqs",
   "scripts": {
-    "dev": "node app.js && vuepress dev src",
-    "build": "node app.js && vuepress build src"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {

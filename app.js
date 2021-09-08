@@ -3,16 +3,8 @@ const faqs = require('./faqs_with_tags.json');
 const fs = require('fs');
 const slugify = require('slugify');
 
-json2md.converters.text = function (input, json2md) {
-    return input;
-}
-
 function shorten(text) {
     return text.substr(0, 100)
-}
-
-if (!fs.existsSync('./src')){
-    fs.mkdirSync('./src');
 }
 
 faqs.forEach(faq => {
@@ -36,11 +28,6 @@ faqs.forEach(faq => {
     },{
         ul: responses
     }]);
-
-    // console.log(typeof docs)
-    console.log(docs)
-
-    docs.replace(/\n|\r/g, '')
 
     const folder = shorten(slugify(faq.topic, {
         lower: true,
