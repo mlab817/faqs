@@ -113,8 +113,30 @@ Object.keys(faqsReduced).forEach((key) => {
     });
 });
 
+const topics = []
+
+Object.keys(faqsReduced).forEach(key => {
+    topics.push({ link: {
+        title: faqsReduced[key][0]['topic'],
+            source: '/' + shorten(slugify(key, {
+            lower: true,
+            strict: true,
+            trim: true
+        }))
+    }});
+});
+
+const indexPage = json2md([
+    {
+        h1: 'Frequently Asked Questions'
+    },
+    {
+        ul: topics
+    }
+]);
+
 // write README.md
-fs.writeFile('./src/README.md', '', (err) => {
+fs.writeFile('./src/README.md', indexPage, (err) => {
     if (err) {
         console.error(err)
         return;

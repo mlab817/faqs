@@ -29,9 +29,9 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: 'mlab817/docs',
+    repo: 'mlab817/faqs',
     editLinks: true,
-    docsDir: 'docs',
+    docsDir: 'src',
     docsBranch: 'main',
     editLinkText: 'Help us improve this page!',
     lastUpdated: false,
