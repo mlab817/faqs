@@ -1,0 +1,24 @@
+{
+  "name": "faqs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "faqs/faqs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "json2md": "^1.12.0",
+    "slugify": "^1.6.0",
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "firebase": "^9.0.1"
+  }
+}
