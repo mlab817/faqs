@@ -29,10 +29,11 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
-    editLinks: false,
-    docsDir: '',
-    editLinkText: '',
+    repo: 'mlab817/docs',
+    editLinks: true,
+    docsDir: 'src/.vuepress/dist',
+    docsBranch: 'main',
+    editLinkText: 'Help us improve this page!',
     lastUpdated: false,
     nav: nav,
     navbar: true,
