@@ -7,7 +7,7 @@
     "name": "",
     "email": ""
   },
-  "repository": "faqs/faqs",
+  "repository": "mlab817/faqs",
   "scripts": {
     "dev": "node app.js && vuepress dev src",
     "build": "node app.js && vuepress build src"
