@@ -142,3 +142,34 @@ fs.writeFile('./src/README.md', indexPage, (err) => {
         return;
     }
 });
+
+const sidebar = [];
+
+Object.keys(faqsReduced).forEach((key) => {
+    const faqs = faqsReduced[key];
+    const title = faqs[0]['topic'];
+    const path = '/' + shorten(slugify(title, {
+        lower: true,
+        strict: true,
+        trim: true
+    })) + '/'
+
+    sidebar.push({
+        title: title,
+        path: path,
+        children: [
+            // faqs.map(faq => {
+            //     return [shorten(slugify(faq.question, {
+            //         lower: true,
+            //         strict: true,
+            //         trim: true
+            //     }))]
+            // })
+        ]
+    })
+});
+
+fs.writeFile('./src/.vuepress/sidebar.json', JSON.stringify(sidebar), (err) => {
+    console.error(err);
+    return;
+})
