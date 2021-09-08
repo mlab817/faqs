@@ -1,15 +1,10 @@
+--- 
+ title: How do we utilize the proceeds generated from the sale of commodities?
+ ---
 
----
+## Philippine Council for Agriculture and Fisheries
 
-title: How do we utilize the proceeds generated from the sale of commodities?
-
-tags: ["utilize","proceeds","generated","sale","commodities"]
-
----
-
-### Philippine Council for Agriculture and Fisheries
-
-## How do we utilize the proceeds generated from the sale of commodities?
+# How do we utilize the proceeds generated from the sale of commodities?
 
 
  - Proceeds generated are utilized to fund projects such as:

@@ -1,15 +1,10 @@
+--- 
+ title: What is the reason DA was unable to utilize PhP 9.8 billion worth of funds for FY 2020 per COA’s report?
+ ---
 
----
+## DA Responses to COA Queries
 
-title: What is the reason DA was unable to utilize PhP 9.8 billion worth of funds for FY 2020 per COA’s report?
-
-tags: ["reason","unable","utilize","billion","worth","funds","coa","report"]
-
----
-
-### DA Responses to COA Queries
-
-## What is the reason DA was unable to utilize PhP 9.8 billion worth of funds for FY 2020 per COA’s report?
+# What is the reason DA was unable to utilize PhP 9.8 billion worth of funds for FY 2020 per COA’s report?
 
 
  - As mentioned in the audit observations, the major cause of low utilization of cash was mainly due to the restrictions and health protocols brought about by the pandemic that greatly affected the movement of goods and laborers as well as materials in the construction and manufacturing. DA was also greatly affected by these lockdown measures.

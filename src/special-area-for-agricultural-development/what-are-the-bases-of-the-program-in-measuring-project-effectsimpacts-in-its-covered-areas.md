@@ -1,15 +1,10 @@
+--- 
+ title: What are the bases of the program in measuring project effects/impacts in its covered areas?
+ ---
 
----
+## Special Area for Agricultural Development
 
-title: What are the bases of the program in measuring project effects/impacts in its covered areas?
-
-tags: ["bases","program","measuring","project","effectsimpacts","covered","areas"]
-
----
-
-### Special Area for Agricultural Development
-
-## What are the bases of the program in measuring project effects/impacts in its covered areas?
+# What are the bases of the program in measuring project effects/impacts in its covered areas?
 
 
  - Database of Beneficiaries and Geotagging activities – Socio-economic and agri-related data are gathered during the identification of SAAD beneficiaries. These data will serve as the baseline of the program in assessing the effects of its interventions in the succeeding years.

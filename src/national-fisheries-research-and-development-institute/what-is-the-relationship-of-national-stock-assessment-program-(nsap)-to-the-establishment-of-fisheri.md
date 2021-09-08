@@ -1,15 +1,10 @@
+--- 
+ title: What is the relationship of National Stock Assessment Program (NSAP) to the establishment of Fisheries Management Areas (FMAs) in the country?
+ ---
 
----
+## National Fisheries Research and Development Institute
 
-title: What is the relationship of National Stock Assessment Program (NSAP) to the establishment of Fisheries Management Areas (FMAs) in the country?
-
-tags: ["relationship","national","stock","assessment","program","nsap","establishment","fisheries","management","areas","fmas","country"]
-
----
-
-### National Fisheries Research and Development Institute
-
-## What is the relationship of National Stock Assessment Program (NSAP) to the establishment of Fisheries Management Areas (FMAs) in the country?
+# What is the relationship of National Stock Assessment Program (NSAP) to the establishment of Fisheries Management Areas (FMAs) in the country?
 
 
  - The NFRDI plays a critical role in providing science-based information needed for each Fisheries Management Area. The 12 FMAs were established based on considerations of stocks boundary/range/ distribution, structure of fisheries as well as administrative divisions (Fisheries Administrative Order No. 263, s. 2019).

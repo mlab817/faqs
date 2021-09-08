@@ -1,15 +1,10 @@
+--- 
+ title: What are "farm schools" tasked with implementing the Farmers Field School (FFS)?
+ ---
 
----
+## Rice Competitiveness Enhancement Fund- Rice Extension Services Program
 
-title: What are "farm schools" tasked with implementing the Farmers Field School (FFS)?
-
-tags: ["farm","schools","tasked","implementing","farmers","field","school","ffs"]
-
----
-
-### Rice Competitiveness Enhancement Fund- Rice Extension Services Program
-
-## What are "farm schools" tasked with implementing the Farmers Field School (FFS)?
+# What are "farm schools" tasked with implementing the Farmers Field School (FFS)?
 
 
  - Farm Schools are sites where the FFS and other relevant training programs for farmers are conducted. They also refer to the following:

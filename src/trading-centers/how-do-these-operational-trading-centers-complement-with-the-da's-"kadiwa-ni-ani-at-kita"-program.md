@@ -1,15 +1,10 @@
+--- 
+ title: How do these operational trading centers complement with the DA’s “KADIWA ni Ani at Kita” program?
+ ---
 
----
+## Trading Centers
 
-title: How do these operational trading centers complement with the DA’s “KADIWA ni Ani at Kita” program?
-
-tags: ["operational","trading","centers","complement","kadiwa","ni","ani","kita","program"]
-
----
-
-### Trading Centers
-
-## How do these operational trading centers complement with the DA’s “KADIWA ni Ani at Kita” program?
+# How do these operational trading centers complement with the DA’s “KADIWA ni Ani at Kita” program?
 
 
  - As of June 2021, there are 26 APTCs nationwide at various stages of implementation: 

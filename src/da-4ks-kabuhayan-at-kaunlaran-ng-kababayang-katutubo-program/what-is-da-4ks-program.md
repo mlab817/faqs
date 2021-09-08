@@ -1,15 +1,10 @@
+--- 
+ title: What is DA-4KS Program?
+ ---
 
----
+## DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
 
-title: What is DA-4KS Program?
-
-tags: ["daks","program"]
-
----
-
-### DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
-
-## What is DA-4KS Program?
+# What is DA-4KS Program?
 
 
  - The DA 4Ks is a three-year special programme of the DA following the directives of the President for an enhanced provision of assistance in the form of agricultural and fisheries related livelihood opportunities, investments through the provision of production and post-harvest machineries and equipment and various support services specifically for the Indigenous Cultural Communities/Indigenous People (ICCs/IPs) within the Ancestral Domain (AD) and to give link with credit facilities and crop insurance to ensure sustainability of the interventions.

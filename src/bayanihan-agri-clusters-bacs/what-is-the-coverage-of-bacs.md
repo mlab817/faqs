@@ -1,15 +1,10 @@
+--- 
+ title: What is the coverage of BACs?
+ ---
 
----
+## Bayanihan Agri-Clusters (BACs)
 
-title: What is the coverage of BACs?
-
-tags: ["coverage","bacs"]
-
----
-
-### Bayanihan Agri-Clusters (BACs)
-
-## What is the coverage of BACs?
+# What is the coverage of BACs?
 
 
  - BACs projects for crops and plant-based products shall follow the minimum area in clustering and consolidation:

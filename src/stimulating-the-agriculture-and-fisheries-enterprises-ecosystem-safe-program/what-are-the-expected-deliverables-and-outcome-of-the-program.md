@@ -1,15 +1,10 @@
+--- 
+ title: What are the expected deliverables and outcome of the program?
+ ---
 
----
+## Stimulating the Agriculture and Fisheries Enterprises Ecosystem (SAFE) Program
 
-title: What are the expected deliverables and outcome of the program?
-
-tags: ["expected","deliverables","outcome","program"]
-
----
-
-### Stimulating the Agriculture and Fisheries Enterprises Ecosystem (SAFE) Program
-
-## What are the expected deliverables and outcome of the program?
+# What are the expected deliverables and outcome of the program?
 
 
  - Incubator setting up: Establishment of SAFE Incubators in various parts of the country and ensuring sustainability. This will be done through development of incubator business plan, review of incubator staff, services and infrastructure and capacity building.

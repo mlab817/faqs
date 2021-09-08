@@ -1,15 +1,10 @@
+--- 
+ title: What measures are being undertaken to ensure no duplication of projects?
+ ---
 
----
+## Farm-to-Market Road Development Program
 
-title: What measures are being undertaken to ensure no duplication of projects?
-
-tags: ["measures","undertaken","ensure","duplication","projects"]
-
----
-
-### Farm-to-Market Road Development Program
-
-## What measures are being undertaken to ensure no duplication of projects?
+# What measures are being undertaken to ensure no duplication of projects?
 
 
  - For all projects, a process of validation was undertaken by the DA-Regional Field Offices. 

@@ -1,15 +1,10 @@
+--- 
+ title: What is PRDP’s second additional financing with E.U. Co-Financing Grant (AF2-EU)?
+ ---
 
----
+## Philippine Rural Development Project
 
-title: What is PRDP’s second additional financing with E.U. Co-Financing Grant (AF2-EU)?
-
-tags: ["prdp","second","additional","financing","eu","cofinancing","grant","afeu"]
-
----
-
-### Philippine Rural Development Project
-
-## What is PRDP’s second additional financing with E.U. Co-Financing Grant (AF2-EU)?
+# What is PRDP’s second additional financing with E.U. Co-Financing Grant (AF2-EU)?
 
 
  - On June 17, 2021, the Board of Executive Directors of the International Bank for Reconstruction and Development (IBRD) of the World Bank approved the $280 million Second Additional Financing with EUR18.3 million E.U. Co-financing grant.

@@ -1,15 +1,10 @@
+--- 
+ title: What are the requirements?
+ ---
 
----
+## Young Farmers Challenge Fund
 
-title: What are the requirements?
-
-tags: ["requirements"]
-
----
-
-### Young Farmers Challenge Fund
-
-## What are the requirements?
+# What are the requirements?
 
 
  - Business Model Canvas (BMC)

@@ -1,15 +1,10 @@
+--- 
+ title: What is the contribution of the DA-BAFS in the implementation of the Food Safety Act?
+ ---
 
----
+## Bureau of Agriculture and Fisheries Standards
 
-title: What is the contribution of the DA-BAFS in the implementation of the Food Safety Act?
-
-tags: ["contribution","dabafs","implementation","food","safety","act"]
-
----
-
-### Bureau of Agriculture and Fisheries Standards
-
-## What is the contribution of the DA-BAFS in the implementation of the Food Safety Act?
+# What is the contribution of the DA-BAFS in the implementation of the Food Safety Act?
 
 
  - As of August 2021, the Bureau has developed a total of 134 food-safety PNS for primary and postharvest foods. These food safety standards can be broken down into crops (73 PNS), livestock and poultry (19 PNS), fish and fishery (34 PNS), and general standards (8 PNS). The said PNS were approved by the DA Secretary and endorsed to the mandated Food Safety Regulatory Agencies (FSRAs) for possible adoption or basis of their respective technical regulations.

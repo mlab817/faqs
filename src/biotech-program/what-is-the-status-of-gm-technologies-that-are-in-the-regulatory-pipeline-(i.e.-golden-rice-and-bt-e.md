@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of GM technologies that are in the regulatory pipeline (i.e., Golden Rice and Bt eggplant)?
+ ---
 
----
+## BIOTECH PROGRAM
 
-title: What is the status of GM technologies that are in the regulatory pipeline (i.e., Golden Rice and Bt eggplant)?
-
-tags: ["status","gm","technologies","regulatory","pipeline","ie","golden","rice","bt","eggplant"]
-
----
-
-### BIOTECH PROGRAM
-
-## What is the status of GM technologies that are in the regulatory pipeline (i.e., Golden Rice and Bt eggplant)?
+# What is the status of GM technologies that are in the regulatory pipeline (i.e., Golden Rice and Bt eggplant)?
 
 
  - Golden Rice. Among other options, genetic engineering or modification was used to address this problem through rice – a staple Filipino food. The Food, Feed and Processing (FFP) and field trials have been completed in 2019. The multi-location field trials were conducted in Science City of Muñoz, Nueva Ecija, and San Mateo, Isabela. Just recently the biosafety permit for commercial propagation of Golden Rice has been issued to the DA-Philippine Rice Research Institute (DA-PhilRice) on July 2021.

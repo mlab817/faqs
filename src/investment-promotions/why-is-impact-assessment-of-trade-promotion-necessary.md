@@ -1,15 +1,10 @@
+--- 
+ title: Why is impact assessment of trade promotion necessary?
+ ---
 
----
+## Investment Promotions
 
-title: Why is impact assessment of trade promotion necessary?
-
-tags: ["impact","assessment","trade","promotion","necessary"]
-
----
-
-### Investment Promotions
-
-## Why is impact assessment of trade promotion necessary?
+# Why is impact assessment of trade promotion necessary?
 
 
  - In the NCR, the Surveillance, Monitoring and Enforcement Group (SMEG) regularly conducts daily retail price monitoring in eleven (11) wet markets.  Six (6) selected wholesale markets and eleven (11) supermarkets and grocery stores were also monitored twice a week (Tuesday and Thursday) and once a week (Wednesday), respectively.  The commodities covered are rice, fresh fish, meat and poultry, vegetables, fresh fruits, cooking oil and sugar, among others. 

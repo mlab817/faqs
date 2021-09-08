@@ -1,15 +1,10 @@
+--- 
+ title: What are the provisions for MAV Application?
+ ---
 
----
+## Minimum Access Volume
 
-title: What are the provisions for MAV Application?
-
-tags: ["provisions","mav","application"]
-
----
-
-### Minimum Access Volume
-
-## What are the provisions for MAV Application?
+# What are the provisions for MAV Application?
 
 
  - The provisions for the application for MAV license are enumerated in Section 1. D MMC AO 1 series of 1998 as amended by MMC AO 52 s. of 2000. As a matter of procedure, the announcement to all interested applicants on the application period, procedure and all of the requirements for application is published in 2 newspapers of national circulation (Philippine Star and Manila Bulletin). 

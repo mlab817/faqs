@@ -1,15 +1,10 @@
+--- 
+ title: What are the priority programs in to digital agriculture?
+ ---
 
----
+## Digital Agriculture
 
-title: What are the priority programs in to digital agriculture?
-
-tags: ["priority","programs","digital","agriculture"]
-
----
-
-### Digital Agriculture
-
-## What are the priority programs in to digital agriculture?
+# What are the priority programs in to digital agriculture?
 
 
  - Agriculture-based Central Data Ecosystem (AbCDE): A data centralization project that aims to consolidate, classify, store and establish access portals of data for DA personnel, farmers, fisherfolk, oversight agencies and stakeholders. The project will produce analytics using big data that can guide decision makers, policy makers, economic managers and farmers and fisherfolks to have sound decisions.

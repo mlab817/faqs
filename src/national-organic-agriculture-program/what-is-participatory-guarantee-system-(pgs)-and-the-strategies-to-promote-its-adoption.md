@@ -1,15 +1,10 @@
+--- 
+ title: What is Participatory Guarantee System (PGS) and the strategies to promote its adoption?
+ ---
 
----
+## National Organic Agriculture Program
 
-title: What is Participatory Guarantee System (PGS) and the strategies to promote its adoption?
-
-tags: ["participatory","guarantee","system","pgs","strategies","promote","adoption"]
-
----
-
-### National Organic Agriculture Program
-
-## What is Participatory Guarantee System (PGS) and the strategies to promote its adoption?
+# What is Participatory Guarantee System (PGS) and the strategies to promote its adoption?
 
 
  - PGS is a locally-focused quality assurance system that is developed and practiced by people engaged in organic agriculture. PGS is built on a foundation of trust, social networks, and knowledge exchange that should be used to certify producers and farmers as actual and active practitioners of the industry. 

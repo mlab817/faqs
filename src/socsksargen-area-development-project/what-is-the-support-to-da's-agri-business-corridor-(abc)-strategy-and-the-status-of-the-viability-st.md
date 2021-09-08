@@ -1,15 +1,10 @@
+--- 
+ title: What is the support to DA’s Agri Business Corridor (ABC) strategy and the Status of the Viability Study on Agro-Industrial Hubs in SOCCSKSARGEN?
+ ---
 
----
+## SOCSKSARGEN Area Development Project
 
-title: What is the support to DA’s Agri Business Corridor (ABC) strategy and the Status of the Viability Study on Agro-Industrial Hubs in SOCCSKSARGEN?
-
-tags: ["support","agri","business","corridor","abc","strategy","status","viability","study","agroindustrial","hubs","soccsksargen"]
-
----
-
-### SOCSKSARGEN Area Development Project
-
-## What is the support to DA’s Agri Business Corridor (ABC) strategy and the Status of the Viability Study on Agro-Industrial Hubs in SOCCSKSARGEN?
+# What is the support to DA’s Agri Business Corridor (ABC) strategy and the Status of the Viability Study on Agro-Industrial Hubs in SOCCSKSARGEN?
 
 
  - The Area Development Program Office (ADPO) coordinates and facilitates the development of Agro-industrial Hubs in SOCCSKSARGEN, in line with the ABC strategy of the DA. Development of agro-industrial hubs in SOCCSKSARGEN is part of ADPO’s priorities for CY 2020-2022. 

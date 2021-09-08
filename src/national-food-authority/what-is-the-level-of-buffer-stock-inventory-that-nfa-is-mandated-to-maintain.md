@@ -1,15 +1,10 @@
+--- 
+ title: What is the level of buffer stock inventory that NFA is mandated to maintain?
+ ---
 
----
+## National Food Authority
 
-title: What is the level of buffer stock inventory that NFA is mandated to maintain?
-
-tags: ["level","buffer","stock","inventory","nfa","mandated","maintain"]
-
----
-
-### National Food Authority
-
-## What is the level of buffer stock inventory that NFA is mandated to maintain?
+# What is the level of buffer stock inventory that NFA is mandated to maintain?
 
 
  - As prescribed in the Implementing Rules and Regulations (IRR) of RA 11203, NFA commissioned an independent study to determine the optimal buffer stock for the agency's mandate.  

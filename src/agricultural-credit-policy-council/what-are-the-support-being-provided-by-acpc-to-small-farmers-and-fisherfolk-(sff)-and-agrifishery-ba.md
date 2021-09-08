@@ -1,15 +1,10 @@
+--- 
+ title: What are the support being provided by ACPC to small farmers and fisherfolk (SFF) and agri/fishery-based MSEs affected by the COVID-19?
+ ---
 
----
+## Agricultural Credit Policy Council
 
-title: What are the support being provided by ACPC to small farmers and fisherfolk (SFF) and agri/fishery-based MSEs affected by the COVID-19?
-
-tags: ["support","provided","acpc","small","farmers","fisherfolk","sff","agrifisherybased","mses","affected","covid"]
-
----
-
-### Agricultural Credit Policy Council
-
-## What are the support being provided by ACPC to small farmers and fisherfolk (SFF) and agri/fishery-based MSEs affected by the COVID-19?
+# What are the support being provided by ACPC to small farmers and fisherfolk (SFF) and agri/fishery-based MSEs affected by the COVID-19?
 
 
  - Implementation of accessible and affordable credit programs.

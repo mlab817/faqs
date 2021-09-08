@@ -1,15 +1,10 @@
+--- 
+ title: What is the current status of African Swine Fever (ASF) in the Philippines?
+ ---
 
----
+## African Swine Fever (ASF)
 
-title: What is the current status of African Swine Fever (ASF) in the Philippines?
-
-tags: ["current","status","african","swine","fever","asf","philippines"]
-
----
-
-### African Swine Fever (ASF)
-
-## What is the current status of African Swine Fever (ASF) in the Philippines?
+# What is the current status of African Swine Fever (ASF) in the Philippines?
 
 
  - As of 9 August 2021, ASF has already affected 12 regions, 50 provinces, 571 cities and municipalities and 2,958 barangays since it started in August 2019. 

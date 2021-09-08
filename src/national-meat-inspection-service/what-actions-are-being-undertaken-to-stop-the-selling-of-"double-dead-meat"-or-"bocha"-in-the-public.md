@@ -1,15 +1,10 @@
+--- 
+ title: What actions are being undertaken to stop the selling of “double-dead meat” or “bocha” in the public market?
+ ---
 
----
+## National Meat Inspection Service
 
-title: What actions are being undertaken to stop the selling of “double-dead meat” or “bocha” in the public market?
-
-tags: ["actions","undertaken","stop","selling","doubledead","meat","bocha","public","market"]
-
----
-
-### National Meat Inspection Service
-
-## What actions are being undertaken to stop the selling of “double-dead meat” or “bocha” in the public market?
+# What actions are being undertaken to stop the selling of “double-dead meat” or “bocha” in the public market?
 
 
  - The NMIS intensified its campaign against the rampant selling of “bocha or double-dead meat” through Task Force Bantay Karne (TFBK).  

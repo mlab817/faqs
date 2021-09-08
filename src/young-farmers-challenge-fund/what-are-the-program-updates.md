@@ -1,15 +1,10 @@
+--- 
+ title: What are the program updates?
+ ---
 
----
+## Young Farmers Challenge Fund
 
-title: What are the program updates?
-
-tags: ["program","updates"]
-
----
-
-### Young Farmers Challenge Fund
-
-## What are the program updates?
+# What are the program updates?
 
 
  - The Special Allotment Release Order (SARO) was released by DBM on May 25, 2021. Advice for Sub-Allotment (ASA) to the DA-RFOs was approved and subsequently released on June 21, 2021.

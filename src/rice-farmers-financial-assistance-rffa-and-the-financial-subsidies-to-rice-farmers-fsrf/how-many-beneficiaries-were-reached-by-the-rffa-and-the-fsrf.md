@@ -1,15 +1,10 @@
+--- 
+ title: How many beneficiaries were reached by the RFFA and the FSRF?
+ ---
 
----
+## Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
 
-title: How many beneficiaries were reached by the RFFA and the FSRF?
-
-tags: ["many","beneficiaries","reached","rffa","fsrf"]
-
----
-
-### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
-
-## How many beneficiaries were reached by the RFFA and the FSRF?
+# How many beneficiaries were reached by the RFFA and the FSRF?
 
 
  - For RFFA, there are 544,490 rice farmers who benefited from the program while for the FSRF, there are 536,119 claimed transactions across the country.

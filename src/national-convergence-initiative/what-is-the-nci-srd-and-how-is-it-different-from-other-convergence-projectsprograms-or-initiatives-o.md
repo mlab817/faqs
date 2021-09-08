@@ -1,15 +1,10 @@
+--- 
+ title: What is the NCI-SRD and how is it different from other convergence projects/programs or initiatives of government?
+ ---
 
----
+## National Convergence Initiative
 
-title: What is the NCI-SRD and how is it different from other convergence projects/programs or initiatives of government?
-
-tags: ["ncisrd","different","convergence","projectsprograms","initiatives","government"]
-
----
-
-### National Convergence Initiative
-
-## What is the NCI-SRD and how is it different from other convergence projects/programs or initiatives of government?
+# What is the NCI-SRD and how is it different from other convergence projects/programs or initiatives of government?
 
 
  - The NCI-SRD is a government strategy of the DA-DAR-DENR-DILG as the four main rural development agencies operating under its Joint Administrative Order No. 01, series of 2020.

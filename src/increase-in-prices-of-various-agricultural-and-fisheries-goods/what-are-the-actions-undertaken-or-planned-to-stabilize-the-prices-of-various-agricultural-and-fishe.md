@@ -1,15 +1,10 @@
+--- 
+ title: What are the actions undertaken or planned to stabilize the prices of various agricultural and fisheries goods?
+ ---
 
----
+## Increase in prices of various agricultural and fisheries goods
 
-title: What are the actions undertaken or planned to stabilize the prices of various agricultural and fisheries goods?
-
-tags: ["actions","undertaken","planned","stabilize","prices","various","agricultural","fisheries","goods"]
-
----
-
-### Increase in prices of various agricultural and fisheries goods
-
-## What are the actions undertaken or planned to stabilize the prices of various agricultural and fisheries goods?
+# What are the actions undertaken or planned to stabilize the prices of various agricultural and fisheries goods?
 
 
  - Regular monitoring of retail prices of basic food commodities in selected wet markets and supermarkets in Metro Manila;

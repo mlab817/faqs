@@ -1,15 +1,10 @@
+--- 
+ title: What is the reason for the PhP 17.5 billion unliquidated fund transfers and cash advances to agencies, local government units, government-controlled corporations and non-government organizations in 2020 per COA’s report?
+ ---
 
----
+## DA Responses to COA Queries
 
-title: What is the reason for the PhP 17.5 billion unliquidated fund transfers and cash advances to agencies, local government units, government-controlled corporations and non-government organizations in 2020 per COA’s report?
-
-tags: ["reason","billion","unliquidated","fund","transfers","cash","advances","agencies","local","government","units","governmentcontrolled","corporations","nongovernment","organizations","coa","report"]
-
----
-
-### DA Responses to COA Queries
-
-## What is the reason for the PhP 17.5 billion unliquidated fund transfers and cash advances to agencies, local government units, government-controlled corporations and non-government organizations in 2020 per COA’s report?
+# What is the reason for the PhP 17.5 billion unliquidated fund transfers and cash advances to agencies, local government units, government-controlled corporations and non-government organizations in 2020 per COA’s report?
 
 
  - The DA experienced difficulty enforcing the submission of duly signed documentation, which is required for liquidation, due to the pandemic.

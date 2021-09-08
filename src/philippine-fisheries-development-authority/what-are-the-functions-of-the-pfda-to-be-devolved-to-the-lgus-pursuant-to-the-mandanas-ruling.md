@@ -1,15 +1,10 @@
+--- 
+ title: What are the functions of the PFDA to be devolved to the LGUs pursuant to the Mandanas Ruling?
+ ---
 
----
+## Philippine Fisheries Development Authority
 
-title: What are the functions of the PFDA to be devolved to the LGUs pursuant to the Mandanas Ruling?
-
-tags: ["functions","pfda","devolved","lgus","pursuant","mandanas","ruling"]
-
----
-
-### Philippine Fisheries Development Authority
-
-## What are the functions of the PFDA to be devolved to the LGUs pursuant to the Mandanas Ruling?
+# What are the functions of the PFDA to be devolved to the LGUs pursuant to the Mandanas Ruling?
 
 
  - Construction, operation, management and ownership of municipal fish ports (MFPs) are to be devolved to the richest and most capable LGUs (i.e. 1st to 4th class LGUs) and only provide technical assistance to these LGUs when requested. This will enable the NGAs to focus their financial assistance to the least financially able LGUs (i.e. 5th and 6th class). Jurisdiction over MFPs in municipalities under 4th and 5th class shall be retained under the Authority's jurisdiction.

@@ -1,15 +1,10 @@
+--- 
+ title: What are the strategies to ensure there is no duplication of beneficiaries of the RCEF Seed Program getting the same interventions from the National Rice Program (NRP)?
+ ---
 
----
+## Rice Competitiveness Enhancement Fund (RCEF)
 
-title: What are the strategies to ensure there is no duplication of beneficiaries of the RCEF Seed Program getting the same interventions from the National Rice Program (NRP)?
-
-tags: ["strategies","ensure","duplication","beneficiaries","rcef","seed","program","getting","interventions","national","rice","program","nrp"]
-
----
-
-### Rice Competitiveness Enhancement Fund (RCEF)
-
-## What are the strategies to ensure there is no duplication of beneficiaries of the RCEF Seed Program getting the same interventions from the National Rice Program (NRP)?
+# What are the strategies to ensure there is no duplication of beneficiaries of the RCEF Seed Program getting the same interventions from the National Rice Program (NRP)?
 
 
  - The duplication of beneficiaries for RCEF and NRP was prevented through the delineation of provinces. Starting 2021 Wet Season (WS), the RCEF Seed Program focused on 42 of the 57 provinces which have relatively low yield and have low adoption of certified seeds. 

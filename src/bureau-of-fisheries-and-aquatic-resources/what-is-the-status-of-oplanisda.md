@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of OplanISDA?
+ ---
 
----
+## Bureau of Fisheries and Aquatic Resources
 
-title: What is the status of OplanISDA?
-
-tags: ["status","oplanisda"]
-
----
-
-### Bureau of Fisheries and Aquatic Resources
-
-## What is the status of OplanISDA?
+# What is the status of OplanISDA?
 
 
  - OplanISDA aims to establish a strong direct link between the producers and the sellers of fish commodities and provide additional supply at an affordable price in the NCR and other areas of the country:

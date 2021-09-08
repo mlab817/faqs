@@ -1,15 +1,10 @@
+--- 
+ title: Why choose Mindanao as the priority area for securing World Bank Financial Assistance?
+ ---
 
----
+## Mindanao Inclusive Agriculture Development Project
 
-title: Why choose Mindanao as the priority area for securing World Bank Financial Assistance?
-
-tags: ["choose","mindanao","priority","area","securing","world","bank","financial","assistance"]
-
----
-
-### Mindanao Inclusive Agriculture Development Project
-
-## Why choose Mindanao as the priority area for securing World Bank Financial Assistance?
+# Why choose Mindanao as the priority area for securing World Bank Financial Assistance?
 
 
  - World Bank selected Mindanao as the priority area for securing financial assistance due to the poverty incidence particularly prevalent among Indigenous People (IPs), who constitute about 14 percent of the Philippine population, 61 percent lives in Mindanao, and most  in the remote Ancestral Domains (ADs). The poverty reflects the strong nexus between poverty and vulnerability, both to conflict, and to the impacts of natural hazards, climate change, and peace and development. Some three-quarters of poor Filipinos live in rural areas, and the rural poverty rate is three times higher than urban areas.

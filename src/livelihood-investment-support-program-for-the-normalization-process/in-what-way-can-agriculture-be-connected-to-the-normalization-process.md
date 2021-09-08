@@ -1,15 +1,10 @@
+--- 
+ title: In what way can Agriculture be connected to the Normalization process?
+ ---
 
----
+## Livelihood Investment Support Program for the Normalization Process
 
-title: In what way can Agriculture be connected to the Normalization process?
-
-tags: ["way","agriculture","connected","normalization","process"]
-
----
-
-### Livelihood Investment Support Program for the Normalization Process
-
-## In what way can Agriculture be connected to the Normalization process?
+# In what way can Agriculture be connected to the Normalization process?
 
 
  - The areas of conflict are agricultural areas. If agriculture is developed in these areas, it will promote economic development, peace, and social stability.

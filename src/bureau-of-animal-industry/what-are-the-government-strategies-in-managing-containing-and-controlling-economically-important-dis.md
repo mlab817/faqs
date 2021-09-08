@@ -1,15 +1,10 @@
+--- 
+ title: What are the government strategies in managing, containing and controlling Economically Important Diseases?
+ ---
 
----
+## Bureau of Animal Industry
 
-title: What are the government strategies in managing, containing and controlling Economically Important Diseases?
-
-tags: ["government","strategies","managing","containing","controlling","economically","important","diseases"]
-
----
-
-### Bureau of Animal Industry
-
-## What are the government strategies in managing, containing and controlling Economically Important Diseases?
+# What are the government strategies in managing, containing and controlling Economically Important Diseases?
 
 
  - Continuous implementation of surveillance systems in the early detection and warnings of local and foreign animal diseases and regulation of animal facilities and products.

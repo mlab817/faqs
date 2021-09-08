@@ -1,15 +1,10 @@
+--- 
+ title: What are the available programs of the ATI for the youth in 2021?
+ ---
 
----
+## Agricultural Training Institute
 
-title: What are the available programs of the ATI for the youth in 2021?
-
-tags: ["available","programs","ati","youth"]
-
----
-
-### Agricultural Training Institute
-
-## What are the available programs of the ATI for the youth in 2021?
+# What are the available programs of the ATI for the youth in 2021?
 
 
  - Capacity Building/Capability Enhancement – aims to provide need-based and technical training aimed at improving knowledge, skills, and attitude on various topics related to agriculture, fisheries, leadership, managerial, organizational and entrepreneurial skills of the youth.

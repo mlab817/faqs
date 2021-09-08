@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of the programs and interventions attributed to End Local Communist Armed Conflict (ELCAC)?
+ ---
 
----
+## DA Special Concerns
 
-title: What is the status of the programs and interventions attributed to End Local Communist Armed Conflict (ELCAC)?
-
-tags: ["status","programs","interventions","attributed","end","local","communist","armed","conflict","elcac"]
-
----
-
-### DA Special Concerns
-
-## What is the status of the programs and interventions attributed to End Local Communist Armed Conflict (ELCAC)?
+# What is the status of the programs and interventions attributed to End Local Communist Armed Conflict (ELCAC)?
 
 
  - The DA is actively participating on sub clusters under the NTF-ELCAC: Sectoral Unification, Capacity Building, Empowerment and Mobilization Cluster (SUCBEM); Enhanced Comprehensive Local Integration Program (E-CLIP); and the Poverty Reduction Livelihood and Employment Cluster (PRLEC).

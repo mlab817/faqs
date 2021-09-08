@@ -1,15 +1,10 @@
+--- 
+ title: What are the contribution to Climate Change Mitigation and Adaptation Strategies?
+ ---
 
----
+## SOCSKSARGEN Area Development Project
 
-title: What are the contribution to Climate Change Mitigation and Adaptation Strategies?
-
-tags: ["contribution","climate","change","mitigation","adaptation","strategies"]
-
----
-
-### SOCSKSARGEN Area Development Project
-
-## What are the contribution to Climate Change Mitigation and Adaptation Strategies?
+# What are the contribution to Climate Change Mitigation and Adaptation Strategies?
 
 
  - ADPO promotes planting of bamboos along critical riverbanks through the Riverbank Rehabilitation Project in SOCCSKSARGEN, in support to Climate Change Mitigation and Adaptation. Bamboos stabilize the riverbanks and slopes and mitigate the damage caused by flash floods to nearby agricultural areas. The project will also support future livelihood/cottage industry projects and food production, thus maximizing the use of government resources.

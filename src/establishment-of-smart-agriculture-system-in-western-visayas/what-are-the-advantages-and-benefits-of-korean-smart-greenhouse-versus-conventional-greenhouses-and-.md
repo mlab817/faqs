@@ -1,15 +1,10 @@
+--- 
+ title: What are the advantages and benefits of Korean Smart Greenhouse versus conventional greenhouses and open field production?
+ ---
 
----
+## Establishment of Smart Agriculture System in Western Visayas
 
-title: What are the advantages and benefits of Korean Smart Greenhouse versus conventional greenhouses and open field production?
-
-tags: ["advantages","benefits","korean","smart","greenhouse","versus","conventional","greenhouses","open","field","production"]
-
----
-
-### Establishment of Smart Agriculture System in Western Visayas
-
-## What are the advantages and benefits of Korean Smart Greenhouse versus conventional greenhouses and open field production?
+# What are the advantages and benefits of Korean Smart Greenhouse versus conventional greenhouses and open field production?
 
 
  - Smart farm or greenhouse is an ICT-based smart greenhouse system in horticulture controls the growth environment of crops inside the greenhouse, thus increases crop production and supply stability through the automation of farm.

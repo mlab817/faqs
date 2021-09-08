@@ -1,15 +1,10 @@
+--- 
+ title: What is the total project cost of the SPFS project?
+ ---
 
----
+## Solar-Powered Fertigation Project
 
-title: What is the total project cost of the SPFS project?
-
-tags: ["total","project","cost","spfs","project"]
-
----
-
-### Solar-Powered Fertigation Project
-
-## What is the total project cost of the SPFS project?
+# What is the total project cost of the SPFS project?
 
 
  - For 3 years, the SPFS project cost is PhP 15.755 Billion;

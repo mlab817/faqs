@@ -1,15 +1,10 @@
+--- 
+ title: What are the criteria used in the selection of sites for project implementation as well as the procedure in requesting assistance for the establishment of post-harvest facilities?
+ ---
 
----
+## Philippine Fisheries Development Authority
 
-title: What are the criteria used in the selection of sites for project implementation as well as the procedure in requesting assistance for the establishment of post-harvest facilities?
-
-tags: ["criteria","used","selection","sites","project","implementation","well","procedure","requesting","assistance","establishment","postharvest","facilities"]
-
----
-
-### Philippine Fisheries Development Authority
-
-## What are the criteria used in the selection of sites for project implementation as well as the procedure in requesting assistance for the establishment of post-harvest facilities?
+# What are the criteria used in the selection of sites for project implementation as well as the procedure in requesting assistance for the establishment of post-harvest facilities?
 
 
  - Foremost is the availability of fishery resources/supply in the area. Demand for the proposed facilities should likewise be established. The proposed site should be relatively peaceful and power and water supplies should be readily available. Presence of good roads and communication network is an advantage.

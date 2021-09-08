@@ -1,15 +1,10 @@
+--- 
+ title: How easy or adoptable is the Smart Greenhouse’s level of automation?
+ ---
 
----
+## Establishment of Smart Greenhouse in Western Visayas
 
-title: How easy or adoptable is the Smart Greenhouse’s level of automation?
-
-tags: ["easy","adoptable","smart","greenhouse","level","automation"]
-
----
-
-### Establishment of Smart Greenhouse in Western Visayas
-
-## How easy or adoptable is the Smart Greenhouse’s level of automation?
+# How easy or adoptable is the Smart Greenhouse’s level of automation?
 
 
  - The project will provide hands-on training to adopters in terms of  using improved agricultural technology for smart greenhouse, and these are embedded with details on Good Agricultural Practices, climate change resilient, and advance off season production to help us attain our goal in terms of food production and security. 

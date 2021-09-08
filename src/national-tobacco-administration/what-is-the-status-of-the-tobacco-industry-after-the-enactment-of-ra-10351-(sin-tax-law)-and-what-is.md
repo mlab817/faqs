@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of the tobacco industry after the enactment of RA 10351 (Sin Tax Law), and what is the NTA doing to help tobacco farmers cope with the effects of the increase in excise taxes?
+ ---
 
----
+## National Tobacco Administration
 
-title: What is the status of the tobacco industry after the enactment of RA 10351 (Sin Tax Law), and what is the NTA doing to help tobacco farmers cope with the effects of the increase in excise taxes?
-
-tags: ["status","tobacco","industry","enactment","ra","sin","tax","law","nta","help","tobacco","farmers","cope","effects","increase","excise","taxes"]
-
----
-
-### National Tobacco Administration
-
-## What is the status of the tobacco industry after the enactment of RA 10351 (Sin Tax Law), and what is the NTA doing to help tobacco farmers cope with the effects of the increase in excise taxes?
+# What is the status of the tobacco industry after the enactment of RA 10351 (Sin Tax Law), and what is the NTA doing to help tobacco farmers cope with the effects of the increase in excise taxes?
 
 
  - Domestic demand for tobacco products has fallen by more than 40% since the enactment of the law in 2012;

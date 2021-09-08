@@ -1,15 +1,10 @@
+--- 
+ title: What is Young Farmers Challenge Fund program?
+ ---
 
----
+## Young Farmers Challenge Fund
 
-title: What is Young Farmers Challenge Fund program?
-
-tags: ["young","farmers","challenge","fund","program"]
-
----
-
-### Young Farmers Challenge Fund
-
-## What is Young Farmers Challenge Fund program?
+# What is Young Farmers Challenge Fund program?
 
 
  - It is a competitive grant assistance program for the youth. It is open to all interested youth aged 18-30 years old with proposed agri-business ventures which are innovative and with viability potential. The program shall award the winners with cash prizes for start-up capital.  

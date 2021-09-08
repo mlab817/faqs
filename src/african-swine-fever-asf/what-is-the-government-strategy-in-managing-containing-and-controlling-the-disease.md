@@ -1,15 +1,10 @@
+--- 
+ title: What is the government strategy in managing, containing, and controlling the disease?
+ ---
 
----
+## African Swine Fever (ASF)
 
-title: What is the government strategy in managing, containing, and controlling the disease?
-
-tags: ["government","strategy","managing","containing","controlling","disease"]
-
----
-
-### African Swine Fever (ASF)
-
-## What is the government strategy in managing, containing, and controlling the disease?
+# What is the government strategy in managing, containing, and controlling the disease?
 
 
  - 1-7-10 Protocol - used in controlling the spread of ASF in an area known to have the disease infection as supported by laboratory evidence implemented as follows:

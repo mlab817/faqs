@@ -7,17 +7,13 @@ function shorten(text) {
     return text.substr(0, 100)
 }
 
-json2md.converters.text = function(string, json2md) {
-    return string;
-}
-
 faqs.forEach(faq => {
     const responses = faq.response.split('\n')
     const frontmatter = '--- \n title: ' + faq.question + '\n ---'
 
     const docs = json2md([
     {
-        text: frontmatter
+        p: frontmatter
     },
     //     {
     //     text: '---'

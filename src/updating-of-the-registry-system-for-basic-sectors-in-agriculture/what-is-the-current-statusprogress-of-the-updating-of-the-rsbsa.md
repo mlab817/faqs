@@ -1,15 +1,10 @@
+--- 
+ title: What is the current status/progress of the Updating of the RSBSA?
+ ---
 
----
+## Updating of the Registry System for Basic Sectors in Agriculture
 
-title: What is the current status/progress of the Updating of the RSBSA?
-
-tags: ["current","statusprogress","updating","rsbsa"]
-
----
-
-### Updating of the Registry System for Basic Sectors in Agriculture
-
-## What is the current status/progress of the Updating of the RSBSA?
+# What is the current status/progress of the Updating of the RSBSA?
 
 
  - For FY 2021, here are RSBSA’s accomplishments:

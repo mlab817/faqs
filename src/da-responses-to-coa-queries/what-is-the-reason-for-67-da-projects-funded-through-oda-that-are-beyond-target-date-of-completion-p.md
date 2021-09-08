@@ -1,15 +1,10 @@
+--- 
+ title: What is the reason for 67 DA Projects funded through ODA that are beyond target date of completion per COA’s report?
+ ---
 
----
+## DA Responses to COA Queries
 
-title: What is the reason for 67 DA Projects funded through ODA that are beyond target date of completion per COA’s report?
-
-tags: ["reason","projects","funded","oda","beyond","target","date","completion","coa","report"]
-
----
-
-### DA Responses to COA Queries
-
-## What is the reason for 67 DA Projects funded through ODA that are beyond target date of completion per COA’s report?
+# What is the reason for 67 DA Projects funded through ODA that are beyond target date of completion per COA’s report?
 
 
  - The Philippine Rural Development Project (PRDP) has instituted measures to catch-up with the delays and has put in place strategies enabling expeditious work to ongoing PRDP subprojects. Of the 21 delayed I-BUILD subprojects, 14 subprojects are already completed with an amount of PhP 938.42 million while two (2) ongoing subprojects have positive variance against their target accomplishment. Contractors were required to submit catch-up plans.

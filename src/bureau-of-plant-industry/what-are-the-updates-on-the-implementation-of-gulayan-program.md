@@ -1,15 +1,10 @@
+--- 
+ title: What are the updates on the implementation of Gulayan Program?
+ ---
 
----
+## Bureau of Plant Industry
 
-title: What are the updates on the implementation of Gulayan Program?
-
-tags: ["updates","implementation","gulayan","program"]
-
----
-
-### Bureau of Plant Industry
-
-## What are the updates on the implementation of Gulayan Program?
+# What are the updates on the implementation of Gulayan Program?
 
 
  - Twelve (12) partners signed the Memorandum of Agreement (MOA) in NCR and BPI Centers, with a total of 47 MOA signed from 2020;

@@ -1,15 +1,10 @@
+--- 
+ title: What is the physical and financial status of PRDP (as of June 2021)?
+ ---
 
----
+## Philippine Rural Development Project
 
-title: What is the physical and financial status of PRDP (as of June 2021)?
-
-tags: ["physical","financial","status","prdp","june"]
-
----
-
-### Philippine Rural Development Project
-
-## What is the physical and financial status of PRDP (as of June 2021)?
+# What is the physical and financial status of PRDP (as of June 2021)?
 
 
  - Approved Value Chain Analysis (VCAs). The project has a total of 132 approved VCAs supporting 76 various commodities and product forms

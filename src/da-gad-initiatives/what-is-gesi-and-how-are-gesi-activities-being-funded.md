@@ -1,15 +1,10 @@
+--- 
+ title: What is GESI and how are GESI Activities being funded?
+ ---
 
----
+## DA GAD Initiatives
 
-title: What is GESI and how are GESI Activities being funded?
-
-tags: ["gesi","gesi","activities","funded"]
-
----
-
-### DA GAD Initiatives
-
-## What is GESI and how are GESI Activities being funded?
+# What is GESI and how are GESI Activities being funded?
 
 
  - GESI stands for Gender Equality and Social Inclusion. It is a concept that addresses unequal power relations experienced by people on the grounds of gender, wealth, ability, location, caste/ethnicity, language, and agency or a combination of these dimensions. 

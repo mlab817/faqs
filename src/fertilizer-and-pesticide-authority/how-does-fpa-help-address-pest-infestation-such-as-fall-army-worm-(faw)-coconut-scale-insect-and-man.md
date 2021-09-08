@@ -1,15 +1,10 @@
+--- 
+ title: How does FPA help address pest infestation such as Fall Army Worm (FAW), Coconut Scale insect and Mango Weevil?
+ ---
 
----
+## Fertilizer and Pesticide Authority
 
-title: How does FPA help address pest infestation such as Fall Army Worm (FAW), Coconut Scale insect and Mango Weevil?
-
-tags: ["fpa","help","address","pest","infestation","fall","army","worm","faw","coconut","scale","insect","mango","weevil"]
-
----
-
-### Fertilizer and Pesticide Authority
-
-## How does FPA help address pest infestation such as Fall Army Worm (FAW), Coconut Scale insect and Mango Weevil?
+# How does FPA help address pest infestation such as Fall Army Worm (FAW), Coconut Scale insect and Mango Weevil?
 
 
  - The FPA is mandated to assure the public of safe and adequate supply of fertilizers, pesticides and other agricultural chemicals through the issuance of licenses, registrations and permits. Applications for pesticide registrations to combat the infestations have been prioritized as the situation requires. 

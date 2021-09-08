@@ -1,15 +1,10 @@
+--- 
+ title: What are the measures to control FAW and prevent incidence?
+ ---
 
----
+## Fall Army Worm (FAW)
 
-title: What are the measures to control FAW and prevent incidence?
-
-tags: ["measures","control","faw","prevent","incidence"]
-
----
-
-### Fall Army Worm (FAW)
-
-## What are the measures to control FAW and prevent incidence?
+# What are the measures to control FAW and prevent incidence?
 
 
  - Physical and Cultural Methods: Hand picking and Manual crushing;

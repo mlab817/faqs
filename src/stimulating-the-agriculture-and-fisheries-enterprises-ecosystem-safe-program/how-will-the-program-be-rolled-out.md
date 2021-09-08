@@ -1,15 +1,10 @@
+--- 
+ title: How will the program be rolled out?
+ ---
 
----
+## Stimulating the Agriculture and Fisheries Enterprises Ecosystem (SAFE) Program
 
-title: How will the program be rolled out?
-
-tags: ["program","rolled"]
-
----
-
-### Stimulating the Agriculture and Fisheries Enterprises Ecosystem (SAFE) Program
-
-## How will the program be rolled out?
+# How will the program be rolled out?
 
 
  - Phase 1: Awareness raising and team-building. This includes the setting-up of the Technology Business Incubator (TBI) project team, crafting of a workplan and awareness-raising of the TBI project. 

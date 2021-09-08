@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of monetization and utilization of the 2KR Program as of June 30, 2021?
+ ---
 
----
+## Philippine Council for Agriculture and Fisheries
 
-title: What is the status of monetization and utilization of the 2KR Program as of June 30, 2021?
-
-tags: ["status","monetization","utilization","kr","program","june"]
-
----
-
-### Philippine Council for Agriculture and Fisheries
-
-## What is the status of monetization and utilization of the 2KR Program as of June 30, 2021?
+# What is the status of monetization and utilization of the 2KR Program as of June 30, 2021?
 
 
  - As of June 2021, the 2KR Program has a fund balance of PhP 47,350,298 for agri & fishery projects. However, there are still funds reverted to the Bureau of the Treasury which is from the unexpended balances of approved completed/terminated projects, and remittances from the Farm Level Grains Center (FLGC) project and the Special Vehicle Loan Fund (SVLF) which were terminated as a result of the rationalization. 

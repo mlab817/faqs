@@ -1,15 +1,10 @@
+--- 
+ title: How does the DA provide early warning to farming and fishing communities to mitigate losses from incoming extreme events?
+ ---
 
----
+## Climate Resilient Agriculture Office
 
-title: How does the DA provide early warning to farming and fishing communities to mitigate losses from incoming extreme events?
-
-tags: ["provide","early","warning","farming","fishing","communities","mitigate","losses","incoming","extreme","events"]
-
----
-
-### Climate Resilient Agriculture Office
-
-## How does the DA provide early warning to farming and fishing communities to mitigate losses from incoming extreme events?
+# How does the DA provide early warning to farming and fishing communities to mitigate losses from incoming extreme events?
 
 
  - The issuance of Memorandum Circular no. 04, s.2020 mandates every DA-RFOs to provide Farming-Fishing Advisories based on weather and climate outlook as a basic service. We have built the capacity of our RFOs in providing farm-fishing advisories by using the methodology developed by our experts from the DA RFO V.

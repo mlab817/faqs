@@ -1,15 +1,10 @@
+--- 
+ title: How does DA assist the beneficiaries during the conduct of dispatch operations?
+ ---
 
----
+## BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
 
-title: How does DA assist the beneficiaries during the conduct of dispatch operations?
-
-tags: ["assist","beneficiaries","conduct","dispatch","operations"]
-
----
-
-### BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
-
-## How does DA assist the beneficiaries during the conduct of dispatch operations?
+# How does DA assist the beneficiaries during the conduct of dispatch operations?
 
 
  - The BP2 dispatch operation is being led by the National Housing Authority (NHA), the Secretariat of the BP2 Council. Upon validation of the list of beneficiaries, the NHA coordinates and disseminates the list to all BP2 Program member agencies, including the DA.

@@ -1,15 +1,10 @@
+--- 
+ title: How does SPFP compare with traditional irrigation systems constructed by NIA and BSWM (in terms of cost, technology and efficiency)?
+ ---
 
----
+## Solar-Powered Fertigation Project
 
-title: How does SPFP compare with traditional irrigation systems constructed by NIA and BSWM (in terms of cost, technology and efficiency)?
-
-tags: ["spfp","compare","traditional","irrigation","systems","constructed","nia","bswm","terms","cost","technology","efficiency"]
-
----
-
-### Solar-Powered Fertigation Project
-
-## How does SPFP compare with traditional irrigation systems constructed by NIA and BSWM (in terms of cost, technology and efficiency)?
+# How does SPFP compare with traditional irrigation systems constructed by NIA and BSWM (in terms of cost, technology and efficiency)?
 
 
  - The SPFS is relatively flexible and climate-friendly alternative energy source especially in areas with high fuel cost or where reliable access to electricity grid is lacking. It takes shorter time, as early as 60 days, to be constructed compared with the traditional irrigation systems. 

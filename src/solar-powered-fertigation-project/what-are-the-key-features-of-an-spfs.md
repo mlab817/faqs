@@ -1,15 +1,10 @@
+--- 
+ title: What are the key features of an SPFS?
+ ---
 
----
+## Solar-Powered Fertigation Project
 
-title: What are the key features of an SPFS?
-
-tags: ["key","features","spfs"]
-
----
-
-### Solar-Powered Fertigation Project
-
-## What are the key features of an SPFS?
+# What are the key features of an SPFS?
 
 
  - Solar energy, well system, precise fertilizer solution, smart agriculture, flexible design.

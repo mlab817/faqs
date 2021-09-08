@@ -1,15 +1,10 @@
+--- 
+ title: How will the Supreme Court Ruling on the Mandanas-Garcia Case affect the implementation of the SIDA Programs?
+ ---
 
----
+## Sugar Regulatory Administration
 
-title: How will the Supreme Court Ruling on the Mandanas-Garcia Case affect the implementation of the SIDA Programs?
-
-tags: ["supreme","court","ruling","mandanasgarcia","case","affect","implementation","sida","programs"]
-
----
-
-### Sugar Regulatory Administration
-
-## How will the Supreme Court Ruling on the Mandanas-Garcia Case affect the implementation of the SIDA Programs?
+# How will the Supreme Court Ruling on the Mandanas-Garcia Case affect the implementation of the SIDA Programs?
 
 
  - No functions of SRA were devolved to the Local Government Units; hence, the implementation of the SIDA programs remains with the SRA units. 

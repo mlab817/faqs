@@ -1,15 +1,10 @@
+--- 
+ title: What is the Rice Farmer Financial Assistance Program (RFFA)?
+ ---
 
----
+## Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
 
-title: What is the Rice Farmer Financial Assistance Program (RFFA)?
-
-tags: ["rice","farmer","financial","assistance","program","rffa"]
-
----
-
-### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
-
-## What is the Rice Farmer Financial Assistance Program (RFFA)?
+# What is the Rice Farmer Financial Assistance Program (RFFA)?
 
 
  - Presidential Directive Item No. 2 issued on November 21, 2019, called for an urgent need to set up the Rice Farmer Financial Assistance (RFFA) this year to cater most affected smallholder rice farmers whose farm sizes range from 0.5 to 2 hectares, and to compensate for their income loss due to the decline in palay prices.

@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of the implementation of cold storage facilities funded under Bayanihan II?
+ ---
 
----
+## High Value Crops Development Program
 
-title: What is the status of the implementation of cold storage facilities funded under Bayanihan II?
-
-tags: ["status","implementation","cold","storage","facilities","funded","bayanihan","ii"]
-
----
-
-### High Value Crops Development Program
-
-## What is the status of the implementation of cold storage facilities funded under Bayanihan II?
+# What is the status of the implementation of cold storage facilities funded under Bayanihan II?
 
 
  - Of the P440,000,000, 99% has been obligated while 73% has been disbursed

@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of implementation of the Kadiwa ni Ani at Kita Program?
+ ---
 
----
+## Kadiwa ni Ani at Kita
 
-title: What is the status of implementation of the Kadiwa ni Ani at Kita Program?
-
-tags: ["status","implementation","kadiwa","ni","ani","kita","program"]
-
----
-
-### Kadiwa ni Ani at Kita
-
-## What is the status of implementation of the Kadiwa ni Ani at Kita Program?
+# What is the status of implementation of the Kadiwa ni Ani at Kita Program?
 
 
  - As of June 30, 2021, a total of 159,407.8 tons of agri-fishery commodities was facilitated through the KADIWA ni Ani at Kita Program which benefitted a total of 50,658 farmer cooperatives, associations and agri-fishery enterprises and served 4,357,072 household nationwide.  

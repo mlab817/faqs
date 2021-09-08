@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of the PhP 2.5 billion credit funds provided under Bayanihan II?
+ ---
 
----
+## Agricultural Credit Policy Council
 
-title: What is the status of the PhP 2.5 billion credit funds provided under Bayanihan II?
-
-tags: ["status","billion","credit","funds","provided","bayanihan","ii"]
-
----
-
-### Agricultural Credit Policy Council
-
-## What is the status of the PhP 2.5 billion credit funds provided under Bayanihan II?
+# What is the status of the PhP 2.5 billion credit funds provided under Bayanihan II?
 
 
  - The ACPC was able to disburse the PhP2.5 billion credit funds to partner lending conduits and Land Bank of the Philippines (LBP) by end of December 2020. Disbursement to SFFs and MSE-borrowers is ongoing. Following are the status of disbursement to beneficiaries as of June 30, 2021:

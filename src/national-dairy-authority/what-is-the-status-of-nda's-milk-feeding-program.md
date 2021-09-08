@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of NDA’s Milk Feeding Program?
+ ---
 
----
+## National Dairy Authority
 
-title: What is the status of NDA’s Milk Feeding Program?
-
-tags: ["status","nda","milk","feeding","program"]
-
----
-
-### National Dairy Authority
-
-## What is the status of NDA’s Milk Feeding Program?
+# What is the status of NDA’s Milk Feeding Program?
 
 
  - The NDA’s milk feeding program is a banner program of the NDA under RA 7884. It aims to address undernutrition in the country while providing market and income opportunities for local dairy farmers and cooperatives.

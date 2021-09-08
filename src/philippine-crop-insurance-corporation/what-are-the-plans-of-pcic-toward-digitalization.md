@@ -1,15 +1,10 @@
+--- 
+ title: What are the plans of PCIC toward digitalization?
+ ---
 
----
+## Philippine Crop Insurance Corporation
 
-title: What are the plans of PCIC toward digitalization?
-
-tags: ["plans","pcic","toward","digitalization"]
-
----
-
-### Philippine Crop Insurance Corporation
-
-## What are the plans of PCIC toward digitalization?
+# What are the plans of PCIC toward digitalization?
 
 
  - Underwriting and Claims

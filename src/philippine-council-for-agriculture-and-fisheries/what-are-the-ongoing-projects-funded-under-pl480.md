@@ -1,15 +1,10 @@
+--- 
+ title: What are the ongoing projects funded under PL480?
+ ---
 
----
+## Philippine Council for Agriculture and Fisheries
 
-title: What are the ongoing projects funded under PL480?
-
-tags: ["ongoing","projects","funded","pl"]
-
----
-
-### Philippine Council for Agriculture and Fisheries
-
-## What are the ongoing projects funded under PL480?
+# What are the ongoing projects funded under PL480?
 
 
  - Intensified Community-Based Dairy Enterprise Development (formerly Dairy Goat Farming: A Livelihood Opportunity for Rural Farm Families): implemented by NDA, PCC and PCAF amounting to PhP 1.57 billion.

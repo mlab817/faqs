@@ -1,15 +1,10 @@
+--- 
+ title: What are the actions being done by the program to protect the market share of our export crops?
+ ---
 
----
+## High Value Crops Development Program
 
-title: What are the actions being done by the program to protect the market share of our export crops?
-
-tags: ["actions","done","program","protect","market","share","export","crops"]
-
----
-
-### High Value Crops Development Program
-
-## What are the actions being done by the program to protect the market share of our export crops?
+# What are the actions being done by the program to protect the market share of our export crops?
 
 
  - Technological and institutional innovations were introduced to Adaptation and Mitigation Initiative in Agriculture (AMIA) Villages like soilless agriculture (e.g. Hydroponics, Aeroponics & Vertical Farming) so that they can produce off-season vegetables/crops, and livestock production to increase their income during wet and dry season;

@@ -1,15 +1,10 @@
+--- 
+ title: What are the key findings from the rapid assessment made on RCEF?
+ ---
 
----
+## Rice Competitiveness Enhancement Fund (RCEF)
 
-title: What are the key findings from the rapid assessment made on RCEF?
-
-tags: ["key","findings","rapid","assessment","made","rcef"]
-
----
-
-### Rice Competitiveness Enhancement Fund (RCEF)
-
-## What are the key findings from the rapid assessment made on RCEF?
+# What are the key findings from the rapid assessment made on RCEF?
 
 
  - The key findings are as follows: 

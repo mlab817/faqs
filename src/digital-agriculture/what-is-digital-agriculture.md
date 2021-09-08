@@ -1,15 +1,10 @@
+--- 
+ title: What is Digital Agriculture?
+ ---
 
----
+## Digital Agriculture
 
-title: What is Digital Agriculture?
-
-tags: ["digital","agriculture"]
-
----
-
-### Digital Agriculture
-
-## What is Digital Agriculture?
+# What is Digital Agriculture?
 
 
  - Digital Agriculture is the use of digital technology to integrate agricultural production from farmer to consumer. 

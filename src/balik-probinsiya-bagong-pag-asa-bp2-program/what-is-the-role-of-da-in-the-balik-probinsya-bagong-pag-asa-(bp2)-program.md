@@ -1,15 +1,10 @@
+--- 
+ title: What is the role of DA in the Balik-Probinsya, Bagong Pag-asa (BP2) Program?
+ ---
 
----
+## BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
 
-title: What is the role of DA in the Balik-Probinsya, Bagong Pag-asa (BP2) Program?
-
-tags: ["role","balikprobinsya","bagong","pagasa","bp","program"]
-
----
-
-### BALIK-PROBINSIYA, BAGONG PAG-ASA (BP2) PROGRAM
-
-## What is the role of DA in the Balik-Probinsya, Bagong Pag-asa (BP2) Program?
+# What is the role of DA in the Balik-Probinsya, Bagong Pag-asa (BP2) Program?
 
 
  - The DA, as a member of the BP2 Council, is working to address the program’s key area on Food Security and Agricultural Productivity by empowering BP2 beneficiaries to engage in sustainable rural development, while creating an environment conducive to agri-fishery entrepreneurship, promoting balanced regional development through resilient agro-industrialization.

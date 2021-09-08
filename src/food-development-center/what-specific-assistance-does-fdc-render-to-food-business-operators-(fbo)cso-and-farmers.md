@@ -1,15 +1,10 @@
+--- 
+ title: What specific assistance does FDC render to Food Business Operators (FBO)/CSO and farmers?
+ ---
 
----
+## Food Development Center
 
-title: What specific assistance does FDC render to Food Business Operators (FBO)/CSO and farmers?
-
-tags: ["specific","assistance","fdc","render","food","business","operators","fbo","cso","farmers"]
-
----
-
-### Food Development Center
-
-## What specific assistance does FDC render to Food Business Operators (FBO)/CSO and farmers?
+# What specific assistance does FDC render to Food Business Operators (FBO)/CSO and farmers?
 
 
  - Product/process development/improvement, product testing, shelf-life studies of packed food products, and establishment of thermal processes of canned foods;

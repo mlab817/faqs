@@ -1,15 +1,10 @@
+--- 
+ title: How does SRA prioritize which Infrastructure projects to implement?
+ ---
 
----
+## Sugar Regulatory Administration
 
-title: How does SRA prioritize which Infrastructure projects to implement?
-
-tags: ["sra","prioritize","infrastructure","projects","implement"]
-
----
-
-### Sugar Regulatory Administration
-
-## How does SRA prioritize which Infrastructure projects to implement?
+# How does SRA prioritize which Infrastructure projects to implement?
 
 
  - All proposals for infrastructure projects must be duly endorsed by the Mill District Development Councils (MDDCs). 

@@ -1,15 +1,10 @@
+--- 
+ title: What is the total land area in the Philippines devoted to organic agriculture as well as the certified OA land area?
+ ---
 
----
+## National Organic Agriculture Program
 
-title: What is the total land area in the Philippines devoted to organic agriculture as well as the certified OA land area?
-
-tags: ["total","land","area","philippines","devoted","organic","agriculture","well","certified","oa","land","area"]
-
----
-
-### National Organic Agriculture Program
-
-## What is the total land area in the Philippines devoted to organic agriculture as well as the certified OA land area?
+# What is the total land area in the Philippines devoted to organic agriculture as well as the certified OA land area?
 
 
  - The  total  organic  agriculture  land  area  is  296,740 hectares (3.003%) of which the certified area is 2,176 hectares (0.022%).

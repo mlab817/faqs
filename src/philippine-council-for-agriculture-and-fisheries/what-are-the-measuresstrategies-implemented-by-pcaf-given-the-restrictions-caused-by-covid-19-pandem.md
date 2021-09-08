@@ -1,15 +1,10 @@
+--- 
+ title: What are the measures/strategies implemented by PCAF given the restrictions caused by Covid 19 pandemic?
+ ---
 
----
+## Philippine Council for Agriculture and Fisheries
 
-title: What are the measures/strategies implemented by PCAF given the restrictions caused by Covid 19 pandemic?
-
-tags: ["measuresstrategies","implemented","pcaf","given","restrictions","caused","covid","pandemic"]
-
----
-
-### Philippine Council for Agriculture and Fisheries
-
-## What are the measures/strategies implemented by PCAF given the restrictions caused by Covid 19 pandemic?
+# What are the measures/strategies implemented by PCAF given the restrictions caused by Covid 19 pandemic?
 
 
  - The PCAF 2021 Thrusts and Priorities intensifies the operationalization of the Innovative Consultation on A&F Policy Reforms and Engagement (iCARE) Program, through its service brands, as it focuses towards the achievement of its goals and its planned effects on the evidence-based membership, action-oriented policy service and results-based organizational development of the agency. 

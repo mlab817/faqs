@@ -1,15 +1,10 @@
+--- 
+ title: What are the alternative livelihoods for the ASF-affected farmers?
+ ---
 
----
+## African Swine Fever (ASF)
 
-title: What are the alternative livelihoods for the ASF-affected farmers?
-
-tags: ["alternative","livelihoods","asfaffected","farmers"]
-
----
-git a
-### African Swine Fever (ASF)
-
-## What are the alternative livelihoods for the ASF-affected farmers?
+# What are the alternative livelihoods for the ASF-affected farmers?
 
 
  - The NLP allotted several alternative livestock multiplier farm modules (cattle, chicken, duck, and other small ruminants) for FY 2022 Tier 1, with a total of PhP 172 million.

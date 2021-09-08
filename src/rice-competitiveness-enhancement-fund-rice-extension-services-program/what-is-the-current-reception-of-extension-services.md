@@ -1,15 +1,10 @@
+--- 
+ title: What is the current reception of extension services?
+ ---
 
----
+## Rice Competitiveness Enhancement Fund- Rice Extension Services Program
 
-title: What is the current reception of extension services?
-
-tags: ["current","reception","extension","services"]
-
----
-
-### Rice Competitiveness Enhancement Fund- Rice Extension Services Program
-
-## What is the current reception of extension services?
+# What is the current reception of extension services?
 
 
  - The RCEF-RESP conducts elicitation of feedback from its stakeholders during information caravans and other Knowledge Sharing and Learning (KSL) activities. 

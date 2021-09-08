@@ -1,15 +1,10 @@
+--- 
+ title: What is the current status of Avian Influenza (AI) in the country?
+ ---
 
----
+## Avian Influenza (AI)
 
-title: What is the current status of Avian Influenza (AI) in the country?
-
-tags: ["current","status","avian","influenza","ai","country"]
-
----
-
-### Avian Influenza (AI)
-
-## What is the current status of Avian Influenza (AI) in the country?
+# What is the current status of Avian Influenza (AI) in the country?
 
 
  - There were three (3) cases of Highly Pathogenic Avian Influenza (HPAI) Type A H5N6 in the Philippines in 2020 confirmed through laboratory tests conducted in the Bureau of Animal Industry – Animal Disease Diagnosis and Reference Laboratory (BAI-ADDRL):

@@ -1,15 +1,10 @@
+--- 
+ title: What is the National Stock Assessment Program (NSAP)?
+ ---
 
----
+## National Fisheries Research and Development Institute
 
-title: What is the National Stock Assessment Program (NSAP)?
-
-tags: ["national","stock","assessment","program","nsap"]
-
----
-
-### National Fisheries Research and Development Institute
-
-## What is the National Stock Assessment Program (NSAP)?
+# What is the National Stock Assessment Program (NSAP)?
 
 
  - NSAP is a Program that conducts assessment of major pelagic (fish that inhabits in the upper layer of the open sea) and demersal (fish that inhabits in the bottom layer of the open sea) species in major fishing grounds of the county through establishment of standardized time series and biological data. Through stock assessment, Reference Point (RP) can be established.

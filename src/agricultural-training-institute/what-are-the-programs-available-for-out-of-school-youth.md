@@ -1,15 +1,10 @@
+--- 
+ title: What are the programs available for out-of-school youth?
+ ---
 
----
+## Agricultural Training Institute
 
-title: What are the programs available for out-of-school youth?
-
-tags: ["programs","available","outofschool","youth"]
-
----
-
-### Agricultural Training Institute
-
-## What are the programs available for out-of-school youth?
+# What are the programs available for out-of-school youth?
 
 
  - Out-of-school youth (OSY) may avail of any of the available programs of the ATI for youth. 

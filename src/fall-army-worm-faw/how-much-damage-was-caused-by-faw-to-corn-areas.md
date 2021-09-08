@@ -1,15 +1,10 @@
+--- 
+ title: How much damage was caused by FAW to corn areas?
+ ---
 
----
+## Fall Army Worm (FAW)
 
-title: How much damage was caused by FAW to corn areas?
-
-tags: ["much","damage","caused","faw","corn","areas"]
-
----
-
-### Fall Army Worm (FAW)
-
-## How much damage was caused by FAW to corn areas?
+# How much damage was caused by FAW to corn areas?
 
 
  - For the period March - June 2021, only 0.51% or 1,530 ha out of the standing crop of 298,868 ha were infested by FAW. 

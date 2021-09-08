@@ -1,15 +1,10 @@
+--- 
+ title: What are the documentary requirements and procedures for the registration in the NCFRS?
+ ---
 
----
+## Coco Levy Fund
 
-title: What are the documentary requirements and procedures for the registration in the NCFRS?
-
-tags: ["documentary","requirements","procedures","registration","ncfrs"]
-
----
-
-### Coco Levy Fund
-
-## What are the documentary requirements and procedures for the registration in the NCFRS?
+# What are the documentary requirements and procedures for the registration in the NCFRS?
 
 
  - Registration can be done through the following: 

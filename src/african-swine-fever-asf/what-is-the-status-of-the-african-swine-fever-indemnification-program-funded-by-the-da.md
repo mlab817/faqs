@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of the African Swine Fever Indemnification Program funded by the DA?
+ ---
 
----
+## African Swine Fever (ASF)
 
-title: What is the status of the African Swine Fever Indemnification Program funded by the DA?
-
-tags: ["status","african","swine","fever","indemnification","program","funded"]
-
----
-
-### African Swine Fever (ASF)
-
-## What is the status of the African Swine Fever Indemnification Program funded by the DA?
+# What is the status of the African Swine Fever Indemnification Program funded by the DA?
 
 
  - A total amount of PhP 1,155,030,000 was released to the DA RFOs for the indemnification of hog raisers, from the Second Quarter of 2020 up to June 30, 2021, to wit:

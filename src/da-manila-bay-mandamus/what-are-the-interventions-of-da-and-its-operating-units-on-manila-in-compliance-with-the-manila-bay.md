@@ -1,15 +1,10 @@
+--- 
+ title: What are the interventions of DA and its Operating Units on Manila in compliance with the Manila Bay Mandamus?
+ ---
 
----
+## DA-Manila Bay Mandamus
 
-title: What are the interventions of DA and its Operating Units on Manila in compliance with the Manila Bay Mandamus?
-
-tags: ["interventions","operating","units","manila","compliance","manila","bay","mandamus"]
-
----
-
-### DA-Manila Bay Mandamus
-
-## What are the interventions of DA and its Operating Units on Manila in compliance with the Manila Bay Mandamus?
+# What are the interventions of DA and its Operating Units on Manila in compliance with the Manila Bay Mandamus?
 
 
  - The BFAR provided technical assistance to LGUs in terms of: 

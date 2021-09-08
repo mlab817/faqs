@@ -1,15 +1,10 @@
+--- 
+ title: How are the proceeds of 2KR utilized?
+ ---
 
----
+## Philippine Council for Agriculture and Fisheries
 
-title: How are the proceeds of 2KR utilized?
-
-tags: ["proceeds","kr","utilized"]
-
----
-
-### Philippine Council for Agriculture and Fisheries
-
-## How are the proceeds of 2KR utilized?
+# How are the proceeds of 2KR utilized?
 
 
  - The monetized value of commodities under the 2KR is utilized for agricultural and fishery development projects of the DA and its attached agencies. The peso proceeds for the period 1997 to 2003 was shared with NEDA on a 50-50 basis for its social development projects. However, upon the request of the DA, the sharing arrangement became 80-20 in favor of DA including all accruing balances from 1997 onwards.

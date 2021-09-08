@@ -1,15 +1,10 @@
+--- 
+ title: What is the extent of partnership of DA-4KS with NCIP?
+ ---
 
----
+## DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
 
-title: What is the extent of partnership of DA-4KS with NCIP?
-
-tags: ["extent","partnership","daks","ncip"]
-
----
-
-### DA-4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program
-
-## What is the extent of partnership of DA-4KS with NCIP?
+# What is the extent of partnership of DA-4KS with NCIP?
 
 
  - From the time a Joint Special Order No. 1 was signed by two Government Agencies between DA and NCIP spearheaded by DA 4Ks Program, the partnership of helping the Indigenous Cultural Communities/ Indigenous People (ICCs/IPs) was formalized and properly designated the functions and responsibilities of both Agencies. 

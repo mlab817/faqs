@@ -1,15 +1,10 @@
+--- 
+ title: Who are eligible to participate?
+ ---
 
----
+## Young Farmers Challenge Fund
 
-title: Who are eligible to participate?
-
-tags: ["eligible","participate"]
-
----
-
-### Young Farmers Challenge Fund
-
-## Who are eligible to participate?
+# Who are eligible to participate?
 
 
  - Age is 18-30 years old before July 31, 2021; 

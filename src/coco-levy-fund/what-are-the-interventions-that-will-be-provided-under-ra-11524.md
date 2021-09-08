@@ -1,15 +1,10 @@
+--- 
+ title: What are the interventions that will be provided under RA 11524?
+ ---
 
----
+## Coco Levy Fund
 
-title: What are the interventions that will be provided under RA 11524?
-
-tags: ["interventions","provided","ra"]
-
----
-
-### Coco Levy Fund
-
-## What are the interventions that will be provided under RA 11524?
+# What are the interventions that will be provided under RA 11524?
 
 
  - The following interventions compose the major percentage (70%) share in the budget allocation: 

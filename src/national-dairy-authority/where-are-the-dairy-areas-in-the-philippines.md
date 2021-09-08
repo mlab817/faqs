@@ -1,15 +1,10 @@
+--- 
+ title: Where are the dairy areas in the Philippines?
+ ---
 
----
+## National Dairy Authority
 
-title: Where are the dairy areas in the Philippines?
-
-tags: ["dairy","areas","philippines"]
-
----
-
-### National Dairy Authority
-
-## Where are the dairy areas in the Philippines?
+# Where are the dairy areas in the Philippines?
 
 
  - In 2020, there are 66 dairy areas throughout the country. 

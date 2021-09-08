@@ -1,15 +1,10 @@
+--- 
+ title: What is the latest information on Income, Poverty Incidence, Production and Export on fisheries and aquaculture?
+ ---
 
----
+## Bureau of Fisheries and Aquatic Resources
 
-title: What is the latest information on Income, Poverty Incidence, Production and Export on fisheries and aquaculture?
-
-tags: ["latest","information","income","poverty","incidence","production","export","fisheries","aquaculture"]
-
----
-
-### Bureau of Fisheries and Aquatic Resources
-
-## What is the latest information on Income, Poverty Incidence, Production and Export on fisheries and aquaculture?
+# What is the latest information on Income, Poverty Incidence, Production and Export on fisheries and aquaculture?
 
 
  - The latest data from PSA showed that the poverty incidence of fisherfolk in the Philippines declined from 36.9% in 2015 to only 26.2% in 2018. 

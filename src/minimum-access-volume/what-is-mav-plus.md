@@ -1,15 +1,10 @@
+--- 
+ title: What is MAV Plus?
+ ---
 
----
+## Minimum Access Volume
 
-title: What is MAV Plus?
-
-tags: ["mav","plus"]
-
----
-
-### Minimum Access Volume
-
-## What is MAV Plus?
+# What is MAV Plus?
 
 
  - The MAV may be increased, even if the regular allocations have not yet been fully utilized, in order to address the problems of possible commodity shortages or abnormal price increases in the MAV products.

@@ -1,15 +1,10 @@
+--- 
+ title: Why is the implementation of the Milk Feeding Program good for only 20-50 days instead of the 120 days provided by the law?
+ ---
 
----
+## Philippine Carabao Center
 
-title: Why is the implementation of the Milk Feeding Program good for only 20-50 days instead of the 120 days provided by the law?
-
-tags: ["implementation","milk","feeding","program","good","days","instead","days","provided","law"]
-
----
-
-### Philippine Carabao Center
-
-## Why is the implementation of the Milk Feeding Program good for only 20-50 days instead of the 120 days provided by the law?
+# Why is the implementation of the Milk Feeding Program good for only 20-50 days instead of the 120 days provided by the law?
 
 
  - Due to limited funds allotted per School Division Office (SDO), the SDOs prioritize to feed the primary targets (kindergarten learners, Grade 1 to 6 learners who were wasted and severely wasted based on the SBFP report) and adjust the feeding days accordingly. 

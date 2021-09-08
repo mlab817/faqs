@@ -1,15 +1,10 @@
+--- 
+ title: What will be the target status/progress of the Updating of the RSBSA by FY 2022?
+ ---
 
----
+## Updating of the Registry System for Basic Sectors in Agriculture
 
-title: What will be the target status/progress of the Updating of the RSBSA by FY 2022?
-
-tags: ["target","statusprogress","updating","rsbsa"]
-
----
-
-### Updating of the Registry System for Basic Sectors in Agriculture
-
-## What will be the target status/progress of the Updating of the RSBSA by FY 2022?
+# What will be the target status/progress of the Updating of the RSBSA by FY 2022?
 
 
  - For FY 2022, the Updating of the RSBSA targets the profiling of farmers and fisherfolk nationwide and focus on the initiation of the georeferencing activity that aims to link the collected farmer profile to their farm parcel/lot through geotagging their farm. The targets are the following:

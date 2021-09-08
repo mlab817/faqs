@@ -1,15 +1,10 @@
+--- 
+ title: What will be the implications of Mandanas ruling in the project implementations?
+ ---
 
----
+## Mindanao Inclusive Agriculture Development Project
 
-title: What will be the implications of Mandanas ruling in the project implementations?
-
-tags: ["implications","mandanas","ruling","project","implementations"]
-
----
-
-### Mindanao Inclusive Agriculture Development Project
-
-## What will be the implications of Mandanas ruling in the project implementations?
+# What will be the implications of Mandanas ruling in the project implementations?
 
 
  - The DA will secure an IMA (Implementation Management Agreement) similar to letter of commitment or MOA with the LGU to indicate the responsibilities of the parties involved. 

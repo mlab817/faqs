@@ -1,15 +1,10 @@
+--- 
+ title: What caused the rising prices of fishery commodities in June 2021?
+ ---
 
----
+## Bureau of Fisheries and Aquatic Resources
 
-title: What caused the rising prices of fishery commodities in June 2021?
-
-tags: ["caused","rising","prices","fishery","commodities","june"]
-
----
-
-### Bureau of Fisheries and Aquatic Resources
-
-## What caused the rising prices of fishery commodities in June 2021?
+# What caused the rising prices of fishery commodities in June 2021?
 
 
  - Closed fishing season on Davao Occidental, Davao del Sur, Davao del Norte, Davao de Oro, Davao Oriental

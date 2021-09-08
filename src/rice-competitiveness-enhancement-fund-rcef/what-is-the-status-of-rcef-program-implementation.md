@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of RCEF program implementation?
+ ---
 
----
+## Rice Competitiveness Enhancement Fund (RCEF)
 
-title: What is the status of RCEF program implementation?
-
-tags: ["status","rcef","program","implementation"]
-
----
-
-### Rice Competitiveness Enhancement Fund (RCEF)
-
-## What is the status of RCEF program implementation?
+# What is the status of RCEF program implementation?
 
 
  - As of May 2021, of the PhP 30 billion appropriation for the program from 2019 to 2021, PhP 14.5 billion was obligated and PhP 8.2 billion was disbursed.

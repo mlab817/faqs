@@ -1,15 +1,10 @@
+--- 
+ title: What is the design standard for FMRs?
+ ---
 
----
+## Farm-to-Market Road Development Program
 
-title: What is the design standard for FMRs?
-
-tags: ["design","standard","fmrs"]
-
----
-
-### Farm-to-Market Road Development Program
-
-## What is the design standard for FMRs?
+# What is the design standard for FMRs?
 
 
  - Depending on the Average Daily Traffic (ADT) in the location, the construction of FMR shall be:

@@ -1,15 +1,10 @@
+--- 
+ title: How are beneficiaries determined in the DA’s FSRF?
+ ---
 
----
+## Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
 
-title: How are beneficiaries determined in the DA’s FSRF?
-
-tags: ["beneficiaries","determined","fsrf"]
-
----
-
-### Rice Farmers Financial Assistance (RFFA) and the Financial Subsidies to Rice Farmers (FSRF)
-
-## How are beneficiaries determined in the DA’s FSRF?
+# How are beneficiaries determined in the DA’s FSRF?
 
 
  - Qualifications for beneficiaries under FSRF Program include: a) must be registered in the Registry System for Basic Sectors in Agriculture (RSBSA) as per approved registration and updating protocol; and b) must be tilling rice areas of 0.5-2.0 hectares.

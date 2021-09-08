@@ -1,15 +1,10 @@
+--- 
+ title: What are the control measures being adopted by the DA to prevent AI?
+ ---
 
----
+## Avian Influenza (AI)
 
-title: What are the control measures being adopted by the DA to prevent AI?
-
-tags: ["control","measures","adopted","prevent","ai"]
-
----
-
-### Avian Influenza (AI)
-
-## What are the control measures being adopted by the DA to prevent AI?
+# What are the control measures being adopted by the DA to prevent AI?
 
 
  - Control measures in the affected areas are being implemented accordingly in the management of cases, as stated in the Avian Influenza Protection Program–Manual of Procedures (AIPP-MOP). Some of these are the following:

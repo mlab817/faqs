@@ -1,15 +1,10 @@
+--- 
+ title: What are the updates on the importation of rice?
+ ---
 
----
+## Bureau of Plant Industry
 
-title: What are the updates on the importation of rice?
-
-tags: ["updates","importation","rice"]
-
----
-
-### Bureau of Plant Industry
-
-## What are the updates on the importation of rice?
+# What are the updates on the importation of rice?
 
 
  - As of June 30, 2021: 49.92% or 1.27M mt of the total expected volume of 2.52M mt of imported rice arrived in the country.

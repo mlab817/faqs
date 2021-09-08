@@ -1,15 +1,10 @@
+--- 
+ title: Who regulates organic fertilizers and pesticides and those intended for industrial use?
+ ---
 
----
+## Fertilizer and Pesticide Authority
 
-title: Who regulates organic fertilizers and pesticides and those intended for industrial use?
-
-tags: ["regulates","organic","fertilizers","pesticides","intended","industrial","use"]
-
----
-
-### Fertilizer and Pesticide Authority
-
-## Who regulates organic fertilizers and pesticides and those intended for industrial use?
+# Who regulates organic fertilizers and pesticides and those intended for industrial use?
 
 
  - Pesticides for urban/household use is regulated by the Foods and Drugs Administration (FDA) per Supreme Court ruling in 2007.

@@ -1,15 +1,10 @@
+--- 
+ title: What has BACS accomplished so far (key progress as of June 2021)?
+ ---
 
----
+## Bayanihan Agri-Clusters (BACs)
 
-title: What has BACS accomplished so far (key progress as of June 2021)?
-
-tags: ["bacs","accomplished","far","key","progress","june"]
-
----
-
-### Bayanihan Agri-Clusters (BACs)
-
-## What has BACS accomplished so far (key progress as of June 2021)?
+# What has BACS accomplished so far (key progress as of June 2021)?
 
 
  - Creation of BACs Technical Support Team. The BACs Technical Support Team was created to coordinate with all DA Regional Offices, attached agencies, and bureaus. The team also conducted preparatory activities such as briefings and orientations of the BACs Guidelines to the RFOs. The team also coordinated with CDA to get the registered FCAs as a reference in the validation of the organizations in the ground.

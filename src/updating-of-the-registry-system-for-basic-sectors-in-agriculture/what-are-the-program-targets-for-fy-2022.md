@@ -1,15 +1,10 @@
+--- 
+ title: What are the program targets for FY 2022?
+ ---
 
----
+## Updating of the Registry System for Basic Sectors in Agriculture
 
-title: What are the program targets for FY 2022?
-
-tags: ["program","targets"]
-
----
-
-### Updating of the Registry System for Basic Sectors in Agriculture
-
-## What are the program targets for FY 2022?
+# What are the program targets for FY 2022?
 
 
  - The Program aims to complete the profiling of the farmers and implement the next two (2) components (Geo-referencing of Farm Lots and the Development of the Interventions Monitoring System). Specifically, the FY 2022 will prioritize the Georeferencing component as it will ensure the integrity of the gathered data and information from the profiling component. Also, it will serve as a validation tool because it will link the collected farmer profile to the farm lot profile gathered through geo-referencing.

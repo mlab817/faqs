@@ -1,15 +1,10 @@
+--- 
+ title: What is the difference of KOICA Smart Greenhouse implementation versus the MAFRA initiated Smart Greenhouse Project in Iloilo?
+ ---
 
----
+## Establishment of Smart Agriculture System in Western Visayas
 
-title: What is the difference of KOICA Smart Greenhouse implementation versus the MAFRA initiated Smart Greenhouse Project in Iloilo?
-
-tags: ["difference","koica","smart","greenhouse","implementation","versus","mafra","initiated","smart","greenhouse","project","iloilo"]
-
----
-
-### Establishment of Smart Agriculture System in Western Visayas
-
-## What is the difference of KOICA Smart Greenhouse implementation versus the MAFRA initiated Smart Greenhouse Project in Iloilo?
+# What is the difference of KOICA Smart Greenhouse implementation versus the MAFRA initiated Smart Greenhouse Project in Iloilo?
 
 
  - MAFRA

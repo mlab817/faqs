@@ -1,15 +1,10 @@
+--- 
+ title: What type of assistance does the PFDA provide to the fishing industry?
+ ---
 
----
+## Philippine Fisheries Development Authority
 
-title: What type of assistance does the PFDA provide to the fishing industry?
-
-tags: ["type","assistance","pfda","provide","fishing","industry"]
-
----
-
-### Philippine Fisheries Development Authority
-
-## What type of assistance does the PFDA provide to the fishing industry?
+# What type of assistance does the PFDA provide to the fishing industry?
 
 
  - Construction of infrastructures and other fishery post-harvest facilities such as fish ports, fish markets, ice plants and cold storage to improve fish marketing and distribution;

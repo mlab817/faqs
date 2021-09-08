@@ -1,15 +1,10 @@
+--- 
+ title: What are the current issues and challenges confronting the tobacco industry?
+ ---
 
----
+## National Tobacco Administration
 
-title: What are the current issues and challenges confronting the tobacco industry?
-
-tags: ["current","issues","challenges","confronting","tobacco","industry"]
-
----
-
-### National Tobacco Administration
-
-## What are the current issues and challenges confronting the tobacco industry?
+# What are the current issues and challenges confronting the tobacco industry?
 
 
  - Aggressive global campaign against tobacco and smoking and implementing tobacco control measures as the country’s commitment to WHO Framework Convention on Tobacco Control (FCTC);

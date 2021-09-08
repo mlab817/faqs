@@ -1,15 +1,10 @@
+--- 
+ title: Why does the Philippines import rice?
+ ---
 
----
+## Philippine Rice Research Institute
 
-title: Why does the Philippines import rice?
-
-tags: ["philippines","import","rice"]
-
----
-
-### Philippine Rice Research Institute
-
-## Why does the Philippines import rice?
+# Why does the Philippines import rice?
 
 
  - Small area harvested to other rice-producing countries with only around 5 million ha of rice area harvested in 2018.

@@ -1,15 +1,10 @@
+--- 
+ title: How does PRDP assist enterprises in moving towards the “New Normal”?
+ ---
 
----
+## Philippine Rural Development Project
 
-title: How does PRDP assist enterprises in moving towards the “New Normal”?
-
-tags: ["prdp","assist","enterprises","moving","towards","new","normal"]
-
----
-
-### Philippine Rural Development Project
-
-## How does PRDP assist enterprises in moving towards the “New Normal”?
+# How does PRDP assist enterprises in moving towards the “New Normal”?
 
 
  - The Proponent Groups (PGs) were provided with training activities through virtual and blended mechanisms.

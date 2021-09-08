@@ -1,15 +1,10 @@
+--- 
+ title: How does DA-BAR address the issue of research duplication with PCAARRD?
+ ---
 
----
+## Bureau of Agricultural Research
 
-title: How does DA-BAR address the issue of research duplication with PCAARRD?
-
-tags: ["dabar","address","issue","research","duplication","pcaarrd"]
-
----
-
-### Bureau of Agricultural Research
-
-## How does DA-BAR address the issue of research duplication with PCAARRD?
+# How does DA-BAR address the issue of research duplication with PCAARRD?
 
 
  - Creation of a R&D Strategies among R&D agencies will abolish research duplication among agencies.

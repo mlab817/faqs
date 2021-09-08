@@ -1,15 +1,10 @@
+--- 
+ title: What is the status of the implementation of PAFES in the regions?
+ ---
 
----
+## Province-led Agriculture and Fisheries Extension System (PAFES)
 
-title: What is the status of the implementation of PAFES in the regions?
-
-tags: ["status","implementation","pafes","regions"]
-
----
-
-### Province-led Agriculture and Fisheries Extension System (PAFES)
-
-## What is the status of the implementation of PAFES in the regions?
+# What is the status of the implementation of PAFES in the regions?
 
 
  - All regions except for BARMM have: 

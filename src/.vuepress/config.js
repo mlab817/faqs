@@ -1,6 +1,15 @@
 const { description } = require('../../package')
-const nav = require('./nav.json');
-const sidebar = require('./sidebar.json');
+const sidebarConf = require('./nav')
+
+// modify sidebar
+// const sidebar = sidebarConf.map(s => {
+//   return {
+//     title: s.items[0]['text'],
+//     path: s.items[0]['link'],
+//   }
+// });
+
+// console.log(sidebar)
 
 module.exports = {
   /**
@@ -35,9 +44,9 @@ module.exports = {
     docsBranch: 'main',
     editLinkText: 'Help us improve this page!',
     lastUpdated: false,
-    nav: nav,
+    nav: [],
     navbar: true,
-    sidebar: sidebar,
+    sidebar: sidebarConf,
     displayAllHeaders: true
   },
 
@@ -45,6 +54,13 @@ module.exports = {
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
+    [
+      'flexsearch',
+      {
+        maxSuggestions: 10,
+      }
+    ],
+    'vuepress-plugin-auto-sidebar',
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/last-updated',

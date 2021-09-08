@@ -1,15 +1,10 @@
+--- 
+ title: What are the efforts exerted by the Department in the recent volcanic activities in Taal Volcano?
+ ---
 
----
+## Damages to Agriculture and Fisheries
 
-title: What are the efforts exerted by the Department in the recent volcanic activities in Taal Volcano?
-
-tags: ["efforts","exerted","department","recent","volcanic","activities","taal","volcano"]
-
----
-
-### Damages to Agriculture and Fisheries
-
-## What are the efforts exerted by the Department in the recent volcanic activities in Taal Volcano?
+# What are the efforts exerted by the Department in the recent volcanic activities in Taal Volcano?
 
 
  - Collection, updating and dissemination of information - The DA-RFO CALABARZON activated its Emergency Operations Center to monitor the activities of the volcano, coordinating with PHIVOLCS and the surrounding LGUs. Available buffer stocks, resources and animal evacuation centers were also being updated. Animal inventory and standing crops on vulnerable areas were also checked. With this, information were disseminated to farmers and fisherfolk. 

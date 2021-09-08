@@ -1,15 +1,10 @@
+--- 
+ title: What are the challenges that the Department encountered in the implementation of the programs/projects?
+ ---
 
----
+## Status of Bayanihan II Implementation
 
-title: What are the challenges that the Department encountered in the implementation of the programs/projects?
-
-tags: ["challenges","department","encountered","implementation","programsprojects"]
-
----
-
-### Status of Bayanihan II Implementation
-
-## What are the challenges that the Department encountered in the implementation of the programs/projects?
+# What are the challenges that the Department encountered in the implementation of the programs/projects?
 
 
  - Increasing number of COVID-19 cases in the DA-RFOs;

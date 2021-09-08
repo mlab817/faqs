@@ -1,15 +1,10 @@
+--- 
+ title: How can PGS help small farmers and fisherfolk?
+ ---
 
----
+## Bureau of Agriculture and Fisheries Standards
 
-title: How can PGS help small farmers and fisherfolk?
-
-tags: ["pgs","help","small","farmers","fisherfolk"]
-
----
-
-### Bureau of Agriculture and Fisheries Standards
-
-## How can PGS help small farmers and fisherfolk?
+# How can PGS help small farmers and fisherfolk?
 
 
  - PGS primarily helps small farmers and fisherfolk by getting organically certified at a low cost.  

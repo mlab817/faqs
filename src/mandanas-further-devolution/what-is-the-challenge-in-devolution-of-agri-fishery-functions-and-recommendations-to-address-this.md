@@ -1,15 +1,10 @@
+--- 
+ title: What is the challenge in devolution of agri-fishery functions and recommendations to address this?
+ ---
 
----
+## Mandanas Further Devolution
 
-title: What is the challenge in devolution of agri-fishery functions and recommendations to address this?
-
-tags: ["challenge","devolution","agrifishery","functions","recommendations","address"]
-
----
-
-### Mandanas Further Devolution
-
-## What is the challenge in devolution of agri-fishery functions and recommendations to address this?
+# What is the challenge in devolution of agri-fishery functions and recommendations to address this?
 
 
  - Devolution of 5th and 6th Class municipalities will take place in CY 2024.

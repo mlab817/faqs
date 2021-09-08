@@ -1,15 +1,10 @@
+--- 
+ title: How much is the damage and losses incurred by the Agriculture and Fisheries sector due to natural disasters for the last six years (2015-present)?
+ ---
 
----
+## Damages to Agriculture and Fisheries
 
-title: How much is the damage and losses incurred by the Agriculture and Fisheries sector due to natural disasters for the last six years (2015-present)?
-
-tags: ["much","damage","losses","incurred","agriculture","fisheries","sector","natural","disasters","last","six","years","present"]
-
----
-
-### Damages to Agriculture and Fisheries
-
-## How much is the damage and losses incurred by the Agriculture and Fisheries sector due to natural disasters for the last six years (2015-present)?
+# How much is the damage and losses incurred by the Agriculture and Fisheries sector due to natural disasters for the last six years (2015-present)?
 
 
  - From 2015, the damage and losses to the agri-fisheries sector in terms of production was 8.36 million MT, equivalent to PhP 147.39 billion. 

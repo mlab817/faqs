@@ -1,15 +1,10 @@
+--- 
+ title: What are the major programs of the DA for the Youth?
+ ---
 
----
+## DA Special Concerns
 
-title: What are the major programs of the DA for the Youth?
-
-tags: ["major","programs","youth"]
-
----
-
-### DA Special Concerns
-
-## What are the major programs of the DA for the Youth?
+# What are the major programs of the DA for the Youth?
 
 
  - Mentoring and Attracting Youth in Agribusiness (MAYA) Program - Overseen by the Bureau of Agricultural Research (BAR), this is a three month internship aimed to develop competent, highly-skilled and employment-ready youthful workforce. Through experiential learning, it seeks to level-up the agriculture sector beyond its production-focused orientation, and progressively expand to the entire gamut of input production, farm operations and management, equipment and supplies manufacturing, food/non-food processing, marketing, trading and retailing. 

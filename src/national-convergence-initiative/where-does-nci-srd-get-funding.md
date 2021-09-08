@@ -1,15 +1,10 @@
+--- 
+ title: Where does NCI-SRD get funding?
+ ---
 
----
+## National Convergence Initiative
 
-title: Where does NCI-SRD get funding?
-
-tags: ["ncisrd","get","funding"]
-
----
-
-### National Convergence Initiative
-
-## Where does NCI-SRD get funding?
+# Where does NCI-SRD get funding?
 
 
  - NCI-SRD as a government strategy (and not program), does not have a dedicated budget but utilizes existing funds of the programs  of the four (4) Departments. Accomplishments, both physical and financial targets, are based on attribution.

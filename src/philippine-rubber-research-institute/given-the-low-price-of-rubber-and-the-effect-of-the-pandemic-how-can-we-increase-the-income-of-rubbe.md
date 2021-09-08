@@ -1,15 +1,10 @@
+--- 
+ title: Given the low price of rubber and the effect of the pandemic, how can we increase the income of rubber farmers?
+ ---
 
----
+## Philippine Rubber Research Institute
 
-title: Given the low price of rubber and the effect of the pandemic, how can we increase the income of rubber farmers?
-
-tags: ["given","low","price","rubber","effect","pandemic","increase","income","rubber","farmers"]
-
----
-
-### Philippine Rubber Research Institute
-
-## Given the low price of rubber and the effect of the pandemic, how can we increase the income of rubber farmers?
+# Given the low price of rubber and the effect of the pandemic, how can we increase the income of rubber farmers?
 
 
  - Investing in rubber industry through value-adding of rubber products such as production of higher grade of centrifuge latex and rubber sheets to increase the price of rubber products which is needed in in producing condom, tires for vehicles, tires, and medical gloves, among others.

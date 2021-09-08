@@ -1,15 +1,10 @@
+--- 
+ title: Given the COVID-19 pandemic, how can ATI push through in achieving its vision, mission and goals?
+ ---
 
----
+## Agricultural Training Institute
 
-title: Given the COVID-19 pandemic, how can ATI push through in achieving its vision, mission and goals?
-
-tags: ["given","covid","pandemic","ati","push","achieving","vision","mission","goals"]
-
----
-
-### Agricultural Training Institute
-
-## Given the COVID-19 pandemic, how can ATI push through in achieving its vision, mission and goals?
+# Given the COVID-19 pandemic, how can ATI push through in achieving its vision, mission and goals?
 
 
  - Realignment of funds intended for big group trainings, conferences, exhibition activities to basic production inputs for crops (provision of seeds, soil ameliorant, assorted hand tools, and small equipment) and livestock (provision of small animals, feeds, feed-related inputs and biologics).

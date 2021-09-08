@@ -1,15 +1,10 @@
+--- 
+ title: What are the services of FDC?
+ ---
 
----
+## Food Development Center
 
-title: What are the services of FDC?
-
-tags: ["services","fdc"]
-
----
-
-### Food Development Center
-
-## What are the services of FDC?
+# What are the services of FDC?
 
 
  - Analysis of chemical contaminants in foods;

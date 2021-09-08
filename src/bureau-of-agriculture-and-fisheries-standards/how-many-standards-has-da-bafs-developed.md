@@ -1,15 +1,10 @@
+--- 
+ title: How many standards has DA-BAFS developed?
+ ---
 
----
+## Bureau of Agriculture and Fisheries Standards
 
-title: How many standards has DA-BAFS developed?
-
-tags: ["many","standards","dabafs","developed"]
-
----
-
-### Bureau of Agriculture and Fisheries Standards
-
-## How many standards has DA-BAFS developed?
+# How many standards has DA-BAFS developed?
 
 
  - BAFS has developed a total number of 312 Philippine National Standard (PNS) for agriculture and fishery (A&F) products,  tools, machinery,  equipment, and structures since 2003. Majority of the PNS are related to crops for food and non-food (49.4%), followed by agriculture and fishery (AF) tools, machinery, equipment, and structures (21.6%), fish and fishery products (12.3%) and livestock and poultry products (10.3%). More than half or 57.4% of these PNS are quality standards and the rest are food safety standards (42.6%). 

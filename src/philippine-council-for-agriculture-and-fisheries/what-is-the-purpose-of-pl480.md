@@ -1,15 +1,10 @@
+--- 
+ title: What is the purpose of PL480?
+ ---
 
----
+## Philippine Council for Agriculture and Fisheries
 
-title: What is the purpose of PL480?
-
-tags: ["purpose","pl"]
-
----
-
-### Philippine Council for Agriculture and Fisheries
-
-## What is the purpose of PL480?
+# What is the purpose of PL480?
 
 
  - PL480 is the main legislative vehicle that authorizes U.S. international food assistance. This was enacted in 1954 in line with the US Policy of using its agricultural productivity to enhance the food security of developing countries and the determination of the importing country’s capacity of improving its food security.

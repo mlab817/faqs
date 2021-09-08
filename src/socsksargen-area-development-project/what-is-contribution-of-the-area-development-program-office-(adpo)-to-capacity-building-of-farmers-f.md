@@ -1,15 +1,10 @@
+--- 
+ title: What is contribution of the Area Development Program Office (ADPO) to capacity-building of farmers, fishers, MSMEs and LGU extension personnel?
+ ---
 
----
+## SOCSKSARGEN Area Development Project
 
-title: What is contribution of the Area Development Program Office (ADPO) to capacity-building of farmers, fishers, MSMEs and LGU extension personnel?
-
-tags: ["contribution","area","development","program","office","adpo","capacitybuilding","farmers","fishers","msmes","lgu","extension","personnel"]
-
----
-
-### SOCSKSARGEN Area Development Project
-
-## What is contribution of the Area Development Program Office (ADPO) to capacity-building of farmers, fishers, MSMEs and LGU extension personnel?
+# What is contribution of the Area Development Program Office (ADPO) to capacity-building of farmers, fishers, MSMEs and LGU extension personnel?
 
 
  - ADPO targets to benefit 600 farmers and industry stakeholders and LGU workers from capacity-building activities in 2022, focused on improving local commodities and industries, i.e. banana, mango, cacao and fish and aquaculture, especially in providing/promoting updated and smart production technology information, proper post handling processes to minimize wastage, rice intensification system, project development/packaging and access to credit, online marketing and digitalization and supporting their participation to summit, conferences, and food expo.

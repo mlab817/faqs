@@ -1,15 +1,10 @@
+--- 
+ title: What are the policy initiatives put in place to cushion the adverse effects of the Covid-19 pandemic including the rising prices of basic food commodities?
+ ---
 
----
+## DA Policy Initiatives for Covid-19
 
-title: What are the policy initiatives put in place to cushion the adverse effects of the Covid-19 pandemic including the rising prices of basic food commodities?
-
-tags: ["policy","initiatives","put","place","cushion","adverse","effects","covid","pandemic","including","rising","prices","basic","food","commodities"]
-
----
-
-### DA Policy Initiatives for Covid-19
-
-## What are the policy initiatives put in place to cushion the adverse effects of the Covid-19 pandemic including the rising prices of basic food commodities?
+# What are the policy initiatives put in place to cushion the adverse effects of the Covid-19 pandemic including the rising prices of basic food commodities?
 
 
  - DA proposed the temporary reduction of pork tariffs and the expansion of the MAV as emergency measures to immediately augment the supply of pork in the country, which in turn was expected to lower and stabilize pork prices. These were to provide consumers access to adequate and affordable food amid the pandemic.

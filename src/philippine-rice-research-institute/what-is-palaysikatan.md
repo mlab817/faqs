@@ -1,15 +1,10 @@
+--- 
+ title: What is PalaySikatan?
+ ---
 
----
+## Philippine Rice Research Institute
 
-title: What is PalaySikatan?
-
-tags: ["palaysikatan"]
-
----
-
-### Philippine Rice Research Institute
-
-## What is PalaySikatan?
+# What is PalaySikatan?
 
 
  - PalaySikatan is a technology demonstration strategy used by the RCEF Seed Program to showcase among diverse groups of farmers and other rice stakeholders the benefits of using inbred certified seeds and mechanized farming system.  Each techno demo site features the three national and two regional recommended varieties promoted under RCEF.  In addition, one to two newly released varieties are introduced.  These will eventually be offered to farmers as an option to further increase their productivity.

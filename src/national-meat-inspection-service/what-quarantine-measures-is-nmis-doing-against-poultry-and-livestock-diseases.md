@@ -1,15 +1,10 @@
+--- 
+ title: What quarantine measures is NMIS doing against poultry and livestock diseases?
+ ---
 
----
+## National Meat Inspection Service
 
-title: What quarantine measures is NMIS doing against poultry and livestock diseases?
-
-tags: ["quarantine","measures","nmis","poultry","livestock","diseases"]
-
----
-
-### National Meat Inspection Service
-
-## What quarantine measures is NMIS doing against poultry and livestock diseases?
+# What quarantine measures is NMIS doing against poultry and livestock diseases?
 
 
  - NMIS Central Office and Regional Offices, in collaboration with LGUs, conduct continuous extensive monitoring of markets and other distribution channels to ensure that no meat coming from banned countries may be sold.

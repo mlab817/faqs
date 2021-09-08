@@ -1,15 +1,10 @@
+--- 
+ title: How have the clients responded to the services offered by the PCIC?
+ ---
 
----
+## Philippine Crop Insurance Corporation
 
-title: How have the clients responded to the services offered by the PCIC?
-
-tags: ["clients","responded","services","offered","pcic"]
-
----
-
-### Philippine Crop Insurance Corporation
-
-## How have the clients responded to the services offered by the PCIC?
+# How have the clients responded to the services offered by the PCIC?
 
 
  - Based on the latest independent third-party Customer Satisfaction Survey conducted by the Development Academy of the Philippines (DAP) in 2020:

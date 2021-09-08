@@ -1,15 +1,10 @@
+--- 
+ title: What is the purpose of the subsidy granted from the tobacco fund (RA 4155) to NTA?
+ ---
 
----
+## National Tobacco Administration
 
-title: What is the purpose of the subsidy granted from the tobacco fund (RA 4155) to NTA?
-
-tags: ["purpose","subsidy","granted","tobacco","fund","ra","nta"]
-
----
-
-### National Tobacco Administration
-
-## What is the purpose of the subsidy granted from the tobacco fund (RA 4155) to NTA?
+# What is the purpose of the subsidy granted from the tobacco fund (RA 4155) to NTA?
 
 
  - Per paragraph 4, of Section 5 (of R.A. 4155, or An Act to Promote and Strengthen the Virginia Tobacco Industry), the Tobacco Fund shall be used for Operational, Office and Field Expenses, and establishment of Research and Grading Institute.

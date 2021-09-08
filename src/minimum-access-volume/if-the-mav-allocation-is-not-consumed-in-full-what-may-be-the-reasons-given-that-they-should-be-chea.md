@@ -1,15 +1,10 @@
+--- 
+ title: If the MAV allocation is not consumed in full, what may be the reasons given that they should be cheaper than the regular importation?
+ ---
 
----
+## Minimum Access Volume
 
-title: If the MAV allocation is not consumed in full, what may be the reasons given that they should be cheaper than the regular importation?
-
-tags: ["mav","allocation","consumed","full","may","reasons","given","cheaper","regular","importation"]
-
----
-
-### Minimum Access Volume
-
-## If the MAV allocation is not consumed in full, what may be the reasons given that they should be cheaper than the regular importation?
+# If the MAV allocation is not consumed in full, what may be the reasons given that they should be cheaper than the regular importation?
 
 
  - A licensee’s utilization of its allocation is their prerogative or business decision.  The MAV secretariat does not ask the reason for not fully utilizing their allocation. 

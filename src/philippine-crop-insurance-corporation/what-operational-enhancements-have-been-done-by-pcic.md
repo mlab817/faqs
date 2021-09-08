@@ -1,15 +1,10 @@
+--- 
+ title: What operational enhancements have been done by PCIC?
+ ---
 
----
+## Philippine Crop Insurance Corporation
 
-title: What operational enhancements have been done by PCIC?
-
-tags: ["operational","enhancements","done","pcic"]
-
----
-
-### Philippine Crop Insurance Corporation
-
-## What operational enhancements have been done by PCIC?
+# What operational enhancements have been done by PCIC?
 
 
  - Innovative Insurance Product Development

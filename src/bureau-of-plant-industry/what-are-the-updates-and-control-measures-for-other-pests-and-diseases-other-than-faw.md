@@ -1,15 +1,10 @@
+--- 
+ title: What are the updates and control measures for other pests and diseases other than FAW?
+ ---
 
----
+## Bureau of Plant Industry
 
-title: What are the updates and control measures for other pests and diseases other than FAW?
-
-tags: ["updates","control","measures","pests","diseases","faw"]
-
----
-
-### Bureau of Plant Industry
-
-## What are the updates and control measures for other pests and diseases other than FAW?
+# What are the updates and control measures for other pests and diseases other than FAW?
 
 
  - Damping-off in Onion: Affected 556.49 ha of area (i.e. 39.87% infestation); Regional Crop Protection Center (RCPC) 11 installed pheromone trap and sprayed Astron and Prevathon. 

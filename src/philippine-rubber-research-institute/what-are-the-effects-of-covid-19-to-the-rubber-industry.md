@@ -1,15 +1,10 @@
+--- 
+ title: What are the effects of COVID-19 to the rubber industry?
+ ---
 
----
+## Philippine Rubber Research Institute
 
-title: What are the effects of COVID-19 to the rubber industry?
-
-tags: ["effects","covid","rubber","industry"]
-
----
-
-### Philippine Rubber Research Institute
-
-## What are the effects of COVID-19 to the rubber industry?
+# What are the effects of COVID-19 to the rubber industry?
 
 
  - Lower price or raw rubber products (cuplumps) was observed as demand for processing have decreased dramatically due to transportation and delivery issues brought about by Enhanced Community Quarantine (ECQ) and General Community Quarantine (GCQ). 

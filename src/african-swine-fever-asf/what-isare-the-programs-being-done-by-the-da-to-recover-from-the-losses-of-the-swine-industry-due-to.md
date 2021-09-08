@@ -1,15 +1,10 @@
+--- 
+ title: What is/are the program/s being done by the DA to recover from the losses of the swine industry due to the ASF?
+ ---
 
----
+## African Swine Fever (ASF)
 
-title: What is/are the program/s being done by the DA to recover from the losses of the swine industry due to the ASF?
-
-tags: ["isare","programs","done","recover","losses","swine","industry","asf"]
-
----
-
-### African Swine Fever (ASF)
-
-## What is/are the program/s being done by the DA to recover from the losses of the swine industry due to the ASF?
+# What is/are the program/s being done by the DA to recover from the losses of the swine industry due to the ASF?
 
 
  - The Department of Agriculture through the National Livestock Program and the Bureau of Animal Industry launched the twin program: 

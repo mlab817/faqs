@@ -1,15 +1,10 @@
+--- 
+ title: What is the investment/ development cost per SSIP type?
+ ---
 
----
+## Bureau of Soils and Water Management
 
-title: What is the investment/ development cost per SSIP type?
-
-tags: ["investment","development","cost","ssip","type"]
-
----
-
-### Bureau of Soils and Water Management
-
-## What is the investment/ development cost per SSIP type?
+# What is the investment/ development cost per SSIP type?
 
 
  - Small Water Impounding Project (SWIP) – maximum of PhP 300,000.00/ ha for new construction; PhP200,000.00/ ha for rehabilitation/ improvement.

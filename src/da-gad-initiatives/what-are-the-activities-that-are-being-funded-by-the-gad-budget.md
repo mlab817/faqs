@@ -1,15 +1,10 @@
+--- 
+ title: What are the activities that are being funded by the GAD Budget?
+ ---
 
----
+## DA GAD Initiatives
 
-title: What are the activities that are being funded by the GAD Budget?
-
-tags: ["activities","funded","gad","budget"]
-
----
-
-### DA GAD Initiatives
-
-## What are the activities that are being funded by the GAD Budget?
+# What are the activities that are being funded by the GAD Budget?
 
 
  - Through GAD Mainstreaming (strategy for making women's as well as men's concerns and experiences an integral dimension of the design, implementation, monitoring, and evaluation of policies, programs and projects so that women and men benefit equally), the DA GAD Focal Point System facilitates the conduct of the following GAD Activities in the DA Central Office, Regional Field Offices (RFOs) and Bureaus.

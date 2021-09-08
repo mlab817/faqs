@@ -1,15 +1,10 @@
+--- 
+ title: What are the priority investment projects of the Department that are being pushed for promotion?
+ ---
 
----
+## Investment Promotions
 
-title: What are the priority investment projects of the Department that are being pushed for promotion?
-
-tags: ["priority","investment","projects","department","pushed","promotion"]
-
----
-
-### Investment Promotions
-
-## What are the priority investment projects of the Department that are being pushed for promotion?
+# What are the priority investment projects of the Department that are being pushed for promotion?
 
 
  - The priority investment projects of the DA for promotion are the Regional Priority Commodities and those commodities that are anchored to the Priority Commodity Investment Plans (PCIPs).

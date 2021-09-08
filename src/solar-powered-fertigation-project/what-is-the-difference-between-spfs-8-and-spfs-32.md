@@ -1,15 +1,10 @@
+--- 
+ title: What is the difference between SPFS 8 and SPFS 32?
+ ---
 
----
+## Solar-Powered Fertigation Project
 
-title: What is the difference between SPFS 8 and SPFS 32?
-
-tags: ["difference","spfs","spfs"]
-
----
-
-### Solar-Powered Fertigation Project
-
-## What is the difference between SPFS 8 and SPFS 32?
+# What is the difference between SPFS 8 and SPFS 32?
 
 
  - SPFS-8 – can irrigate 8 hectares; replacement of fuel pump with solar-powered pump in existing functional shallow tube well

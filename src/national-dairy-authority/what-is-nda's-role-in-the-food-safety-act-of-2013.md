@@ -1,15 +1,10 @@
+--- 
+ title: What is NDA's role in the Food Safety Act of 2013?
+ ---
 
----
+## National Dairy Authority
 
-title: What is NDA's role in the Food Safety Act of 2013?
-
-tags: ["nda","role","food","safety","act"]
-
----
-
-### National Dairy Authority
-
-## What is NDA's role in the Food Safety Act of 2013?
+# What is NDA's role in the Food Safety Act of 2013?
 
 
  - NDA has completed the Dairy Farmer Profiling of all Dairy Business Operators (DBOs) all over the country. Each DBO was assessed and evaluated based on their capacity to comply with the Dairy Safety Regulations (DSR).

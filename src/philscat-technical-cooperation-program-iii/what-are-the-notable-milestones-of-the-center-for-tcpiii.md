@@ -1,15 +1,10 @@
+--- 
+ title: What are the notable milestones of the center for TCPIII?
+ ---
 
----
+## PHILSCAT-Technical Cooperation Program III
 
-title: What are the notable milestones of the center for TCPIII?
-
-tags: ["notable","milestones","center","tcpiii"]
-
----
-
-### PHILSCAT-Technical Cooperation Program III
-
-## What are the notable milestones of the center for TCPIII?
+# What are the notable milestones of the center for TCPIII?
 
 
  - Conducted Hybrid Rice Experiments and Production (Dry Season(DS) & Wet Season(WS) 2020) with 4 lines (PhilSCAT series 10, 12, 17 and 18)  fielded for 2021 adaptability trials.

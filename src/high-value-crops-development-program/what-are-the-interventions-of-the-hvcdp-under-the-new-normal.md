@@ -1,15 +1,10 @@
+--- 
+ title: What are the interventions of the HVCDP under the New Normal?
+ ---
 
----
+## High Value Crops Development Program
 
-title: What are the interventions of the HVCDP under the New Normal?
-
-tags: ["interventions","hvcdp","new","normal"]
-
----
-
-### High Value Crops Development Program
-
-## What are the interventions of the HVCDP under the New Normal?
+# What are the interventions of the HVCDP under the New Normal?
 
 
  - Distribution of  seeds/seeds for buffer stocking, planting materials, equipment, other farm inputs, and other irrigation paraphernalia;

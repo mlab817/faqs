@@ -1,15 +1,10 @@
+--- 
+ title: How are the ACEF Funds Allocated?
+ ---
 
----
+## Agricultural Competitiveness Enhancement Fund
 
-title: How are the ACEF Funds Allocated?
-
-tags: ["acef","funds","allocated"]
-
----
-
-### Agricultural Competitiveness Enhancement Fund
-
-## How are the ACEF Funds Allocated?
+# How are the ACEF Funds Allocated?
 
 
  - 80% of the ACEF Fund is allocated for Credit (Loan) Assistance which is managed by Land Bank of the Philippines.

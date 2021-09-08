@@ -1,15 +1,10 @@
+--- 
+ title: What is the current status and situation of other Economically Important Diseases such as Foot-and-Mouth Disease (FMD)?
+ ---
 
----
+## Bureau of Animal Industry
 
-title: What is the current status and situation of other Economically Important Diseases such as Foot-and-Mouth Disease (FMD)?
-
-tags: ["current","status","situation","economically","important","diseases","footandmouth","disease","fmd"]
-
----
-
-### Bureau of Animal Industry
-
-## What is the current status and situation of other Economically Important Diseases such as Foot-and-Mouth Disease (FMD)?
+# What is the current status and situation of other Economically Important Diseases such as Foot-and-Mouth Disease (FMD)?
 
 
  - Foot-and-Mouth Disease (FMD): The whole Philippines was declared by the OIE as FMD-free country without vaccination in May 2015. To date, there are no reports on suspected cases received.

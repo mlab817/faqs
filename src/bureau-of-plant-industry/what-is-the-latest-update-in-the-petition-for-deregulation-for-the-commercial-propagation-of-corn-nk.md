@@ -1,15 +1,10 @@
+--- 
+ title: What is the latest update in the petition for deregulation for the commercial propagation of Corn NK603?
+ ---
 
----
+## Bureau of Plant Industry
 
-title: What is the latest update in the petition for deregulation for the commercial propagation of Corn NK603?
-
-tags: ["latest","update","petition","deregulation","commercial","propagation","corn","nk"]
-
----
-
-### Bureau of Plant Industry
-
-## What is the latest update in the petition for deregulation for the commercial propagation of Corn NK603?
+# What is the latest update in the petition for deregulation for the commercial propagation of Corn NK603?
 
 
  - Last January 4, 2021, the BPI received a petition for Deregulation for the commercial propagation of Corn NK603 (glyphosate tolerant corn) from Philippine Maize Federation Incorporated.

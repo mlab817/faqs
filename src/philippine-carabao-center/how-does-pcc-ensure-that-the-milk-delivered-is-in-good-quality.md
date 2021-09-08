@@ -1,15 +1,10 @@
+--- 
+ title: How does PCC ensure that the milk delivered is in good quality?
+ ---
 
----
+## Philippine Carabao Center
 
-title: How does PCC ensure that the milk delivered is in good quality?
-
-tags: ["pcc","ensure","milk","delivered","good","quality"]
-
----
-
-### Philippine Carabao Center
-
-## How does PCC ensure that the milk delivered is in good quality?
+# How does PCC ensure that the milk delivered is in good quality?
 
 
  - PCC makes sure that the raw milk to be produced by the farmers will be handled with good hygienic practices. 
