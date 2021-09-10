@@ -29,6 +29,11 @@ const genSlug = (text) => {
     }));
 }
 
+const removePuncs = (text) => {
+    const regex = /[!"#$%&'()*+-/:;<=>@[\]^_`{|}~]/g;
+    return text.replace(regex, '');
+}
+
 function generateInput() {
     const categories = faqs.reduce((categories, faq) => {
         const key = genSlug(faq.category);
@@ -70,17 +75,7 @@ Object.keys(input).forEach(key => {
         fs.mkdirSync(categoryFolder);
     }
 
-    const categoryList = json2md([
-        {
-            text: `---\ntitle: ${key}\nsearch: false\n---`
-        },
-        {
-            h1: JSON.stringify(input[key])
-        },
-        {
-            ul: []
-        }
-    ]);
+    const categoryList = []
 
     const topics = input[key];
 
@@ -88,20 +83,40 @@ Object.keys(input).forEach(key => {
 
         const topicFolder = `${categoryFolder}/${key}`;
 
+        categoryList.push({
+            link: {
+                title: key.toUpperCase().replace('-',' '),
+                source: topicFolder.replace('./src')
+            }
+        });
+
         if (! fs.existsSync(topicFolder)) {
             fs.mkdirSync(topicFolder);
         }
 
         const faqs = topics[key];
+
+        const topicsContent = []
         
         faqs.forEach(faq => {
+            console.log(topicFolder);
             
+            topicsContent.push({
+                link: {
+                    title: faq.question,
+                    source: `${topicFolder}/${genSlug(faq.question)}`.replace('./src/2022','')
+                }
+            })
+
             const faqDoc = json2md([
             {
-                text: `---\ntitle: ${faq.question}\n---`
+                text: `---\ntitle: ${removePuncs(faq.question)}\nsidebarDepth: 2\n---`
             },
             {
                 h1: faq.question
+            },
+            {
+                ul: faq.response.split('\n')
             }]);
 
 
@@ -112,109 +127,39 @@ Object.keys(input).forEach(key => {
 
         });
 
+        const title = faqs[0]['topic'];
+
+        const topicsPage = json2md([{
+            text: `---\ntitle: ${title}\n---`
+        },{
+            h1: title
+        },{
+            ul: topicsContent
+        }])
+
+        fs.writeFile(`${topicFolder}/README.md`, topicsPage, err => {
+            console.error(err)
+            return;
+        });
+
     });
 
-    fs.writeFile(`${categoryFolder}/README.md`, categoryList, err => {
+    const categoryPage = json2md([
+        {
+            text: `---\ntitle: ${key.toUpperCase().replace('-',' ')}\nsearch: false\n---`
+        },
+        {
+            h1: key.toUpperCase().replace('-',' ')
+        },
+        {
+            ul: categoryList
+        }
+    ]);
+
+    fs.writeFile(`${categoryFolder}/README.md`, categoryPage, err => {
         console.log(err);
         return;
     });
-    // create topic folder per category
-    // create faq file
+
 
 });
-
-// const byTopic = {};
-
-// Object.keys(categories).forEach(key => {
-//     const topic = categories[key]
-
-//     byTopic[topic] = topic.reduce((byTopic, faq) => {
-//         const topicGroup = genSlug(faq.topic);
-//         byTopic[topicGroup] = byTopic[topicGroup] || [];
-//         byTopic[topicGroup].push(faq);
-//         return byTopic;
-//     }, {});
-// });
-
-// console.log(byTopic);
-
-// const groupFaqs = _.groupBy(faqs, function(item) {
-//     console.log(item);
-// });
-
-// console.log(groupFaqs)
-
-/*
-// /**
-//  * Iterate over the topics
-//  * Generate folder for each topic
-//  * Create a topic README.md
-//  * Create the individual md files
-//  */
-// Object.keys(faqsReduced).forEach((key) => {
-//     // generate name for the folder
-//     const folderPath = `${rootPath}${basePath}/${key}`;
-
-//     // if folder does not exist, create it
-//     if (!fs.existsSync(folderPath)) {
-//         fs.mkdirSync(folderPath);
-//     }
-
-//     // create the README file to contain the links
-
-//     const links = faqsReduced[key].map(faq => {
-//         return {
-//             link: {
-//                 title: faq.question,
-//                 source: `${basePath}/${key}` + '/' + shorten(slugify(faq.question, { lower: true }))
-//             }
-//         }
-//     });
-
-//     const docs = json2md([{
-//         text: '---\ntitle: ' + faqsReduced[key][0]['topic'] +'\nsearch: false\n---'
-//     },{
-//         h2: faqsReduced[key][0]['topic']
-//     },{
-//         ul: links
-//     }]);
-
-//     const output = `${folderPath}/README.md`
-
-//     fs.writeFile(output, docs, (err) => {
-//         if (err) {
-//             console.error(err)
-//             return;
-//         }
-//     });
-
-//     /**
-//      * Generate md files for each item in the json
-//      */
-//     faqsReduced[key].forEach(faq => {
-//         const responses = faq.response.split('\n')
-//         const frontmatter = '---\ntitle: ' + faq.question.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, '') + '\n---'
-
-//         const docs = json2md([
-//             {
-//                 text: frontmatter
-//             },
-//             {
-//                 h2: faq.topic
-//             },{
-//                 h1: faq.question
-//             },{
-//                 ul: responses
-//             }]);
-
-//         const output = folderPath + '/' + shorten(slugify(faq.question, { lower: true })) + '.md'
-
-//         fs.writeFile(output, docs, (err) => {
-//             if (err) {
-//                 console.error(err)
-//                 return;
-//             }
-//         });
-//     });
-// });
-// */
