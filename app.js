@@ -3,6 +3,16 @@ const faqs = require('./faqs_with_tags.json');
 const fs = require('fs');
 const slugify = require('slugify');
 
+const rootPath = './src';
+const baseFolderPath = slugify('FY 2022 Plan and Budget', {
+    lower: true,
+});
+const basePath = `/${baseFolderPath}`;
+
+if (!fs.existsSync(rootPath + basePath)) {
+    fs.mkdirSync(rootPath + basePath);
+}
+
 function shorten(text) {
     return text.substr(0, 100)
 }
@@ -11,55 +21,9 @@ json2md.converters.text = function(string, json2md) {
     return string;
 }
 
-faqs.forEach(faq => {
-    const responses = faq.response.split('\n')
-    const frontmatter = '--- \n title: ' + faq.question + '\n ---'
-
-    const docs = json2md([
-    {
-        text: frontmatter
-    },
-    //     {
-    //     text: '---'
-    // },{
-    //     text: 'title: ' + faq.question
-    // },{
-    //     text: 'tags'
-    // },{
-    //     ul: faq.tags
-    // },{
-    //     text: '---'
-    // },
-        {
-        h2: faq.topic
-    },{
-        h1: faq.question
-    },{
-        ul: responses
-    }]);
-
-    const folder = shorten(slugify(faq.topic, {
-        lower: true,
-        strict: true,
-        trim: true
-    }));
-
-    const dir = './src/' + folder;
-
-    if (!fs.existsSync(dir)) {
-        fs.mkdirSync(dir);
-    }
-
-    const output = './src/' + folder + '/' + shorten(slugify(faq.question, { lower: true })) + '.md'
-
-    fs.writeFile(output, docs, (err) => {
-      if (err) {
-        console.error(err)
-        return;
-      }
-    });
-});
-
+/**
+ * Generate README.md for each topic
+ */
 const faqsReduced = faqs.reduce((topic, faq) => {
     const key = shorten(slugify(faq.topic, {
         lower: true
@@ -69,37 +33,41 @@ const faqsReduced = faqs.reduce((topic, faq) => {
     return topic
 }, {});
 
+/**
+ * Iterate over the topics
+ * Generate folder for each topic
+ * Create a topic README.md
+ * Create the individual md files
+ */
 Object.keys(faqsReduced).forEach((key) => {
-    const folder = shorten(slugify(key, {
-        lower: true,
-        strict: true,
-        trim: true
-    }));
+    // generate name for the folder
+    const folderPath = `${rootPath}${basePath}/${key}`;
+
+    // if folder does not exist, create it
+    if (!fs.existsSync(folderPath)) {
+        fs.mkdirSync(folderPath);
+    }
+
+    // create the README file to contain the links
 
     const links = faqsReduced[key].map(faq => {
         return {
             link: {
                 title: faq.question,
-                source: '/' + folder + '/' + shorten(slugify(faq.question, { lower: true }))
+                source: `${basePath}/${key}` + '/' + shorten(slugify(faq.question, { lower: true }))
             }
         }
-    })
-
-    console.log(links)
+    });
 
     const docs = json2md([{
+        text: '---\ntitle: ' + faqsReduced[key][0]['topic'] +'\nsearch: false\n---'
+    },{
         h2: faqsReduced[key][0]['topic']
     },{
         ul: links
-    }])
+    }]);
 
-    const dir = './src/' + folder;
-
-    if (!fs.existsSync(dir)){
-        fs.mkdirSync(dir);
-    }
-
-    const output = './src/' + folder + '/README.md'
+    const output = `${folderPath}/README.md`
 
     fs.writeFile(output, docs, (err) => {
         if (err) {
@@ -107,65 +75,33 @@ Object.keys(faqsReduced).forEach((key) => {
             return;
         }
     });
+
+    /**
+     * Generate md files for each item in the json
+     */
+    faqsReduced[key].forEach(faq => {
+        const responses = faq.response.split('\n')
+        const frontmatter = '---\ntitle: ' + faq.question.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, '') + '\n---'
+
+        const docs = json2md([
+            {
+                text: frontmatter
+            },
+            {
+                h2: faq.topic
+            },{
+                h1: faq.question
+            },{
+                ul: responses
+            }]);
+
+        const output = folderPath + '/' + shorten(slugify(faq.question, { lower: true })) + '.md'
+
+        fs.writeFile(output, docs, (err) => {
+            if (err) {
+                console.error(err)
+                return;
+            }
+        });
+    });
 });
-
-const topics = []
-
-Object.keys(faqsReduced).forEach(key => {
-    topics.push({ link: {
-        title: faqsReduced[key][0]['topic'],
-            source: '/' + shorten(slugify(key, {
-            lower: true,
-            strict: true,
-            trim: true
-        }))
-    }});
-});
-
-const indexPage = json2md([
-    {
-        h1: 'Frequently Asked Questions'
-    },
-    {
-        ul: topics
-    }
-]);
-
-// write README.md
-fs.writeFile('./src/README.md', indexPage, (err) => {
-    if (err) {
-        console.error(err)
-        return;
-    }
-});
-
-const sidebar = [];
-
-Object.keys(faqsReduced).forEach((key) => {
-    const faqs = faqsReduced[key];
-    const title = faqs[0]['topic'];
-    const path = '/' + shorten(slugify(title, {
-        lower: true,
-        strict: true,
-        trim: true
-    })) + '/'
-
-    sidebar.push({
-        title: title,
-        path: path,
-        children: [
-            // faqs.map(faq => {
-            //     return [shorten(slugify(faq.question, {
-            //         lower: true,
-            //         strict: true,
-            //         trim: true
-            //     }))]
-            // })
-        ]
-    })
-});
-
-fs.writeFile('./src/.vuepress/sidebar.json', JSON.stringify(sidebar), (err) => {
-    console.error(err);
-    return;
-})

@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "authors": {
-    "name": "",
-    "email": ""
+    "name": "Mark Lester Bolotaolo",
+    "email": "mlab817@gmail.com"
   },
   "repository": "mlab817/faqs",
   "scripts": {
-    "dev": "vuepress nav src && vuepress dev src",
-    "build": "vuepress nav src && vuepress build src"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
@@ -19,9 +19,11 @@
     "slugify": "^1.6.0",
     "vuepress": "^1.5.3",
     "vuepress-plugin-auto-sidebar": "^2.3.2",
-    "vuepress-plugin-flexsearch": "^0.2.0"
+    "vuepress-plugin-flexsearch": "^0.2.0",
+    "vuepress-theme-book": "^0.0.6"
   },
   "dependencies": {
-    "firebase": "^9.0.1"
+    "firebase": "^9.0.1",
+    "lodash": "^4.17.21"
   }
 }
