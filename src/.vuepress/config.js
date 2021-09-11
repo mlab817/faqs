@@ -12,7 +12,7 @@ const sidebarConf = require('./nav')
 // console.log(sidebar)
 
 module.exports = {
-  theme: 'craftdocs',
+  theme: 'yuu',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */

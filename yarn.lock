@@ -8393,6 +8393,11 @@ vue-announcer@^1.0.2:
   resolved "https://registry.yarnpkg.com/vue-announcer/-/vue-announcer-1.0.6.tgz#550322b6a386681b95f39449f213041903061804"
   integrity sha512-lqHZTORhFrNlL5w3c+S8Y5yWNgwvQCaNpAOJvTNtYA7HK8BL6YWvq0RhG+DaMWwRp7BxpFNe9Yv2P9Vmsb/KnA==
 
+vue-click-outside@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/vue-click-outside/-/vue-click-outside-1.1.0.tgz#48b7680b518923e701643cccb3e165854aad99eb"
+  integrity sha512-pNyvAA9mRXJwPHlHJyjMb4IONSc7khS5lxGcMyE2EIKgNMAO279PWM9Hyq0d5J4FkiSRdmFLwnbjDd5UtPizHQ==
+
 vue-disqus@^3.0.4:
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/vue-disqus/-/vue-disqus-3.0.5.tgz#8d0dd5cabdba7c47f82d129d2907a64366842fa8"
@@ -8538,6 +8543,13 @@ vuepress-theme-ktquez@^0.2.18:
     vue-announcer "^1.0.2"
     vue-disqus "^3.0.4"
     vue-global-events "^1.0.3"
+
+vuepress-theme-yuu@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-yuu/-/vuepress-theme-yuu-3.1.1.tgz#3beecfe51dbd91bd6c45fa3f865b091610e77931"
+  integrity sha512-eUb0jhyqoeaLS7edATgoNoBFWxO7YTzJ5eRt1swdMyF+qps3fm8bbDX3TkN8O5/zb4QcRktzPKWR5Doi6Wedaw==
+  dependencies:
+    vue-click-outside "^1.1.0"
 
 vuepress@^1.5.3:
   version "1.8.2"

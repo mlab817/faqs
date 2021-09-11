@@ -4,12 +4,13 @@ const fs = require('fs');
 const slugify = require('slugify');
 
 const rootPath = './src';
-const baseFolderPath = slugify('2022', {
-    lower: true,
-});
-const baseUrl = '/2022';
+// const baseFolderPath = slugify('2022', {
+//     lower: true,
+// });
+const baseFolderPath = '';
+const baseUrl = '';
 
-const basePath = `${rootPath}/${baseFolderPath}`;
+const basePath = `${rootPath}`;
 
 if (!fs.existsSync(basePath)) {
     fs.mkdirSync(basePath);
@@ -160,19 +161,17 @@ Object.keys(input).forEach(key => {
 
 const categoryReadmeFile = basePath + '/README.md';
 
-if (! fs.existsSync(categoryReadmeFile)) {
-    // generate README files only for index, category, and topics
-    const categoryReadme = json2md([
-    {
-        h1: 'Categories'
-    },
-    {
-        ul: categoryLinks
-    }])
+// generate README files only for index, category, and topics
+const categoryReadme = json2md([
+{
+    h1: 'Categories'
+},
+{
+    ul: categoryLinks
+}])
 
-    fs.writeFile(categoryReadmeFile, categoryReadme, () => {
-        console.log('done with basePath readme');
-        return;
-    });
-}
+fs.writeFile(categoryReadmeFile, categoryReadme, () => {
+    console.log('done with basePath readme');
+    return;
+});
     
