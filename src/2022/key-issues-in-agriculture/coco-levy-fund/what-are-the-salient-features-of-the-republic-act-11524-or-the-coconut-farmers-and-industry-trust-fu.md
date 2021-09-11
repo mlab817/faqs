@@ -7,10 +7,10 @@ sidebarDepth: 2
 
 
  - Beneficiaries of the Coconut Farmers and Industry Trust Fund Act are:
- - Owners of coconut farm that is not more than 5 ha who till the land (owner-cultivator);
- - Owners of coconut farm that is not more than 5 ha who does not till the land but has control and supervision over the cultivation of the coconut farm which is not more than 5 ha;
- - Leaseholder with not more than 5 ha or tenant who tills or supervises the cultivation of the coconut farm; and
- - A farm worker or laborer, whether seasonal or itinerant, engaged in the harvesting of the nuts and processing of copra as means of livelihood.
+     - Owners of coconut farm that is not more than 5 ha who till the land (owner-cultivator);
+     - Owners of coconut farm that is not more than 5 ha who does not till the land but has control and supervision over the cultivation of the coconut farm which is not more than 5 ha;
+     - Leaseholder with not more than 5 ha or tenant who tills or supervises the cultivation of the coconut farm; and
+     - A farm worker or laborer, whether seasonal or itinerant, engaged in the harvesting of the nuts and processing of copra as means of livelihood.
  - Formulation of the Coconut Farmers and Industry Development Plan (CFIDP) to be approved by the President.
  - Programs related to planting, replanting, fertilization, research and development, market promotion, farm-to-market roads in coconut-producing provinces shall also be funded through regular appropriations of PCA.
  - Within 120 days upon effectivity, the PCA Governing Board shall enter into a Memorandum of Agreement (MOA) with the DOST-PCARRD, TESDA, ATI, NDA, PhilMech, CDA, LBP, DBP, CHED, DTI, and DPWH to ensure a coordinated implementation of programs under the development plan, proper utilization of the allocations and submission of periodic accomplishment report of these agencies to the PCA Board.
