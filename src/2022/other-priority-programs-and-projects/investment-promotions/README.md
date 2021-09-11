@@ -1,11 +1,11 @@
 ---
-title: Investment Promotions
+description: Topics README
 ---
 
-# Investment Promotions
+# INVESTMENT PROMOTIONS
 
 
- - [What are the priority investment projects of the Department that are being pushed for promotion?](/other-priority-programs-and-projects/investment-promotions/what-are-the-priority-investment-projects-of-the-department-that-are-being-pushed-for-promotion)
+ - [What are the priority investment projects of the Department that are being pushed for promotion?](/2022/other-priority-programs-and-projects/investment-promotions/what-are-the-priority-investment-projects-of-the-department-that-are-being-pushed-for-promotion.html)
     
- - [Why is impact assessment of trade promotion necessary?](/other-priority-programs-and-projects/investment-promotions/why-is-impact-assessment-of-trade-promotion-necessary)
+ - [Why is impact assessment of trade promotion necessary?](/2022/other-priority-programs-and-projects/investment-promotions/why-is-impact-assessment-of-trade-promotion-necessary.html)
     

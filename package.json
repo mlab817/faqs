@@ -20,7 +20,9 @@
     "vuepress": "^1.5.3",
     "vuepress-plugin-auto-sidebar": "^2.3.2",
     "vuepress-plugin-flexsearch": "^0.2.0",
-    "vuepress-theme-book": "^0.0.6"
+    "vuepress-theme-book": "^0.0.6",
+    "vuepress-theme-craftdocs": "^2.0.9",
+    "vuepress-theme-ktquez": "^0.2.18"
   },
   "dependencies": {
     "firebase": "^9.0.1",

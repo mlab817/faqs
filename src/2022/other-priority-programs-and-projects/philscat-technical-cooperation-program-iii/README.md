@@ -1,13 +1,13 @@
 ---
-title: PHILSCAT-Technical Cooperation Program III
+description: Topics README
 ---
 
-# PHILSCAT-Technical Cooperation Program III
+# PHILSCAT TECHNICAL COOPERATION PROGRAM III
 
 
- - [How does PhilSCAT differ from PhilRice?](/other-priority-programs-and-projects/philscat-technical-cooperation-program-iii/how-does-philscat-differ-from-philrice)
+ - [How does PhilSCAT differ from PhilRice?](/2022/other-priority-programs-and-projects/philscat-technical-cooperation-program-iii/how-does-philscat-differ-from-philrice.html)
     
- - [How does PhilSCAT differ from PhilMech?](/other-priority-programs-and-projects/philscat-technical-cooperation-program-iii/how-does-philscat-differ-from-philmech)
+ - [How does PhilSCAT differ from PhilMech?](/2022/other-priority-programs-and-projects/philscat-technical-cooperation-program-iii/how-does-philscat-differ-from-philmech.html)
     
- - [What are the notable milestones of the center for TCPIII?](/other-priority-programs-and-projects/philscat-technical-cooperation-program-iii/what-are-the-notable-milestones-of-the-center-for-tcpiii)
+ - [What are the notable milestones of the center for TCPIII?](/2022/other-priority-programs-and-projects/philscat-technical-cooperation-program-iii/what-are-the-notable-milestones-of-the-center-for-tcpiii.html)
     

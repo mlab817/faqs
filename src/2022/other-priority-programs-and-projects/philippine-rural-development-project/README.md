@@ -1,13 +1,13 @@
 ---
-title: Philippine Rural Development Project
+description: Topics README
 ---
 
-# Philippine Rural Development Project
+# PHILIPPINE RURAL DEVELOPMENT PROJECT
 
 
- - [What is the physical and financial status of PRDP (as of June 2021)?](/other-priority-programs-and-projects/philippine-rural-development-project/what-is-the-physical-and-financial-status-of-prdp-as-of-june-2021)
+ - [What is the physical and financial status of PRDP (as of June 2021)?](/2022/other-priority-programs-and-projects/philippine-rural-development-project/what-is-the-physical-and-financial-status-of-prdp-as-of-june-2021.html)
     
- - [What is PRDP’s second additional financing with E.U. Co-Financing Grant (AF2-EU)?](/other-priority-programs-and-projects/philippine-rural-development-project/what-is-prdps-second-additional-financing-with-eu-co-financing-grant-af2-eu)
+ - [What is PRDP’s second additional financing with E.U. Co-Financing Grant (AF2-EU)?](/2022/other-priority-programs-and-projects/philippine-rural-development-project/what-is-prdps-second-additional-financing-with-eu-co-financing-grant-af2-eu.html)
     
- - [How does PRDP assist enterprises in moving towards the “New Normal”?](/other-priority-programs-and-projects/philippine-rural-development-project/how-does-prdp-assist-enterprises-in-moving-towards-the-new-normal)
+ - [How does PRDP assist enterprises in moving towards the “New Normal”?](/2022/other-priority-programs-and-projects/philippine-rural-development-project/how-does-prdp-assist-enterprises-in-moving-towards-the-new-normal.html)
     

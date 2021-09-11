@@ -1,11 +1,11 @@
 ---
-title: Bureau of Agricultural Research
+description: Topics README
 ---
 
-# Bureau of Agricultural Research
+# BUREAU OF AGRICULTURAL RESEARCH
 
 
- - [What adjustments has DA-BAR implemented in delivering R&D-related services under the New Normal?](/bureaus/bureau-of-agricultural-research/what-adjustments-has-da-bar-implemented-in-delivering-randd-related-services-under-the-new-normal)
+ - [What adjustments has DA-BAR implemented in delivering R&D-related services under the New Normal?](/2022/bureaus/bureau-of-agricultural-research/what-adjustments-has-da-bar-implemented-in-delivering-randd-related-services-under-the-new-normal.html)
     
- - [How does DA-BAR address the issue of research duplication with PCAARRD?](/bureaus/bureau-of-agricultural-research/how-does-da-bar-address-the-issue-of-research-duplication-with-pcaarrd)
+ - [How does DA-BAR address the issue of research duplication with PCAARRD?](/2022/bureaus/bureau-of-agricultural-research/how-does-da-bar-address-the-issue-of-research-duplication-with-pcaarrd.html)
     

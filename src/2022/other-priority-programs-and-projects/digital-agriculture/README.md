@@ -1,11 +1,11 @@
 ---
-title: Digital Agriculture
+description: Topics README
 ---
 
-# Digital Agriculture
+# DIGITAL AGRICULTURE
 
 
- - [What is Digital Agriculture?](/other-priority-programs-and-projects/digital-agriculture/what-is-digital-agriculture)
+ - [What is Digital Agriculture?](/2022/other-priority-programs-and-projects/digital-agriculture/what-is-digital-agriculture.html)
     
- - [What are the priority programs in to digital agriculture?](/other-priority-programs-and-projects/digital-agriculture/what-are-the-priority-programs-in-to-digital-agriculture)
+ - [What are the priority programs in to digital agriculture?](/2022/other-priority-programs-and-projects/digital-agriculture/what-are-the-priority-programs-in-to-digital-agriculture.html)
     

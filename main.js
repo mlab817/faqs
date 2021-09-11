@@ -7,6 +7,7 @@ const rootPath = './src';
 const baseFolderPath = slugify('2022', {
     lower: true,
 });
+const baseUrl = '/2022';
 
 const basePath = `${rootPath}/${baseFolderPath}`;
 
@@ -67,99 +68,111 @@ if (! fs.existsSync('./groupedByTopics.json')) {
 
 const input = require('./groupedByTopics.json');
 
-Object.keys(input).forEach(key => {
-    // create category folder and readme for folder
-    const categoryFolder = `${basePath}/${key}`;
+// create category links for base index in src/2022/README.md
+const categoryLinks = [];
 
+Object.keys(input).forEach(key => {
+    // create category folder
+    const categoryFolder = basePath + '/' + key;
+
+    categoryLinks.push({
+        link: {
+            title: key.toUpperCase().replace(/-/g, ' '),
+            source: baseUrl + '/' + key
+        }
+    })
+
+    // if the folder does not exist, create it
     if (! fs.existsSync(categoryFolder)) {
         fs.mkdirSync(categoryFolder);
     }
 
-    const categoryList = []
-
-    const topics = input[key];
+    // iterate over topics and create topic Folder
+    const topics = input[key],
+        categoryContents = [];
 
     Object.keys(topics).forEach(key => {
+        console.log('topicsKey: ', key)
 
-        const topicFolder = `${categoryFolder}/${key}`;
+        // next is topic folder
+        const topicFolder = categoryFolder + '/' + key;
 
-        categoryList.push({
+        
+
+        const topicTitle = key.toUpperCase().replace(/-/g, ' ');
+
+        categoryContents.push({
             link: {
-                title: key.toUpperCase().replace('-',' '),
-                source: topicFolder.replace('./src')
+                title: key.toUpperCase().replace(/-/g, ' '), 
+                source: topicFolder.replace('./src','')
             }
-        });
+        })
 
-        if (! fs.existsSync(topicFolder)) {
+        const questionsList = [];
+
+        const questions = topics[key]
+
+        questions.forEach(q => {
+            console.log('q: ', q.question)
+            questionsList.push({
+                link: {
+                    title: q.question,
+                    source: (topicFolder + '/' + genSlug(q.question) + '.html').replace('./src', '')
+                }
+            })
+        })
+
+        if (!fs.existsSync(topicFolder)) {
             fs.mkdirSync(topicFolder);
         }
 
-        const faqs = topics[key];
+        // generate readme
+        const output = topicFolder + '/' + 'README.md';
 
-        const topicsContent = []
-        
-        faqs.forEach(faq => {
-            console.log(topicFolder);
-            
-            topicsContent.push({
-                link: {
-                    title: faq.question,
-                    source: `${topicFolder}/${genSlug(faq.question)}`.replace('./src/2022','')
-                }
-            })
-
-            const faqDoc = json2md([
-            {
-                text: `---\ntitle: ${removePuncs(faq.question)}\nsidebarDepth: 2\n---`
-            },
-            {
-                h1: faq.question
-            },
-            {
-                ul: faq.response.split('\n')
-            }]);
-
-
-            fs.writeFile(`${topicFolder}/${faq.slug}.md`, faqDoc, err => {
-                console.error(err);
-                return;
-            })
-
-        });
-
-        const title = faqs[0]['topic'];
-
-        const topicsPage = json2md([{
-            text: `---\ntitle: ${title}\n---`
+        const topicsReadme = json2md([{
+            text: '---\ndescription: Topics README\n---'
         },{
-            h1: title
+            h1: topicTitle
         },{
-            ul: topicsContent
+            ul: questionsList
         }])
 
-        fs.writeFile(`${topicFolder}/README.md`, topicsPage, err => {
-            console.error(err)
-            return;
-        });
+        fs.writeFile(output, topicsReadme, () => {
+            console.log('done writing topics readme for ', topicTitle , 'in ', output)
+        })
 
     });
 
-    const categoryPage = json2md([
-        {
-            text: `---\ntitle: ${key.toUpperCase().replace('-',' ')}\nsearch: false\n---`
-        },
-        {
-            h1: key.toUpperCase().replace('-',' ')
-        },
-        {
-            ul: categoryList
-        }
-    ]);
+    const categoryTitle = key.toUpperCase().replace(/-/g, ' ');
 
-    fs.writeFile(`${categoryFolder}/README.md`, categoryPage, err => {
-        console.log(err);
+    const categoryFolderReadme = json2md([{
+        text: '---\ntitle: ' + categoryTitle + '\n---'
+    },{
+        h1: categoryTitle
+    },{
+        ul: categoryContents
+    }]);
+
+    fs.writeFile(categoryFolder + '/README.md', categoryFolderReadme, () => {
+        console.log('categoryFolder README', categoryFolder, ' is created')
+    })
+});
+
+const categoryReadmeFile = basePath + '/README.md';
+
+if (! fs.existsSync(categoryReadmeFile)) {
+    // generate README files only for index, category, and topics
+    const categoryReadme = json2md([
+    {
+        h1: 'Categories'
+    },
+    {
+        ul: categoryLinks
+    }])
+
+    fs.writeFile(categoryReadmeFile, categoryReadme, () => {
+        console.log('done with basePath readme');
         return;
     });
-
-
-});
+}
+    

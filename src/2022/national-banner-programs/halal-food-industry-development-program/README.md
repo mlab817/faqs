@@ -1,11 +1,11 @@
 ---
-title: Halal Food Industry Development Program
+description: Topics README
 ---
 
-# Halal Food Industry Development Program
+# HALAL FOOD INDUSTRY DEVELOPMENT PROGRAM
 
 
- - [What are the projects under the Halal Food Industry Development Program (HFIDP)?](/national-banner-programs/halal-food-industry-development-program/what-are-the-projects-under-the-halal-food-industry-development-program-hfidp)
+ - [What are the projects under the Halal Food Industry Development Program (HFIDP)?](/2022/national-banner-programs/halal-food-industry-development-program/what-are-the-projects-under-the-halal-food-industry-development-program-hfidp.html)
     
- - [What is the participation of the program in Halal Accreditation and Certification in the Philippines?](/national-banner-programs/halal-food-industry-development-program/what-is-the-participation-of-the-program-in-halal-accreditation-and-certification-in-the-philippines)
+ - [What is the participation of the program in Halal Accreditation and Certification in the Philippines?](/2022/national-banner-programs/halal-food-industry-development-program/what-is-the-participation-of-the-program-in-halal-accreditation-and-certification-in-the-philippines.html)
     
