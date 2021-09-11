@@ -6,21 +6,21 @@ search: false
 # ATTACHED AGENCIES
 
 
- - [AGRICULTURAL CREDIT-POLICY-COUNCIL](undefined/2022/attached-agencies/agricultural-credit-policy-council)
+ - [AGRICULTURAL CREDIT-POLICY-COUNCIL](/agricultural-credit-policy-council)
     
- - [FERTILIZER AND-PESTICIDE-AUTHORITY](undefined/2022/attached-agencies/fertilizer-and-pesticide-authority)
+ - [FERTILIZER AND-PESTICIDE-AUTHORITY](/fertilizer-and-pesticide-authority)
     
- - [NATIONAL FISHERIES-RESEARCH-AND-DEVELOPMENT-INSTITUTE](undefined/2022/attached-agencies/national-fisheries-research-and-development-institute)
+ - [NATIONAL FISHERIES-RESEARCH-AND-DEVELOPMENT-INSTITUTE](/national-fisheries-research-and-development-institute)
     
- - [NATIONAL MEAT-INSPECTION-SERVICE](undefined/2022/attached-agencies/national-meat-inspection-service)
+ - [NATIONAL MEAT-INSPECTION-SERVICE](/national-meat-inspection-service)
     
- - [PHILIPPINE CARABAO-CENTER](undefined/2022/attached-agencies/philippine-carabao-center)
+ - [PHILIPPINE CARABAO-CENTER](/philippine-carabao-center)
     
- - [PHILIPPINE FIBER-INDUSTRY-DEVELOPMENT-AUTHORITY](undefined/2022/attached-agencies/philippine-fiber-industry-development-authority)
+ - [PHILIPPINE FIBER-INDUSTRY-DEVELOPMENT-AUTHORITY](/philippine-fiber-industry-development-authority)
     
- - [PHILIPPINE CENTER-FOR-POSTHARVEST-DEVELOPMENT-AND-MECHANIZATION](undefined/2022/attached-agencies/philippine-center-for-postharvest-development-and-mechanization)
+ - [PHILIPPINE CENTER-FOR-POSTHARVEST-DEVELOPMENT-AND-MECHANIZATION](/philippine-center-for-postharvest-development-and-mechanization)
     
- - [PHILIPPINE COUNCIL-FOR-AGRICULTURE-AND-FISHERIES](undefined/2022/attached-agencies/philippine-council-for-agriculture-and-fisheries)
+ - [PHILIPPINE COUNCIL-FOR-AGRICULTURE-AND-FISHERIES](/philippine-council-for-agriculture-and-fisheries)
     
- - [BUREAU OF-FISHERIES-AND-AQUATIC-RESOURCES](undefined/2022/attached-agencies/bureau-of-fisheries-and-aquatic-resources)
+ - [BUREAU OF-FISHERIES-AND-AQUATIC-RESOURCES](/bureau-of-fisheries-and-aquatic-resources)
     
