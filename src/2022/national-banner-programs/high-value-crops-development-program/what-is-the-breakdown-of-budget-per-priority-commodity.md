@@ -7,7 +7,7 @@ sidebarDepth: 2
 
 
 | Commodity 			| % share in total budget |
-| --------------------- | ----------------------- |
+| --------------------- | :-----------------------: |
 | Lowland Vegetables 	| 35.65%					
 | Cacao 				| 6.69%
 | Coffee 				| 5.80%
