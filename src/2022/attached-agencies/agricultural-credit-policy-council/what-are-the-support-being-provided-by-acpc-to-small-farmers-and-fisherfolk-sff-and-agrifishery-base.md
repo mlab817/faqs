@@ -9,9 +9,9 @@ sidebarDepth: 2
  - Implementation of accessible and affordable credit programs.
  - Simplifying the credit requirements and process.
  - Implementation of other credit support services such as:
- - Moratorium on repayment of loans under SURE programs;
- - Implementation of capacity building interventions;
- - Conduct of virtual program orientation, and other policy advocacy activities;
- - Developing an electronic depository of ACPC Credit Program information;
- - Regular meeting with DA-RFOs and PLCs; and
- - Up-to-date online reporting of accomplishments through infographics.
+     - Moratorium on repayment of loans under SURE programs;
+     - Implementation of capacity building interventions;
+     - Conduct of virtual program orientation, and other policy advocacy activities;
+     - Developing an electronic depository of ACPC Credit Program information;
+     - Regular meeting with DA-RFOs and PLCs; and
+     - Up-to-date online reporting of accomplishments through infographics.
