@@ -6,19 +6,19 @@ search: false
 # ATTACHED CORPORATIONS
 
 
- - [NATIONAL DAIRY-AUTHORITY](undefined/2022/attached-corporations/national-dairy-authority)
+ - [NATIONAL DAIRY-AUTHORITY](/2022/attached-corporations/national-dairy-authority.html)
     
- - [NATIONAL FOOD-AUTHORITY](undefined/2022/attached-corporations/national-food-authority)
+ - [NATIONAL FOOD-AUTHORITY](/2022/attached-corporations/national-food-authority.html)
     
- - [NATIONAL TOBACCO-ADMINISTRATION](undefined/2022/attached-corporations/national-tobacco-administration)
+ - [NATIONAL TOBACCO-ADMINISTRATION](/2022/attached-corporations/national-tobacco-administration.html)
     
- - [PHILIPPINE COCONUT-AUTHORITY](undefined/2022/attached-corporations/philippine-coconut-authority)
+ - [PHILIPPINE COCONUT-AUTHORITY](/2022/attached-corporations/philippine-coconut-authority.html)
     
- - [PHILIPPINE CROP-INSURANCE-CORPORATION](undefined/2022/attached-corporations/philippine-crop-insurance-corporation)
+ - [PHILIPPINE CROP-INSURANCE-CORPORATION](/2022/attached-corporations/philippine-crop-insurance-corporation.html)
     
- - [PHILIPPINE FISHERIES-DEVELOPMENT-AUTHORITY](undefined/2022/attached-corporations/philippine-fisheries-development-authority)
+ - [PHILIPPINE FISHERIES-DEVELOPMENT-AUTHORITY](/2022/attached-corporations/philippine-fisheries-development-authority.html)
     
- - [PHILIPPINE RICE-RESEARCH-INSTITUTE](undefined/2022/attached-corporations/philippine-rice-research-institute)
+ - [PHILIPPINE RICE-RESEARCH-INSTITUTE](/2022/attached-corporations/philippine-rice-research-institute.html)
     
- - [SUGAR REGULATORY-ADMINISTRATION](undefined/2022/attached-corporations/sugar-regulatory-administration)
+ - [SUGAR REGULATORY-ADMINISTRATION](/2022/attached-corporations/sugar-regulatory-administration.html)
     
