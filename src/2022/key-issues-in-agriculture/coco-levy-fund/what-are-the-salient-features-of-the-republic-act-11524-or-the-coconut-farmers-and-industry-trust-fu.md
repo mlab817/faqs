@@ -19,9 +19,9 @@ sidebarDepth: 2
  - Reconstitution and strengthening of PCA Board to ensure the participation of coconut farmers in the crafting and implementation of the CFIDP. The composition of the PCA Board is amended as follows: DA as the Chairperson, DOF as the Vice Chairperson and DBM, DOST, DTI, PCA, and three (3) representatives from the coconut farmers sector (one from each island group) as members. The PCA Board exercises all the corporate powers and responsibilities of PCA and is responsible in providing guidance on policy and major decisions of PCA.
  - Creation of a Trust Fund Management Committee comprising of authorized representatives from DOF, DBM, and DOJ to be responsible for setting the Investment Strategy of the Trust Fund. The Bureau of Treasury (BTr) shall act as the Secretariat and shall maintain records and accounts of all investments, receipts, disbursements and other transactions related to the Trust Fund. 
  - Immediately upon the enactment of this Act, the BTr shall transfer P10B Pesos to the Trust Fund, and for the succeeding years, according to the following schedule:
- - Second year: PhP 10,000,000,000.00;
- - Third year: PhP 15,000,000,000.00;
- - Fourth year: PhP 15,000,000,000.00;
- - Fifth year: PhP 25,000,000,000.00; and 
- - Any amount accruing, including interest in the special account in the general fund to the Trust Fund.
+     - Second year: PhP 10,000,000,000.00;
+     - Third year: PhP 15,000,000,000.00;
+     - Fourth year: PhP 15,000,000,000.00;
+     - Fifth year: PhP 25,000,000,000.00; and 
+     - Any amount accruing, including interest in the special account in the general fund to the Trust Fund.
  - Any amount of the Trust Fund Income shall be released directly to the implementing agencies, which shall be utilized in accordance with the Development Plan for a period of fifty (50) years: provided that the amount shall not be lower than PhP 5,000,000,000.00 for any given year.
