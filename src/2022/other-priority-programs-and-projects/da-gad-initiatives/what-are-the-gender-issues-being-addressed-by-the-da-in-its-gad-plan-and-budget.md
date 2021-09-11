@@ -7,7 +7,7 @@ sidebarDepth: 2
 
 
  - On Client-focused GAD Activities:
- - Lack or limited access of women farmers/fisherfolk/agri-fishery workers/Women Micro-Entrepreneurs (WMEs) to productive resources for increased production and income; and
- - Lack or limited economic opportunities for women engaged in agri-fishery activities.
+   - Lack or limited access of women farmers/fisherfolk/agri-fishery workers/Women Micro-Entrepreneurs (WMEs) to productive resources for increased production and income; and
+   - Lack or limited economic opportunities for women engaged in agri-fishery activities.
  - On Organization-focused GAD Activities:
- - Limited institutional capacities in planning, implementing, monitoring and evaluation of gender responsive Programs, Activities and Projects (PAPs).
+   - Limited institutional capacities in planning, implementing, monitoring and evaluation of gender responsive Programs, Activities and Projects (PAPs).

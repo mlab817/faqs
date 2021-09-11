@@ -7,9 +7,9 @@ sidebarDepth: 2
 
 
  - The subsidy can cover: 
- - Amount cover (PhP M): 78,688.311;
- - Area cover (crops): 2,140,000 ha;
- - No. of farmers & fisherfolks: 2,291,897 pax;
- - Livestock: 2,766,917 head; and
- - No. of Policies: 25,394.
+   - Amount cover (PhP M): 78,688.311;
+   - Area cover (crops): 2,140,000 ha;
+   - No. of farmers & fisherfolks: 2,291,897 pax;
+   - Livestock: 2,766,917 head; and
+   - No. of Policies: 25,394.
  - The PCIC’s premium subsidy budget for RSBSA insurance program will be distributed proportionally in all regions.
