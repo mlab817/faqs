@@ -1,9 +1,9 @@
 ---
-title: KEY ISSUES-IN-AGRICULTURE
+title: KEY ISSUES IN AGRICULTURE
 search: false
 ---
 
-# KEY ISSUES-IN-AGRICULTURE
+# KEY ISSUES IN AGRICULTURE
 
 
  - [AFRICAN SWINE-FEVER-ASF](/2022/key-issues-in-agriculture/african-swine-fever-asf.html)
