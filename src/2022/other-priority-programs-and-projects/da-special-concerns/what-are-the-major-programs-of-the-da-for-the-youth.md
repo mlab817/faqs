@@ -10,8 +10,8 @@ sidebarDepth: 2
  - Kapital Access for Young Agripreneurs (KAYA) – a loan program implemented by the Agricultural Credit Policy Council (ACPC) that aims to attract young generation farmers and fishers. The program supports start-ups or existing farm/fishery business. It targets qualified “yaggies” (young agripreneurs) 18-30 years old who are engaged in farming/fishing, loans are interest-free (0%).
  - Agricultural Competitiveness Enhancement Fund (ACEF) – Grants-In-Aid For Higher Education Program (GIAHEP) – provides a comprehensive and attractive grants-in-aid program to contribute to the development of agriculture and fisheries by increasing the number of graduates in higher education who are trained in the scientific habit of thought, entrepreneurial skills and technical competencies in the areas of agriculture, forestry, fisheries, veterinary medicine education and related agricultural education programs. 
  - Other Training Programs (ATI):
- - Youth Agripreneurship Trainings;
- - Youth Internship Program in Taiwan;
- - Young Filipino Farmer Leaders Training Program in Japan;
- - 4-H Club Youth Development Program; and
- - Digital Farmers Program.
+   - Youth Agripreneurship Trainings;
+   - Youth Internship Program in Taiwan;
+   - Young Filipino Farmer Leaders Training Program in Japan;
+   - 4-H Club Youth Development Program; and
+   - Digital Farmers Program.
