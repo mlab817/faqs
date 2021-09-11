@@ -48,7 +48,8 @@ module.exports = {
     nav: [],
     navbar: true,
     sidebar: sidebarConf,
-    displayAllHeaders: true
+    displayAllHeaders: true,
+    logo: '/assets/img/logo.svg',
   },
 
   /**
