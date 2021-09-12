@@ -49,7 +49,7 @@ module.exports = {
     navbar: true,
     sidebar: sidebarConf,
     displayAllHeaders: true,
-    logo: '/assets/img/logo.svg',
+    logo: '/img/logo.svg',
   },
 
   /**
